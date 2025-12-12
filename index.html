@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="styles.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+        rel="stylesheet">
+    <title>Document</title>
+</head>
+
+<body>
+    <form id="performance-form" name="performance-form" method="POST" data-netlify="true" netlify-honeypot="bot-field">
+
+        <!-- Hidden field for Netlify -->
+        <input type="hidden" name="form-name" value="performance-form" />
+
+        <!-- Honeypot field for spam protection -->
+        <p style="display: none;">
+            <label>Don't fill this out if you're human: <input name="bot-field" /></label>
+        </p>
+
+        <div class="name-container">
+            <h3>Performer Name</h3>
+            <!-- Your name input -->
+            <input type="text" id="name" name="name" placeholder="Your Name" required />
+        </div>
+
+        <!-- Hidden field to store the JSON data -->
+        <input type="hidden" name="form-data" value="" />
+        <!-- Cards container will be populated here -->
+        <div class="cards"></div>
+
+        <div class="submit-container">
+            <button type="submit" id="submit-btn" class="submit-btn">Submit</button>
+        </div>
+    </form>
+    <script src="script.js"></script>
+</body>
+
+</html>

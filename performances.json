@@ -1,0 +1,11 @@
+[
+    {
+        "name": "John Doe Wedding",
+        "type": "Wedding",
+        "date": "January 7th, 2026",
+        "day": "Monday",
+        "arrive": "6:30 PM",
+        "start": "7:00 PM",
+        "location": "5555 Street St, Chapel Hill, NC"
+    }
+]
