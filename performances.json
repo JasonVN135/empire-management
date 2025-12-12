@@ -1,11 +1,131 @@
 [
     {
-        "name": "John Doe Wedding",
-        "type": "Wedding",
+        "name": "Culturefest Carrboro HS",
+        "type": "School Event",
         "date": "January 7th, 2026",
-        "day": "Monday",
-        "arrive": "6:30 PM",
+        "day": "Wednesday",
         "start": "7:00 PM",
-        "location": "5555 Street St, Chapel Hill, NC"
+        "arrive": "6:30 PM",
+        "location": "201 Rock Haven Rd, Carrboro, NC"
+    },
+    {
+        "name": "Netapp",
+        "type": "Company Event",
+        "date": "January 15th, 2026",
+        "day": "Thursday",
+        "start": "3:00 PM",
+        "arrive": "2:30 PM",
+        "location": "7301 Kit Creek Rd, Durham, NC"
+    },
+    {
+        "name": "VAARs Tet",
+        "type": "Lunar New Years",
+        "date": "January 18th, 2026",
+        "day": "Sunday",
+        "start": "12:00 PM (TBD)",
+        "arrive": "11:00 AM (TBD)",
+        "location": "4285 Trinity Rd, Raleigh, NC"
+    },
+    {
+        "name": "APSA at Elon University",
+        "type": "School Event",
+        "date": "February 6th, 2026",
+        "day": "Friday",
+        "start": "6:30 PM",
+        "arrive": "6:00 PM",
+        "location": "301 E Haggard Ave, Elon, NC",
+        "extra": "~1hr 15min to 1hr 30min Drive"
+    },
+    {
+        "name": "Raleigh Iron Works LNY Market",
+        "type": "Lunar New Years",
+        "date": "February 7th, 2026",
+        "day": "Saturday",
+        "start": "11:30 AM",
+        "arrive": "11:30 PM",
+        "location": "1101 E Whitaker Mill Rd, Raleigh, NC"
+    },
+    {
+        "name": "Fort Bragg",
+        "type": "Lunar New Years",
+        "date": "February 14th, 2026",
+        "day": "Saturday",
+        "start": "5:30 PM",
+        "arrive": "5:00 PM",
+        "location": "29764 Aberdeen Rd, Wagram, VA",
+        "extra": "~1hr 30min Drive"
+    },
+    {
+        "name": "Ceasars Virginia Casino",
+        "type": "Company Event",
+        "date": "February 15th, 2026",
+        "day": "Sunday",
+        "start": "(TBD)",
+        "arrive": "(TBD)",
+        "location": "1100 W Main St, Danville, VA",
+        "extra": "2 Performances, 2 Hr gap between the performances. ~1hr 45min Drive."
+    },
+    {
+        "name": "Metlife",
+        "type": "Company Event",
+        "date": "February 17th, 2026",
+        "day": "Tuesday",
+        "start": "11:30 AM",
+        "arrive": "12:00 PM",
+        "location": "301 Metlife Way, Cary, NC (TBD)"
+    },
+    {
+        "name": "Duke Fuqua School of Business",
+        "type": "School Event",
+        "date": "February 17th, 2026",
+        "day": "Tuesday",
+        "start": "5:00 PM (TBD)",
+        "arrive": "4:30 PM (TBD)",
+        "location": "100 Fuqua Drive, Durham, NC (TBD)"
+    },
+    {
+        "name": "NCSU Veterinary Medicine",
+        "type": "School Event",
+        "date": "February 18th, 2026",
+        "day": "Wednesday",
+        "start": "6:00 PM",
+        "arrive": "5:30 PM",
+        "location": "1060 William Moore Dr, Raleigh, NC (TBD)"
+    },
+    {
+        "name": "Charlotte Latin School",
+        "type": "School Event",
+        "date": "February 19th, 2026",
+        "day": "Thursday",
+        "start": "(TBD)",
+        "arrive": "(TBD)",
+        "location": "9502 Providence Rd, Charlotte, NC"
+    },
+    {
+        "name": "GS Global",
+        "type": "Company Event",
+        "date": "February 26th, 2026",
+        "day": "Thursday",
+        "start": "(TBD)",
+        "arrive": "(TBD)",
+        "location": "9502 Providence Rd, Charlotte, NC"
+    },
+    {
+        "name": "Jecin Wedding",
+        "type": "Wedding",
+        "date": "April 26th, 2026",
+        "day": "Sunday",
+        "start": "(TBD)",
+        "arrive": "(TBD)",
+        "location": "304 Old Jenks Rd, Apex, NC"
+    },
+    {
+        "name": "Nhi Bui Wedding",
+        "type": "Wedding",
+        "date": "October 3rd, 2026",
+        "day": "Saturday",
+        "start": "6:00 PM",
+        "arrive": "5:15 PM",
+        "location": "(TBD)"
     }
 ]

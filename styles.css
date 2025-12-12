@@ -149,7 +149,7 @@ button {
     background-color: var(--color-card);
     border: 2px solid var(--color-border);
     width: 300px;
-    height: 450px;
+    min-height: 450px;
     display: flex;
     flex-direction: column;
 }

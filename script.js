@@ -78,13 +78,16 @@ function _createDetails(data) {
     const detailsElement = document.createElement("div");
     detailsElement.classList = "details";
 
-    const detailTable = [
+    let detailTable = [
         ["Date: ", data.date, "date"],
         ["Day: ", data.day, "day"],
         ["Start: ", data.start, "start"],
         ["Arrive: ", data.arrive, "arrive"],
         ["Address: ", data.location, "location"],
     ]
+    if (data.extra && data.extra != null) {
+        detailTable.push(["Extra: ", data.extra, "extra"])
+    }
 
     for (const [key, value, fieldName] of detailTable) {
         const detailRowElement = document.createElement("div");
@@ -222,6 +225,11 @@ function getFormResults() {
             location: card.querySelector('[data-field="location"]')?.textContent || '',
             availability: null
         };
+
+        const extraField = card.querySelector('[data-field="extra"]');
+        if (extraField && extraField.textContent) {
+            performanceData.extra = extraField.textContent;
+        }
 
         // Get the checked option
         const checkedCheckbox = card.querySelector('input[type="checkbox"]:checked');
