@@ -27,6 +27,15 @@
         "location": "4285 Trinity Rd, Raleigh, NC"
     },
     {
+        "name": "Vivian Neighborhood Party",
+        "type": "Lunar New years",
+        "date": "February ???, 2026",
+        "day": "???",
+        "start": "???",
+        "arrive": "???",
+        "location": "???, Charlotte, NC"
+    },
+    {
         "name": "APSA at Elon University",
         "type": "School Event",
         "date": "February 6th, 2026",
@@ -109,6 +118,15 @@
         "start": "(TBD)",
         "arrive": "(TBD)",
         "location": "9502 Providence Rd, Charlotte, NC"
+    },
+    {
+        "name": "Lisa Huynh Party",
+        "type": "Birthday Party",
+        "date": "April 12th, 2026",
+        "day": "Sunday",
+        "start": "2:00 PM",
+        "arrive": "1:30 PM",
+        "location": "The Cookery, Durham, NC"
     },
     {
         "name": "Jecin Wedding",
