@@ -55,6 +55,15 @@
         "location": "1101 E Whitaker Mill Rd, Raleigh, NC"
     },
     {
+        "name": "S&P Global",
+        "type": "Company Event",
+        "date": "February 11th, 2026",
+        "day": "Thursday",
+        "start": "(TBD)",
+        "arrive": "(TBD)",
+        "location": "421 Fayetteville St, Raleigh, NC"
+    },
+    {
         "name": "Fort Bragg",
         "type": "Lunar New Years",
         "date": "February 14th, 2026",
@@ -105,15 +114,6 @@
         "name": "Charlotte Latin School",
         "type": "School Event",
         "date": "February 19th, 2026",
-        "day": "Thursday",
-        "start": "(TBD)",
-        "arrive": "(TBD)",
-        "location": "9502 Providence Rd, Charlotte, NC"
-    },
-    {
-        "name": "GS Global",
-        "type": "Company Event",
-        "date": "February 26th, 2026",
         "day": "Thursday",
         "start": "(TBD)",
         "arrive": "(TBD)",
