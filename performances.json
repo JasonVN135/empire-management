@@ -111,6 +111,24 @@
         "location": "9502 Providence Rd, Charlotte, NC"
     },
     {
+        "name": "Chesterbrook Academy",
+        "type": "School Event",
+        "date": "February 20th, 2026",
+        "day": "Friday",
+        "start": "(TBD)",
+        "arrive": "(TBD)",
+        "location": "(TBD)"
+    },
+    {
+        "name": "Temple Performance",
+        "type": "Lunar New Years",
+        "date": "February 21st, 2026",
+        "day": "Saturday",
+        "start": "2:00 PM",
+        "arrive": "1:30 PM",
+        "location": "(TBD)"
+    },
+    {
         "name": "GS Global",
         "type": "Company Event",
         "date": "February 26th, 2026",
