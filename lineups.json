@@ -25,6 +25,20 @@
              "Lion 1": ["Connery", "John P"]
         }
     },
+    
+    {
+        "name": "LabCorp",
+        "type": "Company Event",
+        "date": "February 11th, 2026",
+        "day": "Wednesday",
+        "start": "1:30 PM",
+        "arrive": "1:00 PM",
+        "location": "10 Moore Drive, Durham, NC",
+        "performers": {
+             "Band": ["Jason", "Kiki"],
+             "Lion 1": ["Connery", "John P"]
+        }
+    },
     {
         "name": "Caesar Virginia Casino",
         "type": "Company Event",
@@ -63,7 +77,7 @@
         "location": "1060, William Moore, Raleigh, NC (TBD)",
         "performers": {
              "Band": ["Ben", "Kiki"],
-             "Lion 1": ["Connery", "John"]
+             "Lion 1": ["Connery", "John P"]
         }
     },
     {
@@ -76,7 +90,7 @@
         "location": "1101 W Chapel Hill St, Durham, NC",
         "performers": {
              "Band": ["Jason", "Kiki"],
-             "Lion 1": ["Khang", "John"]
+             "Lion 1": ["Khang", "John P"]
         }
     },
     {
@@ -89,7 +103,7 @@
         "location": "Charlotte, NC (TBD)",
         "performers": {
              "Band": ["Jason", "Kiki"],
-             "Lion 1": ["Connery", "John"],
+             "Lion 1": ["Connery", "John P"],
              "Lion 2": ["Khang", "Quynh"]
         }
     }

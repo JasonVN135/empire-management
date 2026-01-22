@@ -1,378 +1,95 @@
 {
-    "Culturefest Carrboro HS": {
+    "Lulu BangBang": {
         "Free": [
             "John Pham",
-            "Khang",
-            "Quynh V",
-            "Jayden Ly",
-            "John Le",
-            "kiki",
-            "Vy Hoang"
+            "John Pham",
+            "Jason",
+            "kiki"
+        ],
+        "Maybe": [
+            "kiki"
+        ],
+        "Busy": [
+            "Jason"
+        ]
+    },
+    "UNC Asian Business Club": {
+        "Free": [
+            "John Pham",
+            "Jason",
+            "kiki"
+        ],
+        "Maybe": [],
+        "Busy": []
+    },
+    "ROI Revolution": {
+        "Free": [
+            "John Pham",
+            "kiki"
         ],
         "Maybe": [],
         "Busy": [
-            "Khanh (Bin)",
-            "Danny",
-            "Benjamillion",
-            "Kevin Sokphat",
-            "Connery Tran",
-            "steven"
-        ]
-    },
-    "Netapp": {
-        "Free": [
-            "John Pham"
-        ],
-        "Maybe": [
-            "Khang",
-            "Connery Tran"
-        ],
-        "Busy": [
-            "Quynh V",
-            "Khanh (Bin)",
-            "Danny",
-            "Jayden Ly",
-            "John Le",
-            "Benjamillion",
-            "Kevin Sokphat",
-            "kiki",
-            "Vy Hoang",
-            "steven"
-        ]
-    },
-    "VAARs Tet": {
-        "Free": [
-            "John Pham",
-            "Khang",
-            "Quynh V",
-            "Khanh (Bin)",
-            "Danny",
-            "Jayden Ly",
-            "Benjamillion",
-            "Kevin Sokphat",
-            "kiki",
-            "Vy Hoang",
-            "Connery Tran",
-            "steven"
-        ],
-        "Maybe": [
-            "John Le"
-        ],
-        "Busy": []
-    },
-    "Vivian Neighborhood Party": {
-        "Free": [
-            "John Pham",
-            "Benjamillion"
-        ],
-        "Maybe": [
-            "Khang",
-            "Quynh V",
-            "Jayden Ly",
-            "John Le",
-            "Kevin Sokphat",
-            "kiki",
-            "Vy Hoang",
-            "Connery Tran",
-            "steven"
-        ],
-        "Busy": [
-            "Khanh (Bin)",
-            "Danny"
-        ]
-    },
-    "APSA at Elon University": {
-        "Free": [
-            "John Pham",
-            "Khang",
-            "Benjamillion",
-            "kiki",
-            "Connery Tran"
-        ],
-        "Maybe": [
-            "Quynh V",
-            "Jayden Ly",
-            "Kevin Sokphat",
-            "Vy Hoang",
-            "steven"
-        ],
-        "Busy": [
-            "Khanh (Bin)",
-            "Danny",
-            "John Le"
-        ]
-    },
-    "Raleigh Iron Works LNY Market": {
-        "Free": [
-            "John Pham",
-            "Khang",
-            "Quynh V",
-            "Danny",
-            "kiki",
-            "Vy Hoang",
-            "Connery Tran"
-        ],
-        "Maybe": [
-            "Jayden Ly",
-            "John Le",
-            "Benjamillion",
-            "Kevin Sokphat",
-            "steven"
-        ],
-        "Busy": [
-            "Khanh (Bin)"
-        ]
-    },
-    "Fort Bragg": {
-        "Free": [
-            "John Pham",
-            "Khang",
-            "Quynh V",
-            "Kevin Sokphat",
-            "kiki"
-        ],
-        "Maybe": [
-            "Jayden Ly",
-            "Benjamillion",
-            "steven"
-        ],
-        "Busy": [
-            "Khanh (Bin)",
-            "Danny",
-            "John Le",
-            "Vy Hoang",
-            "Connery Tran"
-        ]
-    },
-    "Ceasars Virginia Casino": {
-        "Free": [
-            "John Pham",
-            "Khang",
-            "Quynh V",
-            "Benjamillion",
-            "kiki"
-        ],
-        "Maybe": [
-            "Jayden Ly"
-        ],
-        "Busy": [
-            "Khanh (Bin)",
-            "Danny",
-            "John Le",
-            "Kevin Sokphat",
-            "Vy Hoang",
-            "Connery Tran",
-            "steven"
-        ]
-    },
-    "Metlife": {
-        "Free": [
-            "John Pham",
-            "Benjamillion",
-            "kiki"
-        ],
-        "Maybe": [
-            "John Le",
-            "Kevin Sokphat"
-        ],
-        "Busy": [
-            "Khang",
-            "Quynh V",
-            "Khanh (Bin)",
-            "Danny",
-            "Jayden Ly",
-            "Vy Hoang",
-            "Connery Tran",
-            "steven"
-        ]
-    },
-    "Duke Fuqua School of Business": {
-        "Free": [
-            "John Pham",
-            "Benjamillion",
-            "kiki",
-            "Vy Hoang"
-        ],
-        "Maybe": [
-            "Jayden Ly",
-            "John Le",
-            "Kevin Sokphat"
-        ],
-        "Busy": [
-            "Khang",
-            "Quynh V",
-            "Khanh (Bin)",
-            "Danny",
-            "Connery Tran",
-            "steven"
-        ]
-    },
-    "NCSU Veterinary Medicine": {
-        "Free": [
-            "John Pham",
-            "Benjamillion",
-            "kiki",
-            "Connery Tran"
-        ],
-        "Maybe": [
-            "Jayden Ly",
-            "John Le",
-            "Kevin Sokphat",
-            "Vy Hoang"
-        ],
-        "Busy": [
-            "Khang",
-            "Quynh V",
-            "Khanh (Bin)",
-            "Danny",
-            "steven"
-        ]
-    },
-    "Charlotte Latin School": {
-        "Free": [
-            "John Pham"
-        ],
-        "Maybe": [
-            "Jayden Ly",
-            "John Le",
-            "Kevin Sokphat",
-            "kiki",
-            "steven"
-        ],
-        "Busy": [
-            "Khang",
-            "Quynh V",
-            "Khanh (Bin)",
-            "Danny",
-            "Benjamillion",
-            "Vy Hoang",
-            "Connery Tran"
+            "Jason"
         ]
     },
     "Chesterbrook Academy": {
         "Free": [
             "John Pham",
+            "Jason",
             "kiki"
         ],
-        "Maybe": [
-            "Quynh V",
-            "Jayden Ly",
-            "John Le",
-            "Benjamillion",
-            "Kevin Sokphat",
-            "Vy Hoang",
-            "Connery Tran"
-        ],
-        "Busy": [
-            "Khang",
-            "Khanh (Bin)",
-            "Danny",
-            "steven"
-        ]
+        "Maybe": [],
+        "Busy": []
     },
-    "Temple Performance": {
+    "Allison Chan": {
         "Free": [
             "John Pham",
-            "Quynh V",
-            "Benjamillion",
+            "John Pham",
+            "Jason",
+            "Jason",
             "kiki",
-            "Connery Tran"
+            "kiki"
         ],
-        "Maybe": [
-            "Danny",
-            "Jayden Ly",
-            "John Le",
-            "Kevin Sokphat",
-            "Vy Hoang",
-            "steven"
-        ],
-        "Busy": [
-            "Khang",
-            "Khanh (Bin)"
-        ]
+        "Maybe": [],
+        "Busy": []
     },
-    "GS Global": {
+    "Emily Smtih Event": {
+        "Free": [
+            "John Pham",
+            "Jason",
+            "kiki"
+        ],
+        "Maybe": [],
+        "Busy": []
+    },
+    "KPMG": {
+        "Free": [
+            "John Pham",
+            "Jason",
+            "kiki"
+        ],
+        "Maybe": [],
+        "Busy": []
+    },
+    "S&P Global": {
         "Free": [
             "John Pham"
         ],
         "Maybe": [
-            "Jayden Ly",
-            "John Le",
-            "kiki",
-            "Connery Tran",
-            "steven"
-        ],
-        "Busy": [
-            "Khang",
-            "Quynh V",
-            "Khanh (Bin)",
-            "Danny",
-            "Benjamillion",
-            "Kevin Sokphat",
-            "Vy Hoang"
-        ]
-    },
-    "Lisa Huynh Party": {
-        "Free": [
-            "John Pham",
-            "Khang",
-            "Quynh V",
-            "Benjamillion",
-            "kiki",
-            "Vy Hoang"
-        ],
-        "Maybe": [
-            "Danny",
-            "Jayden Ly",
-            "John Le",
-            "Kevin Sokphat",
-            "Connery Tran"
-        ],
-        "Busy": [
-            "Khanh (Bin)",
-            "steven"
-        ]
-    },
-    "Jecin Wedding": {
-        "Free": [
-            "John Pham",
-            "Khang",
-            "Quynh V",
-            "Benjamillion",
             "kiki"
         ],
-        "Maybe": [
-            "Danny",
-            "Jayden Ly",
-            "John Le",
-            "Kevin Sokphat",
-            "Vy Hoang",
-            "Connery Tran"
-        ],
         "Busy": [
-            "Khanh (Bin)",
-            "steven"
+            "Jason"
         ]
     },
-    "Nhi Bui Wedding": {
+    "Central Piedmont Early College": {
         "Free": [
-            "John Pham",
-            "Khang",
-            "Quynh V"
+            "John Pham"
         ],
         "Maybe": [
-            "Danny",
-            "Jayden Ly",
-            "Benjamillion",
-            "Kevin Sokphat",
-            "kiki",
-            "Vy Hoang",
-            "Connery Tran",
-            "steven"
+            "Jason",
+            "kiki"
         ],
-        "Busy": [
-            "Khanh (Bin)",
-            "John Le"
-        ]
+        "Busy": []
     }
 }
