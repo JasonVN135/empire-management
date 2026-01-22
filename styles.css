@@ -110,6 +110,7 @@ button {
     padding: 12px 24px;
     transition: background-color 100ms ease-in-out, color 100ms ease-in-out;
     cursor: pointer;
+    margin-bottom: var(--spacing-md);
 }
 
 button:hover {

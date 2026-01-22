@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Culturefest Carrboro HS",
+        "type": "School Event",
+        "date": "January 7th, 2026",
+        "day": "Wednesday",
+        "start": "7:00 PM",
+        "arrive": "6:30 PM",
+        "location": "201 Rock Haven Rd, Carrboro, NC",
+        "performers": {
+            "Band": ["Jason", "Kiki"],
+            "Lion 1": ["Jayden", "John P"]
+        }
+    },
+    {
+        "name": "Netapp",
+        "type": "Company Event",
+        "date": "January 15th, 2026",
+        "day": "Thursday",
+        "start": "3:00 PM",
+        "arrive": "2:30 PM",
+        "location": "7301 Kit Creek Rd, Durham, NC",
+        "performers": {
+            "Lion 1": ["Jason", "John P"]
+        }
+    },
+    {
+        "name": "VAARs Tet",
+        "type": "Lunar New Years",
+        "date": "January 18th, 2026",
+        "day": "Sunday",
+        "start": "12:00 PM (TBD)",
+        "arrive": "11:00 AM (TBD)",
+        "location": "4285 Trinity Rd, Raleigh, NC",
+        "performers": {
+        }
+    }
+]
