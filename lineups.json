@@ -1,0 +1,96 @@
+[
+    {
+        "name": "APSA at Elon",
+        "type": "School Event",
+        "date": "February 6th 2026",
+        "day": "Friday",
+        "start": "6:30 PM",
+        "arrive": "6:00 PM",
+        "location": "301 E Haggard Ave, Elon, NC",
+        "performers": {
+             "Band": ["Jason", "Kiki"],
+             "Lion 1": ["John P", "Ben"]
+        }
+    },
+    {
+        "name": "Triangle Pop Up",
+        "type": "Lunar New Years",
+        "date": "February 7th, 2026",
+        "day": "Saturday",
+        "start": "1:00 PM",
+        "arrive": "12:30 PM",
+        "location": "1101 E Whitaker Mill Rd, Raleigh, NC",
+        "performers": {
+             "Band": ["Jason", "Kiki"],
+             "Lion 1": ["Connery", "John P"]
+        }
+    },
+    {
+        "name": "Caesar Virginia Casino",
+        "type": "Company Event",
+        "date": "February 15th, 2026",
+        "day": "Sunday",
+        "start": "8:00 PM",
+        "arrive": "7:15 PM",
+        "location": "1100 W Main St, Danville, VA",
+        "performers": {
+             "Band": ["Ben", "Kiki"],
+             "Lion 1": ["Khang", "Quynh"],
+             "Lion 2": ["Jayden", "John P"]
+        }
+    },
+    {
+        "name": "Duke Fuqua Business School",
+        "type": "School Event",
+        "date": "February 17th, 2026",
+        "day": "Tuesday",
+        "start": "5:00 PM",
+        "arrive": "4:30 PM",
+        "location": "100 Fuqua Drive, Durham, NC (TBD)",
+        "performers": {
+             "Band": ["Jason", "Kiki"],
+             "Lion 1": ["Jayden", "John P"],
+             "Lion 2": ["Vy", "Ben"]
+        }
+    },
+    {
+        "name": "NCSU Vet School",
+        "type": "School Event",
+        "date": "February 18th, 2026",
+        "day": "Wednesday",
+        "start": "6:00 PM",
+        "arrive": "5:30 PM",
+        "location": "1060, William Moore, Raleigh, NC (TBD)",
+        "performers": {
+             "Band": ["Ben", "Kiki"],
+             "Lion 1": ["Connery", "John"]
+        }
+    },
+    {
+        "name": "Lisa's Birthday",
+        "type": "Private Event",
+        "date": "April 12th, 2026",
+        "day": "Sunday",
+        "start": "2:00 PM",
+        "arrive": "1:30 PM",
+        "location": "1101 W Chapel Hill St, Durham, NC",
+        "performers": {
+             "Band": ["Jason", "Kiki"],
+             "Lion 1": ["Khang", "John"]
+        }
+    },
+    {
+        "name": "Surprise Wedding",
+        "type": "Wedding Event",
+        "date": "April 23th, 2026",
+        "day": "Saturday",
+        "start": "7:00 PM",
+        "arrive": "6:15 PM",
+        "location": "Charlotte, NC (TBD)",
+        "performers": {
+             "Band": ["Jason", "Kiki"],
+             "Lion 1": ["Connery", "John"],
+             "Lion 2": ["Khang", "Quynh"]
+        }
+    }
+]

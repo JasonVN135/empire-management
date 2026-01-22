@@ -4,6 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="signup.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -14,6 +15,9 @@
 </head>
 
 <body>
+    <div id="navigation-container">
+        <button class="btn nav-btn" onclick="openLineup()">View Performance Lineups</button>
+    </div>
     <form id="performance-form" name="performance-form" method="POST" data-netlify="true" netlify-honeypot="bot-field">
 
         <!-- Hidden field for Netlify -->
@@ -36,10 +40,11 @@
         <div class="cards"></div>
 
         <div class="submit-container">
-            <button type="submit" id="submit-btn" class="submit-btn">Submit</button>
+            <button type="submit" id="submit-btn" class=" btn submit-btn">Submit</button>
         </div>
     </form>
-    <script src="script.js"></script>
+    <script src="navigation.js"></script>
+    <script src="signup.js"></script>
 </body>
 
 </html>
