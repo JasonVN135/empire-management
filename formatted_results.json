@@ -7,7 +7,6 @@
             "kiki",
             "Kevin Sokphat",
             "Khang",
-            "Ben",
             "Quynh",
             "John Le",
             "John Le"
@@ -27,6 +26,7 @@
             "Jason",
             "Jayden Ly",
             "Kevin Sokphat",
+            "Ben",
             "Ben",
             "Quynh"
         ]
@@ -105,7 +105,6 @@
             "Kevin Sokphat",
             "Khang",
             "Khang",
-            "Ben",
             "Quynh",
             "Quynh"
         ],
@@ -115,11 +114,12 @@
             "Jayden Ly",
             "Connery",
             "Kevin Sokphat",
-            "Ben",
             "John Le"
         ],
         "Busy": [
             "steven",
+            "Ben",
+            "Ben",
             "John Le"
         ]
     },
@@ -172,7 +172,6 @@
             "kiki",
             "steven",
             "Connery",
-            "Ben",
             "John Le"
         ],
         "Busy": [
@@ -180,6 +179,7 @@
             "Vy",
             "Jayden Ly",
             "Kevin Sokphat",
+            "Ben",
             "Quynh"
         ]
     },
@@ -187,8 +187,7 @@
         "Free": [
             "John Pham",
             "Vy",
-            "Khang",
-            "Ben"
+            "Khang"
         ],
         "Maybe": [
             "Jason",
@@ -200,7 +199,8 @@
             "John Le"
         ],
         "Busy": [
-            "Jayden Ly"
+            "Jayden Ly",
+            "Ben"
         ]
     }
 }

@@ -1199,7 +1199,7 @@
                 "start": "TBD",
                 "arrive": "TBD",
                 "location": "5418 Page Rd, Durham, NC",
-                "availability": "Free",
+                "availability": "Busy",
                 "extra": "Potential Day"
             },
             {
@@ -1256,7 +1256,7 @@
                 "start": "4:30 PM",
                 "arrive": "4:00 PM",
                 "location": "Durham (Near Duke)",
-                "availability": "Free",
+                "availability": "Busy",
                 "extra": "Potential Day"
             },
             {
@@ -1280,7 +1280,7 @@
                 "start": "4:30 PM",
                 "arrive": "4:00 PM",
                 "location": "Durham (Near Duke)",
-                "availability": "Maybe",
+                "availability": "Busy",
                 "extra": "Potential Day"
             },
             {
@@ -1304,7 +1304,7 @@
                 "start": "(TBD)",
                 "arrive": "(TBD)",
                 "location": "421 Fayetteville St, Raleigh, NC",
-                "availability": "Maybe"
+                "availability": "Busy"
             },
             {
                 "id": "Central Piedmont Early College",
@@ -1315,7 +1315,7 @@
                 "start": "(TBD)",
                 "arrive": "(TBD)",
                 "location": "421 Fayetteville St, Raleigh, NC",
-                "availability": "Free"
+                "availability": "Busy"
             }
         ]
     },

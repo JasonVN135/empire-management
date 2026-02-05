@@ -13,8 +13,8 @@
                 "Kiki"
             ],
             "Lion 1": [
-                "John P",
-                "Ben"
+                "Khang",
+                "John P"
             ]
         }
     },
@@ -53,6 +53,29 @@
             "Lion 1": [
                 "Connery",
                 "John P"
+            ]
+        }
+    },
+        {
+        "name": "Nhus LNY Event",
+        "type": "Lunar New Years",
+        "date": "February 13th, 2026",
+        "day": "Friday",
+        "start": "8:00 PM",
+        "arrive": "7:30 PM",
+        "location": "2010 Hillsborough Rd, Durham, NC",
+        "performers": {
+            "Band": [
+                "Jason",
+                "Kiki"
+            ],
+            "Lion 1": [
+                "Jayden",
+                "Kevin"
+            ],
+            "Lion 2": [
+                "John P",
+                "Quynh"
             ]
         }
     },
@@ -98,7 +121,30 @@
             ],
             "Lion 2": [
                 "Vy",
-                "John Pham"
+                "John P"
+            ]
+        }
+    },
+        {
+        "name": "Marvell Semiconductor",
+        "type": "Company Event",
+        "date": "February 17th, 2026",
+        "day": "Tuesday",
+        "start": "12:30 PM",
+        "arrive": "12:00 PM",
+        "location": "3015 Carrington Mill Blvd, Morrisville, NC",
+        "performers": {
+            "Band": [
+                "Kiki",
+                "Khang"
+            ],
+            "Lion 1": [
+                "Steven",
+                "John P"
+            ],
+            "Lion 2": [
+                "Vy",
+                "Kevin"
             ]
         }
     },
@@ -153,6 +199,7 @@
         "start": "6:00 PM",
         "arrive": "5:30 PM",
         "location": "1060, William Moore, Raleigh, NC (TBD)",
+        "extra": "POTENTIALLY CANCELED (TBD)",
         "performers": {
             "Band": [
                 "Ben",
@@ -236,14 +283,14 @@
         "performers": {
             "Lion 1": [
                 "Khang",
-                "John"
+                "John P"
             ]
         }
     },
     {
         "id": "Allison Chan",
         "name": "Allison Chan",
-        "type": "Lunar New Years Event",
+        "type": "Lunar New Years",
         "date": "February 28th, 2026",
         "day": "Saturday",
         "start": "4:30 PM",

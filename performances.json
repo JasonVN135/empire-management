@@ -1,108 +1,12 @@
 [
     {
-        "name": "Lulu BangBang",
-        "type": "Restaurant",
-        "date": "February 15th 2026",
-        "day": "Sunday",
-        "start": "TBD",
-        "arrive": "TBD",
-        "location": "5418 Page Rd, Durham, NC",
-        "extra": "Potential Day"
-    },
-    {
-        "name": "Lulu BangBang",
-        "type": "Restaurant",
-        "date": "February 16th 2026",
-        "day": "Monday",
-        "start": "TBD",
-        "arrive": "TBD",
-        "location": "5418 Page Rd, Durham, NC",
-        "extra": "Potential Day"
-    },
-    {
-        "name": "UNC Asian Business Club",
-        "type": "School Event",
-        "date": "February 17th, 2026",
-        "day": "Tuesday",
-        "start": "6:30 PM",
-        "arrive": "6:00 PM",
-        "location": "UNC"
-    },
-    {
-        "name": "ROI Revolution",
-        "type": "Company Event",
-        "date": "February 20th, 2026",
-        "day": "Friday",
-        "start": "12:30 PM",
-        "arrive": "12:00 PM",
-        "location": "4401 Atlantic Ave, Raleigh, NC"
-    },
-    {
-        "name": "Chesterbrook Academy",
-        "type": "School Event",
-        "date": "February 20th, 2026",
-        "day": "Friday",
-        "start": "Evening",
-        "arrive": "TBD",
-        "location": "130 Towne Village Drive, Cary, NC"
-    },
-    {
-        "name": "Allison Chan",
-        "type": "Lunar New Years Event",
-        "date": "February 21st, 2026",
-        "day": "Saturday",
-        "start": "4:30 PM",
-        "arrive": "4:00 PM",
-        "location": "Durham (Near Duke)",
-        "extra": "Potential Day"
-    },
-    {
-        "name": "Emily Smtih Event",
-        "type": "Lunar New Years Event",
-        "date": "February 21st, 2026",
-        "day": "Saturday",
-        "start": "7:15 PM",
-        "arrive": "6:30 PM",
-        "location": "TBD",
-        "extra": "Potential Day"
-    },
-    {
-        "name": "Allison Chan",
-        "type": "Lunar New Years Event",
-        "date": "February 28th, 2026",
-        "day": "Saturday",
-        "start": "4:30 PM",
-        "arrive": "4:00 PM",
-        "location": "Durham (Near Duke)",
-        "extra": "Potential Day"
-    },
-    {
-        "name": "KPMG",
-        "type": "Company Event",
-        "date": "February 22nd, 2026",
-        "day": "Sunday",
-        "start": "12:00 PM TBD",
-        "arrive": "11:30 AM",
-        "location": "4242 Six Forks Rd, Raleigh, NC",
-        "extra": "Start time between 12:00 PM - 3:00 PM, TBD"
-    },
-    {
-        "name": "S&P Global",
-        "type": "Company Event",
-        "date": "February 26th, 2026",
-        "day": "Thursday",
-        "start": "(TBD)",
-        "arrive": "(TBD)",
-        "location": "421 Fayetteville St, Raleigh, NC"
-    },
-    {
-        "name": "Central Piedmont Early College",
-        "type": "School Event",
-        "date": "March 27th, 2026",
-        "day": "Friday",
-        "start": "(TBD)",
-        "arrive": "(TBD)",
-        "location": "421 Fayetteville St, Raleigh, NC",
-        "event": "Expected evening time"
+        "name": "N/A",
+        "type": "N/A",
+        "date": "N/A",
+        "day": "N/A",
+        "start": "N/A",
+        "arrive": "N/A",
+        "location": "N/A",
+        "extra": "N/A"
     }
 ]
