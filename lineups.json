@@ -1,43 +1,5 @@
 [
     {
-        "name": "APSA at Elon",
-        "type": "School Event",
-        "date": "February 6th 2026",
-        "day": "Friday",
-        "start": "6:30 PM",
-        "arrive": "6:00 PM",
-        "location": "301 E Haggard Ave, Elon, NC",
-        "performers": {
-            "Band": [
-                "Jason",
-                "Kiki"
-            ],
-            "Lion 1": [
-                "Khang",
-                "John P"
-            ]
-        }
-    },
-    {
-        "name": "Triangle Pop Up",
-        "type": "Lunar New Years",
-        "date": "February 7th, 2026",
-        "day": "Saturday",
-        "start": "1:00 PM",
-        "arrive": "12:30 PM",
-        "location": "1101 E Whitaker Mill Rd, Raleigh, NC",
-        "performers": {
-            "Band": [
-                "Jason",
-                "Kiki"
-            ],
-            "Lion 1": [
-                "Connery",
-                "John P"
-            ]
-        }
-    },
-    {
         "name": "LabCorp",
         "type": "Company Event",
         "date": "February 11th, 2026",
@@ -56,14 +18,15 @@
             ]
         }
     },
-        {
+    {
         "name": "Nhus LNY Event",
         "type": "Lunar New Years",
         "date": "February 13th, 2026",
         "day": "Friday",
-        "start": "8:00 PM",
-        "arrive": "7:30 PM",
+        "start": "6:15 PM",
+        "arrive": "5:45 PM",
         "location": "2010 Hillsborough Rd, Durham, NC",
+        "extra": "Time changed from 8:00 PM to 6:15 PM AGAIN",
         "performers": {
             "Band": [
                 "Jason",
@@ -125,7 +88,7 @@
             ]
         }
     },
-        {
+    {
         "name": "Marvell Semiconductor",
         "type": "Company Event",
         "date": "February 17th, 2026",
@@ -172,7 +135,6 @@
         }
     },
     {
-        "id": "UNC Asian Business Club",
         "name": "UNC Asian Business Club",
         "type": "School Event",
         "date": "February 17th, 2026",
@@ -212,7 +174,25 @@
         }
     },
     {
-        "id": "ROI Revolution",
+        "name": "Greenfield School",
+        "type": "School Event",
+        "date": "February 20th, 2026",
+        "day": "Friday",
+        "start": "10:00 AM",
+        "arrive": "9:30 AM",
+        "location": "3351 NC 42, Wilson, NC",
+        "performers": {
+            "Band": [
+                "Kiki",
+                "Khang"
+            ],
+            "Lion 1": [
+                "John",
+                "Kevin"
+            ]
+        }
+    },
+    {
         "name": "ROI Revolution",
         "type": "Company Event",
         "date": "February 20th, 2026",
@@ -232,7 +212,6 @@
         }
     },
     {
-        "id": "Chesterbrook Academy",
         "name": "Chesterbrook Academy",
         "type": "School Event",
         "date": "February 20th, 2026",
@@ -252,7 +231,28 @@
         }
     },
     {
-        "id": "KPMG",
+        "name": "Charleston Tet",
+        "type": "Lunar New Years",
+        "date": "February 21th, 2026",
+        "day": "Saturday",
+        "start": "12:00 PM",
+        "arrive": "1:00 PM",
+        "location": "1051 Sam Rittenburg Blvd, Charleston, SC",
+        "performers": {
+            "Band": [
+                "Jason",
+                "Kiki"
+            ],
+            "Lion 1": [
+                "Khang",
+                "John P"
+            ],
+            "Ong Dia": [
+                "Quynh"
+            ]
+        }
+    },
+    {
         "name": "KPMG",
         "type": "Company Event",
         "date": "February 22nd, 2026",
@@ -272,7 +272,6 @@
         }
     },
     {
-        "id": "S&P Global",
         "name": "S&P Global",
         "type": "Company Event",
         "date": "February 26th, 2026",
@@ -288,7 +287,6 @@
         }
     },
     {
-        "id": "Allison Chan",
         "name": "Allison Chan",
         "type": "Lunar New Years",
         "date": "February 28th, 2026",
@@ -318,10 +316,10 @@
         "performers": {
             "Band": [
                 "Jason",
-                "Kiki"
+                "Khang"
             ],
             "Lion 1": [
-                "Khang",
+                "Kiki",
                 "John P"
             ]
         }

@@ -8,8 +8,14 @@
         "arrive": "6:30 PM",
         "location": "201 Rock Haven Rd, Carrboro, NC",
         "performers": {
-            "Band": ["Jason", "Kiki"],
-            "Lion 1": ["Jayden", "John P"]
+            "Band": [
+                "Jason",
+                "Kiki"
+            ],
+            "Lion 1": [
+                "Jayden",
+                "John P"
+            ]
         }
     },
     {
@@ -21,7 +27,10 @@
         "arrive": "2:30 PM",
         "location": "7301 Kit Creek Rd, Durham, NC",
         "performers": {
-            "Lion 1": ["Jason", "John P"]
+            "Lion 1": [
+                "Jason",
+                "John P"
+            ]
         }
     },
     {
@@ -32,7 +41,44 @@
         "start": "12:00 PM (TBD)",
         "arrive": "11:00 AM (TBD)",
         "location": "4285 Trinity Rd, Raleigh, NC",
+        "performers": {}
+    },
+    {
+        "name": "APSA at Elon",
+        "type": "School Event",
+        "date": "February 6th 2026",
+        "day": "Friday",
+        "start": "6:30 PM",
+        "arrive": "6:00 PM",
+        "location": "301 E Haggard Ave, Elon, NC",
         "performers": {
+            "Band": [
+                "Jason",
+                "Kiki"
+            ],
+            "Lion 1": [
+                "Khang",
+                "John P"
+            ]
+        }
+    },
+    {
+        "name": "Triangle Pop Up",
+        "type": "Lunar New Years",
+        "date": "February 7th, 2026",
+        "day": "Saturday",
+        "start": "1:00 PM",
+        "arrive": "12:30 PM",
+        "location": "1101 E Whitaker Mill Rd, Raleigh, NC",
+        "performers": {
+            "Band": [
+                "Jason",
+                "Kiki"
+            ],
+            "Lion 1": [
+                "Connery",
+                "John P"
+            ]
         }
     }
 ]
