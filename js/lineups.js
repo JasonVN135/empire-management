@@ -1,5 +1,5 @@
 const lineupsDiv = document.getElementById("lineups"); // Card Container
-const lineupsFilePath = "lineups.json";
+const lineupsFilePath = "../data/lineups.json";
 
 document.addEventListener('DOMContentLoaded', function () {
     populateCards();

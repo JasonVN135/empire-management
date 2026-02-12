@@ -3,7 +3,7 @@ function openSignup() {
 }
 
 function openLineup() {
-    window.location.href = "lineup.html";
+    window.location.href = "lineups.html";
 }
 
 function openArchive() {

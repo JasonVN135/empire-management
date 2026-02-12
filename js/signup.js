@@ -1,5 +1,5 @@
 const performanceForm = document.getElementById("performance-form");
-const performanceFilePath = "performances.json";
+const performanceFilePath = "../data/performances.json";
 const cardsContainer = document.querySelector(".cards");
 const submitButton = document.getElementById("submit-btn");
 
