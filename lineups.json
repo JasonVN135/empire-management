@@ -1,32 +1,5 @@
 [
     {
-        "name": "APSA at Elon",
-        "type": "School Event",
-        "date": "February 6th 2026",
-        "day": "Friday",
-        "start": "6:30 PM",
-        "arrive": "6:00 PM",
-        "location": "301 E Haggard Ave, Elon, NC",
-        "performers": {
-             "Band": ["Jason", "Kiki"],
-             "Lion 1": ["John P", "Ben"]
-        }
-    },
-    {
-        "name": "Triangle Pop Up",
-        "type": "Lunar New Years",
-        "date": "February 7th, 2026",
-        "day": "Saturday",
-        "start": "1:00 PM",
-        "arrive": "12:30 PM",
-        "location": "1101 E Whitaker Mill Rd, Raleigh, NC",
-        "performers": {
-             "Band": ["Jason", "Kiki"],
-             "Lion 1": ["Connery", "John P"]
-        }
-    },
-    
-    {
         "name": "LabCorp",
         "type": "Company Event",
         "date": "February 11th, 2026",
@@ -35,8 +8,38 @@
         "arrive": "1:00 PM",
         "location": "10 Moore Drive, Durham, NC",
         "performers": {
-             "Band": ["Jason", "Kiki"],
-             "Lion 1": ["Connery", "John P"]
+            "Band": [
+                "Jason",
+                "Kiki"
+            ],
+            "Lion 1": [
+                "Connery",
+                "John P"
+            ]
+        }
+    },
+    {
+        "name": "Nhus LNY Event",
+        "type": "Lunar New Years",
+        "date": "February 13th, 2026",
+        "day": "Friday",
+        "start": "6:15 PM",
+        "arrive": "5:45 PM",
+        "location": "2010 Hillsborough Rd, Durham, NC",
+        "extra": "Time changed from 8:00 PM to 6:15 PM AGAIN",
+        "performers": {
+            "Band": [
+                "Jason",
+                "Kiki"
+            ],
+            "Lion 1": [
+                "Jayden",
+                "Kevin"
+            ],
+            "Lion 2": [
+                "John P",
+                "Quynh"
+            ]
         }
     },
     {
@@ -48,9 +51,64 @@
         "arrive": "7:15 PM",
         "location": "1100 W Main St, Danville, VA",
         "performers": {
-             "Band": ["Ben", "Kiki"],
-             "Lion 1": ["Khang", "Quynh"],
-             "Lion 2": ["Jayden", "John P"]
+            "Band": [
+                "Ben",
+                "Kiki"
+            ],
+            "Lion 1": [
+                "Khang",
+                "Quynh"
+            ],
+            "Lion 2": [
+                "Jayden",
+                "John P"
+            ]
+        }
+    },
+    {
+        "name": "U.S. Maxim Beauty Supply",
+        "type": "Lunar New years",
+        "date": "February 17th, 2026",
+        "day": "Tuesday",
+        "start": "9:00 AM",
+        "arrive": "8:30 AM",
+        "location": "3943 New Bern Ave, Raleigh, NC",
+        "performers": {
+            "Band": [
+                "Kiki",
+                "Khang"
+            ],
+            "Lion 1": [
+                "Steven",
+                "John Le"
+            ],
+            "Lion 2": [
+                "Vy",
+                "John P"
+            ]
+        }
+    },
+    {
+        "name": "Marvell Semiconductor",
+        "type": "Company Event",
+        "date": "February 17th, 2026",
+        "day": "Tuesday",
+        "start": "12:30 PM",
+        "arrive": "12:00 PM",
+        "location": "3015 Carrington Mill Blvd, Morrisville, NC",
+        "performers": {
+            "Band": [
+                "Kiki",
+                "Khang"
+            ],
+            "Lion 1": [
+                "Steven",
+                "John P"
+            ],
+            "Lion 2": [
+                "Vy",
+                "Kevin"
+            ]
         }
     },
     {
@@ -62,9 +120,37 @@
         "arrive": "4:30 PM",
         "location": "100 Fuqua Drive, Durham, NC (TBD)",
         "performers": {
-             "Band": ["Jason", "Kiki"],
-             "Lion 1": ["Jayden", "John P"],
-             "Lion 2": ["Vy", "Ben"]
+            "Band": [
+                "Jason",
+                "Kiki"
+            ],
+            "Lion 1": [
+                "Jayden",
+                "John P"
+            ],
+            "Lion 2": [
+                "Vy",
+                "Ben"
+            ]
+        }
+    },
+    {
+        "name": "UNC Asian Business Club",
+        "type": "School Event",
+        "date": "February 17th, 2026",
+        "day": "Tuesday",
+        "start": "6:30 PM",
+        "arrive": "6:00 PM",
+        "location": "UNC",
+        "performers": {
+            "Band": [
+                "Jason",
+                "Kiki"
+            ],
+            "Lion 1": [
+                "Jayden",
+                "John P"
+            ]
         }
     },
     {
@@ -75,9 +161,148 @@
         "start": "6:00 PM",
         "arrive": "5:30 PM",
         "location": "1060, William Moore, Raleigh, NC (TBD)",
+        "extra": "POTENTIALLY CANCELED (TBD)",
         "performers": {
-             "Band": ["Ben", "Kiki"],
-             "Lion 1": ["Connery", "John P"]
+            "Band": [
+                "Ben",
+                "Kiki"
+            ],
+            "Lion 1": [
+                "Connery",
+                "John P"
+            ]
+        }
+    },
+    {
+        "name": "Greenfield School",
+        "type": "School Event",
+        "date": "February 20th, 2026",
+        "day": "Friday",
+        "start": "10:00 AM",
+        "arrive": "9:30 AM",
+        "location": "3351 NC 42, Wilson, NC",
+        "performers": {
+            "Band": [
+                "Kiki",
+                "Khang"
+            ],
+            "Lion 1": [
+                "John",
+                "Kevin"
+            ]
+        }
+    },
+    {
+        "name": "ROI Revolution",
+        "type": "Company Event",
+        "date": "February 20th, 2026",
+        "day": "Friday",
+        "start": "12:30 PM",
+        "arrive": "12:00 PM",
+        "location": "4401 Atlantic Ave, Raleigh, NC",
+        "performers": {
+            "Band": [
+                "Kiki",
+                "Khang"
+            ],
+            "Lion 1": [
+                "Vy",
+                "John"
+            ]
+        }
+    },
+    {
+        "name": "Chesterbrook Academy",
+        "type": "School Event",
+        "date": "February 20th, 2026",
+        "day": "Friday",
+        "start": "6:30 PM",
+        "arrive": "6:00 PM",
+        "location": "130 Towne Village Drive, Cary, NC",
+        "performers": {
+            "Band": [
+                "Jason",
+                "Kiki"
+            ],
+            "Lion 1": [
+                "Connery",
+                "John P"
+            ]
+        }
+    },
+    {
+        "name": "Charleston Tet",
+        "type": "Lunar New Years",
+        "date": "February 21th, 2026",
+        "day": "Saturday",
+        "start": "12:00 PM",
+        "arrive": "1:00 PM",
+        "location": "1051 Sam Rittenburg Blvd, Charleston, SC",
+        "performers": {
+            "Band": [
+                "Jason",
+                "Kiki"
+            ],
+            "Lion 1": [
+                "Khang",
+                "John P"
+            ],
+            "Ong Dia": [
+                "Quynh"
+            ]
+        }
+    },
+    {
+        "name": "KPMG",
+        "type": "Company Event",
+        "date": "February 22nd, 2026",
+        "day": "Sunday",
+        "start": "2:00 PM",
+        "arrive": "1:15 PM",
+        "location": "4242 Six Forks Rd, Raleigh, NC",
+        "performers": {
+            "Band": [
+                "Jason",
+                "Kiki"
+            ],
+            "Lion 1": [
+                "Khang",
+                "Quynh"
+            ]
+        }
+    },
+    {
+        "name": "S&P Global",
+        "type": "Company Event",
+        "date": "February 26th, 2026",
+        "day": "Thursday",
+        "start": "(TBD)",
+        "arrive": "(TBD)",
+        "location": "421 Fayetteville St, Raleigh, NC",
+        "performers": {
+            "Lion 1": [
+                "Khang",
+                "John P"
+            ]
+        }
+    },
+    {
+        "name": "Allison Chan",
+        "type": "Lunar New Years",
+        "date": "February 28th, 2026",
+        "day": "Saturday",
+        "start": "4:30 PM",
+        "arrive": "4:00 PM",
+        "location": "Durham (Near Duke)",
+        "performers": {
+            "Band": [
+                "Jason",
+                "Kiki"
+            ],
+            "Lion 1": [
+                "John",
+                "Quynh"
+            ]
         }
     },
     {
@@ -89,22 +314,37 @@
         "arrive": "1:30 PM",
         "location": "1101 W Chapel Hill St, Durham, NC",
         "performers": {
-             "Band": ["Jason", "Kiki"],
-             "Lion 1": ["Khang", "John P"]
+            "Band": [
+                "Jason",
+                "Khang"
+            ],
+            "Lion 1": [
+                "Kiki",
+                "John P"
+            ]
         }
     },
     {
         "name": "Surprise Wedding",
         "type": "Wedding Event",
-        "date": "April 23th, 2026",
+        "date": "April 25th, 2026",
         "day": "Saturday",
         "start": "7:00 PM",
         "arrive": "6:15 PM",
         "location": "Charlotte, NC (TBD)",
         "performers": {
-             "Band": ["Jason", "Kiki"],
-             "Lion 1": ["Connery", "John P"],
-             "Lion 2": ["Khang", "Quynh"]
+            "Band": [
+                "Jason",
+                "Kiki"
+            ],
+            "Lion 1": [
+                "Connery",
+                "John P"
+            ],
+            "Lion 2": [
+                "Khang",
+                "Quynh"
+            ]
         }
     }
 ]
