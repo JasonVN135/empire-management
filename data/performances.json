@@ -1,12 +1,20 @@
 [
     {
-        "name": "N/A",
-        "type": "N/A",
-        "date": "N/A",
-        "day": "N/A",
-        "start": "N/A",
-        "arrive": "N/A",
-        "location": "N/A",
-        "extra": "N/A"
+        "name": "Asian American Student Conference",
+        "type": "School Event",
+        "date": "February 28th, 2026",
+        "day": "Saturday",
+        "start": "7:30 PM - 9:00 PM (TBD)",
+        "arrive": "TBD",
+        "location": "Duke University (TBD)"
+    },
+    {
+        "name": "Jecin Wedding Performance",
+        "type": "Wedding",
+        "date": "April, 2026 (TBD)",
+        "day": "TBD",
+        "start": "TBD",
+        "arrive": "TBD",
+        "location": "TBD"
     }
 ]
