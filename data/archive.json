@@ -80,5 +80,71 @@
                 "John P"
             ]
         }
+    },
+        {
+        "name": "LabCorp",
+        "type": "Company Event",
+        "date": "February 11th, 2026",
+        "day": "Wednesday",
+        "start": "1:30 PM",
+        "arrive": "1:00 PM",
+        "location": "10 Moore Drive, Durham, NC",
+        "performers": {
+            "Band": [
+                "Jason",
+                "Kiki"
+            ],
+            "Lion 1": [
+                "Connery",
+                "John P"
+            ]
+        }
+    },
+    {
+        "name": "Nhus LNY Event",
+        "type": "Lunar New Years",
+        "date": "February 13th, 2026",
+        "day": "Friday",
+        "start": "6:15 PM",
+        "arrive": "5:45 PM",
+        "location": "2010 Hillsborough Rd, Durham, NC",
+        "extra": "Time changed from 8:00 PM to 6:15 PM AGAIN",
+        "performers": {
+            "Band": [
+                "Jason",
+                "Kiki"
+            ],
+            "Lion 1": [
+                "Jayden",
+                "Kevin"
+            ],
+            "Lion 2": [
+                "John P",
+                "Quynh"
+            ]
+        }
+    },
+    {
+        "name": "Caesar Virginia Casino",
+        "type": "Company Event",
+        "date": "February 15th, 2026",
+        "day": "Sunday",
+        "start": "8:00 PM",
+        "arrive": "7:15 PM",
+        "location": "1100 W Main St, Danville, VA",
+        "performers": {
+            "Band": [
+                "Ben",
+                "Kiki"
+            ],
+            "Lion 1": [
+                "Khang",
+                "Quynh"
+            ],
+            "Lion 2": [
+                "Jayden",
+                "John P"
+            ]
+        }
     }
 ]
