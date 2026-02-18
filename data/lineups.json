@@ -137,21 +137,6 @@
         }
     },
     {
-        "name": "S&P Global",
-        "type": "Company Event",
-        "date": "February 26th, 2026",
-        "day": "Thursday",
-        "start": "(TBD)",
-        "arrive": "(TBD)",
-        "location": "421 Fayetteville St, Raleigh, NC",
-        "performers": {
-            "Lion 1": [
-                "Khang",
-                "John P"
-            ]
-        }
-    },
-    {
         "name": "Allison Chan",
         "type": "Lunar New Years",
         "date": "February 28th, 2026",
@@ -166,7 +151,7 @@
             ],
             "Lion 1": [
                 "John",
-                "Quynh"
+                "John Le"
             ]
         }
     },
