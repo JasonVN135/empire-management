@@ -146,5 +146,93 @@
                 "John P"
             ]
         }
+    },
+    {
+        "name": "U.S. Maxim Beauty Supply",
+        "type": "Lunar New years",
+        "date": "February 17th, 2026",
+        "day": "Tuesday",
+        "start": "9:00 AM",
+        "arrive": "8:30 AM",
+        "location": "3943 New Bern Ave, Raleigh, NC",
+        "performers": {
+            "Band": [
+                "Kiki",
+                "Khang"
+            ],
+            "Lion 1": [
+                "Steven",
+                "John Le"
+            ],
+            "Lion 2": [
+                "Vy",
+                "John P"
+            ]
+        }
+    },
+    {
+        "name": "Marvell Semiconductor",
+        "type": "Company Event",
+        "date": "February 17th, 2026",
+        "day": "Tuesday",
+        "start": "12:30 PM",
+        "arrive": "12:00 PM",
+        "location": "3015 Carrington Mill Blvd, Morrisville, NC",
+        "performers": {
+            "Band": [
+                "Kiki",
+                "Khang"
+            ],
+            "Lion 1": [
+                "Steven",
+                "John P"
+            ],
+            "Lion 2": [
+                "Vy",
+                "Kevin"
+            ]
+        }
+    },
+    {
+        "name": "Duke Fuqua Business School",
+        "type": "School Event",
+        "date": "February 17th, 2026",
+        "day": "Tuesday",
+        "start": "5:00 PM",
+        "arrive": "4:30 PM",
+        "location": "100 Fuqua Drive, Durham, NC (TBD)",
+        "performers": {
+            "Band": [
+                "Jason",
+                "Kiki"
+            ],
+            "Lion 1": [
+                "Jayden",
+                "John P"
+            ],
+            "Lion 2": [
+                "Vy",
+                "Ben"
+            ]
+        }
+    },
+    {
+        "name": "UNC Asian Business Club",
+        "type": "School Event",
+        "date": "February 17th, 2026",
+        "day": "Tuesday",
+        "start": "6:30 PM",
+        "arrive": "6:00 PM",
+        "location": "UNC",
+        "performers": {
+            "Band": [
+                "Jason",
+                "Kiki"
+            ],
+            "Lion 1": [
+                "Jayden",
+                "John P"
+            ]
+        }
     }
 ]
