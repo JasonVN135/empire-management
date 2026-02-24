@@ -1,206 +1,37 @@
 {
-    "Lulu BangBang": {
+    "Asian American Student Conference": {
         "Free": [
+            "Jayden Ly",
+            "Quynh V",
             "John Pham",
-            "John Pham",
-            "Jason",
-            "kiki",
-            "Kevin Sokphat",
-            "Khang",
-            "Quynh",
-            "John Le",
-            "John Le"
+            "Vy",
+            "Jason"
         ],
         "Maybe": [
             "kiki",
-            "Vy",
-            "Vy",
-            "steven",
-            "steven",
-            "Jayden Ly",
-            "Connery",
-            "Connery",
-            "Khang"
+            "steven"
         ],
         "Busy": [
-            "Jason",
-            "Jayden Ly",
-            "Kevin Sokphat",
             "Ben",
-            "Ben",
-            "Quynh"
-        ]
-    },
-    "UNC Asian Business Club": {
-        "Free": [
-            "John Pham",
-            "Jason",
-            "kiki",
-            "Khang"
-        ],
-        "Maybe": [
-            "Vy",
-            "Jayden Ly",
-            "Kevin Sokphat"
-        ],
-        "Busy": [
-            "steven",
             "Connery",
-            "Ben",
-            "Quynh",
             "John Le"
         ]
     },
-    "ROI Revolution": {
+    "Jecin Wedding Performance": {
         "Free": [
-            "John Pham",
             "kiki",
+            "John Pham",
+            "Connery",
+            "steven",
             "Vy",
-            "Khang"
+            "Jason"
         ],
         "Maybe": [
-            "steven",
-            "Connery",
-            "Quynh",
-            "John Le"
-        ],
-        "Busy": [
-            "Jason",
-            "Jayden Ly",
-            "Kevin Sokphat",
-            "Ben"
-        ]
-    },
-    "Chesterbrook Academy": {
-        "Free": [
-            "John Pham",
-            "Jason",
-            "kiki",
-            "Vy",
-            "Connery",
-            "Khang"
-        ],
-        "Maybe": [
-            "Jayden Ly",
-            "Kevin Sokphat",
-            "Quynh"
-        ],
-        "Busy": [
-            "steven",
             "Ben",
-            "John Le"
-        ]
-    },
-    "Allison Chan": {
-        "Free": [
-            "John Pham",
-            "John Pham",
-            "Jason",
-            "Jason",
-            "kiki",
-            "kiki",
-            "Vy",
-            "Vy",
-            "Connery",
-            "Kevin Sokphat",
-            "Khang",
-            "Khang",
-            "Quynh",
-            "Quynh"
-        ],
-        "Maybe": [
-            "steven",
             "Jayden Ly",
-            "Jayden Ly",
-            "Connery",
-            "Kevin Sokphat",
+            "Quynh V",
             "John Le"
         ],
-        "Busy": [
-            "steven",
-            "Ben",
-            "Ben",
-            "John Le"
-        ]
-    },
-    "Emily Smtih Event": {
-        "Free": [
-            "John Pham",
-            "Jason",
-            "kiki",
-            "Vy",
-            "steven",
-            "Connery",
-            "Khang",
-            "Quynh"
-        ],
-        "Maybe": [
-            "Jayden Ly"
-        ],
-        "Busy": [
-            "Kevin Sokphat",
-            "Ben",
-            "John Le"
-        ]
-    },
-    "KPMG": {
-        "Free": [
-            "John Pham",
-            "Jason",
-            "kiki",
-            "Vy",
-            "Connery",
-            "Khang",
-            "Quynh"
-        ],
-        "Maybe": [
-            "steven",
-            "Kevin Sokphat"
-        ],
-        "Busy": [
-            "Jayden Ly",
-            "Ben",
-            "John Le"
-        ]
-    },
-    "S&P Global": {
-        "Free": [
-            "John Pham",
-            "Khang"
-        ],
-        "Maybe": [
-            "kiki",
-            "steven",
-            "Connery",
-            "John Le"
-        ],
-        "Busy": [
-            "Jason",
-            "Vy",
-            "Jayden Ly",
-            "Kevin Sokphat",
-            "Ben",
-            "Quynh"
-        ]
-    },
-    "Central Piedmont Early College": {
-        "Free": [
-            "John Pham",
-            "Vy",
-            "Khang"
-        ],
-        "Maybe": [
-            "Jason",
-            "kiki",
-            "steven",
-            "Connery",
-            "Kevin Sokphat",
-            "Quynh",
-            "John Le"
-        ],
-        "Busy": [
-            "Jayden Ly",
-            "Ben"
-        ]
+        "Busy": []
     }
 }

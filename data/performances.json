@@ -2,20 +2,11 @@
     {
         "name": "Asian American Student Conference",
         "type": "School Event",
-        "date": "February 28th, 2026",
+        "date": "March 28th, 2026",
         "day": "Saturday",
         "start": "7:30 PM - 9:00 PM (TBD)",
         "arrive": "TBD",
         "location": "Gross Hall, Duke University",
         "extra": "Room 107?"
-    },
-    {
-        "name": "Jecin Wedding Performance",
-        "type": "Wedding",
-        "date": "April 26th, 2026",
-        "day": "Sunday",
-        "start": "9:45 PM",
-        "arrive": "9:15 PM",
-        "location": "6304 Old Henks Rd, Apex NC"
     }
 ]

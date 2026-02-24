@@ -162,7 +162,7 @@
             ],
             "Lion 1": [
                 "Steven",
-                "John Le"
+                "Jayden"
             ],
             "Lion 2": [
                 "Vy",
@@ -232,6 +232,146 @@
             "Lion 1": [
                 "Jayden",
                 "John P"
+            ]
+        }
+    },
+        {
+        "name": "NCSU Vet School",
+        "type": "School Event",
+        "date": "February 18th, 2026",
+        "day": "Wednesday",
+        "start": "6:00 PM",
+        "arrive": "5:30 PM",
+        "location": "1060, William Moore, Raleigh, NC",
+        "performers": {
+            "Band": [
+                "Ben",
+                "Kiki"
+            ],
+            "Lion 1": [
+                "Connery",
+                "John P"
+            ]
+        }
+    },
+    {
+        "name": "Greenfield School",
+        "type": "School Event",
+        "date": "February 20th, 2026",
+        "day": "Friday",
+        "start": "10:00 AM",
+        "arrive": "9:30 AM",
+        "location": "3351 NC 42, Wilson, NC",
+        "performers": {
+            "Band": [
+                "Kiki",
+                "Khang"
+            ],
+            "Lion 1": [
+                "John P",
+                "Kevin"
+            ]
+        }
+    },
+    {
+        "name": "ROI Revolution",
+        "type": "Company Event",
+        "date": "February 20th, 2026",
+        "day": "Friday",
+        "start": "12:30 PM",
+        "arrive": "12:00 PM",
+        "location": "4401 Atlantic Ave, Raleigh, NC",
+        "performers": {
+            "Band": [
+                "Kiki",
+                "Khang"
+            ],
+            "Lion 1": [
+                "Jayden",
+                "John P"
+            ]
+        }
+    },
+    {
+        "name": "Duke Fuqua MBA",
+        "type": "School Event",
+        "date": "February 20th, 2026",
+        "day": "Friday",
+        "start": "5:30 PM",
+        "arrive": "4:45 PM",
+        "location": "Fuqua Kirby Winter Garden, Durham, NC",
+        "performers": {
+            "Band": [
+                "Jason",
+                "Kiki"
+            ],
+            "Lion 1": [
+                "Jayden",
+                "John P"
+            ],
+            "Lion 2": [
+                "Connery",
+                "Quynh"
+            ]
+        }
+    },
+    {
+        "name": "Chesterbrook Academy",
+        "type": "School Event",
+        "date": "February 20th, 2026",
+        "day": "Friday",
+        "start": "7:15 PM",
+        "arrive": "6:30 PM",
+        "location": "130 Towne Village Drive, Cary, NC",
+        "performers": {
+            "Band": [
+                "Jason",
+                "Kiki"
+            ],
+            "Lion 1": [
+                "Connery",
+                "John P"
+            ]
+        }
+    },
+    {
+        "name": "Charleston Tet",
+        "type": "Lunar New Years",
+        "date": "February 21th, 2026",
+        "day": "Saturday",
+        "start": "1:00 PM",
+        "arrive": "12:00 PM",
+        "location": "1051 Sam Rittenburg Blvd, Charleston, SC",
+        "performers": {
+            "Band": [
+                "Jason",
+                "Kiki"
+            ],
+            "Lion 1": [
+                "Khang",
+                "John P"
+            ],
+            "Ong Dia": [
+                "Quynh"
+            ]
+        }
+    },
+    {
+        "name": "KPMG",
+        "type": "Company Event",
+        "date": "February 22nd, 2026",
+        "day": "Sunday",
+        "start": "2:30 PM",
+        "arrive": "2:00 PM",
+        "location": "4242 Six Forks Rd, Raleigh, NC",
+        "performers": {
+            "Band": [
+                "Jason",
+                "Kiki"
+            ],
+            "Lion 1": [
+                "Khang",
+                "Quynh"
             ]
         }
     }
