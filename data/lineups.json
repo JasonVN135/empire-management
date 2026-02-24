@@ -59,5 +59,28 @@
                 "Quynh"
             ]
         }
+    },
+    {
+        "name": "Jecin Wedding Performance",
+        "type": "Wedding",
+        "date": "April 26th, 2026",
+        "day": "Sunday",
+        "start": "9:45 PM",
+        "arrive": "9:15 PM",
+        "location": "6304 Old Henks Rd, Apex NC",
+        "performers": {
+            "Band": [
+                "Jason",
+                "Kiki"
+            ],
+            "Lion 1": [
+                "Connery",
+                "Kevin"
+            ],
+            "Lion 2": [
+                "Steven",
+                "John P"
+            ]
+        }
     }
 ]
