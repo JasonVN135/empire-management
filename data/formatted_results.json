@@ -1,36 +1,15 @@
 {
     "Asian American Student Conference": {
         "Free": [
-            "Jayden Ly",
-            "Quynh V",
             "John Pham",
-            "Vy",
-            "Jason"
+            "Khang",
+            "Jason",
+            "Connery"
         ],
         "Maybe": [
             "kiki",
-            "steven"
-        ],
-        "Busy": [
-            "Ben",
-            "Connery",
-            "John Le"
-        ]
-    },
-    "Jecin Wedding Performance": {
-        "Free": [
-            "kiki",
-            "John Pham",
-            "Connery",
-            "steven",
-            "Vy",
-            "Jason"
-        ],
-        "Maybe": [
-            "Ben",
-            "Jayden Ly",
-            "Quynh V",
-            "John Le"
+            "John Le",
+            "Jayden Ly"
         ],
         "Busy": []
     }
