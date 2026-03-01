@@ -1,20 +1,44 @@
 [
     {
-        "name": "Allison Chan",
-        "type": "Lunar New Years",
-        "date": "February 28th, 2026",
+        "name": "ECAASU Duke",
+        "type": "School/Company Event",
+        "date": "March 28th, 2026",
         "day": "Saturday",
-        "start": "4:30 PM",
-        "arrive": "4:00 PM",
-        "location": "Durham (Near Duke)",
+        "start": "7:30-9:00 PM (TBD)",
+        "arrive": "TBD",
+        "location": "801 Lancaster St, Durham",
+        "performers": {
+            "Band": [
+                "Jason",
+                "Vy"
+            ],
+            "Lion 1": [
+                "John P", 
+                "Steven"
+            ]
+        }
+    },
+    {
+        "name": "Andraia Li Wedding",
+        "type": "Wedding Event",
+        "date": "April 4th, 2026",
+        "day": "Saturday",
+        "start": "8:30 PM",
+        "arrive": "7:45 PM",
+        "location": "Wild Common, Charleston, SC",
+        "extra": "~4hr 30min drive",
         "performers": {
             "Band": [
                 "Jason",
                 "Kiki"
             ],
             "Lion 1": [
-                "John P",
-                "John Le"
+                "John P", 
+                "Kevin"
+            ],
+            "Lion 2": [
+                "Jayden",
+                "Dominic"
             ]
         }
     },
@@ -47,7 +71,7 @@
         "location": "Charlotte, NC (TBD)",
         "performers": {
             "Band": [
-                "Jason",
+                "Ben",
                 "Kiki"
             ],
             "Lion 1": [
@@ -55,8 +79,8 @@
                 "John P"
             ],
             "Lion 2": [
-                "Khang",
-                "Quynh"
+                "Steven",
+                "Jason"
             ]
         }
     },
@@ -71,15 +95,15 @@
         "performers": {
             "Band": [
                 "Jason",
-                "Kiki"
+                "Vy"
             ],
             "Lion 1": [
-                "Connery",
-                "Kevin"
-            ],
-            "Lion 2": [
                 "Steven",
                 "John P"
+            ],
+            "Lion 2": [
+                "Kiki",
+                "Kevin"
             ]
         }
     }

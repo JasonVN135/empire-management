@@ -374,5 +374,24 @@
                 "Quynh"
             ]
         }
+    },
+    {
+        "name": "Allison Chan",
+        "type": "Lunar New Years",
+        "date": "February 28th, 2026",
+        "day": "Saturday",
+        "start": "4:30 PM",
+        "arrive": "4:00 PM",
+        "location": "Durham (Near Duke)",
+        "performers": {
+            "Band": [
+                "Jason",
+                "Kiki"
+            ],
+            "Lion 1": [
+                "John P",
+                "John Le"
+            ]
+        }
     }
 ]
