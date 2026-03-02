@@ -1,12 +1,35 @@
 [
     {
+        "name": "Cary House Party",
+        "type": "Lunary New Year Event",
+        "date": "March 6th, 2026",
+        "day": "Friday",
+        "start": "6:30 PM",
+        "arrive": "6:00 PM",
+        "location": "102 Amna Lake, Cary, NC",
+        "performers": {
+            "Band": [
+                "Jason",
+                "Kiki"
+            ],
+            "Lion 1": [
+                "Jayden", 
+                "John P"
+            ],
+            "Lion 2": [
+                "Connery",
+                "Kevin"
+            ]
+        }
+    },
+    {
         "name": "ECAASU Duke",
         "type": "School/Company Event",
         "date": "March 28th, 2026",
         "day": "Saturday",
-        "start": "7:30-9:00 PM (TBD)",
-        "arrive": "TBD",
-        "location": "801 Lancaster St, Durham",
+        "start": "9:05 PM",
+        "arrive": "8:30 PM",
+        "location": "801 Lancaster St, Durham, NC",
         "performers": {
             "Band": [
                 "Jason",
