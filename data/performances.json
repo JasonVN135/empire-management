@@ -1,3 +1,11 @@
 [
-
+    {
+        "name": "Cary Elementary School",
+        "type": "School Event",
+        "date": "April 21st, 2026",
+        "day": "Tuesday",
+        "start": "1:00 PM",
+        "arrive": "12:30 PM",
+        "location": "St Michael Catholic Schoo, Cary, NC"
+    }
 ]
