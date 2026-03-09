@@ -1,28 +1,5 @@
 [
     {
-        "name": "Cary House Party",
-        "type": "Lunary New Year Event",
-        "date": "March 6th, 2026",
-        "day": "Friday",
-        "start": "6:30 PM",
-        "arrive": "6:00 PM",
-        "location": "102 Amna Lake, Cary, NC",
-        "performers": {
-            "Band": [
-                "Jason",
-                "Kiki"
-            ],
-            "Lion 1": [
-                "Jayden", 
-                "John P"
-            ],
-            "Lion 2": [
-                "Connery",
-                "Kevin"
-            ]
-        }
-    },
-    {
         "name": "ECAASU Duke",
         "type": "School/Company Event",
         "date": "March 28th, 2026",
