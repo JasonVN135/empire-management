@@ -1,5 +1,15 @@
 [
     {
+        "name": "Raleigh Memorial Park",
+        "type": "Public Event",
+        "date": "April 4th, 2026",
+        "day": "Saturday",
+        "start": "11:30 AM",
+        "arrive": "11:00 AM",
+        "location": "7501 Glennwood Ave, Raleigh, NC",
+        "extra": "Northwest Raleigh"
+    },
+    {
         "name": "Cary Elementary School",
         "type": "School Event",
         "date": "April 21st, 2026",
