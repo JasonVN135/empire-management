@@ -19,6 +19,30 @@
         }
     },
     {
+        "name": "Raleigh Memorial Park",
+        "type": "Public Event",
+        "date": "April 4th, 2026",
+        "day": "Saturday",
+        "start": "11:30 AM",
+        "arrive": "11:00 AM",
+        "location": "7501 Glennwood Ave, Raleigh, NC",
+        "extra": "Northwest Raleigh",
+        "performers": {
+            "Band": [
+                "Jason",
+                "Kiki"
+            ],
+            "Lion 1": [
+                "Khang",
+                "Ben"
+            ],
+            "Lion 2": [
+                "Connery",
+                "John P"
+            ]
+        }
+    },
+    {
         "name": "Andraia Li Wedding",
         "type": "Wedding Event",
         "date": "April 4th, 2026",
@@ -58,6 +82,25 @@
             "Lion 1": [
                 "Kiki",
                 "John P"
+            ]
+        }
+    },
+    {
+        "name": "Cary Elementary School",
+        "type": "School Event",
+        "date": "April 21st, 2026",
+        "day": "Tuesday",
+        "start": "1:00 PM",
+        "arrive": "12:30 PM",
+        "location": "St Michael Catholic School, Cary, NC",
+        "performers": {
+            "Band": [
+                "Eric",
+                "Kiki"
+            ],
+            "Lion 1": [
+                "John P",
+                "Dominic"
             ]
         }
     },
