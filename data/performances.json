@@ -11,10 +11,10 @@
     {
         "name": "City of Lexington",
         "type": "Public Event",
-        "date": "April 21st, 2026",
-        "day": "Tuesday",
-        "start": "1:00 PM",
-        "arrive": "12:30 PM",
-        "location": "St Michael Catholic School, Cary, NC"
+        "date": "May 2nd, 2026",
+        "day": "Saturday",
+        "start": "11:00 AM",
+        "arrive": "10:15 AM",
+        "location": "Lexington, NC (TBD)"
     }
 ]
