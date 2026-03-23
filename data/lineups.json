@@ -19,6 +19,25 @@
         }
     },
     {
+        "name": "APSA at Elon APHIM",
+        "type": "School Event",
+        "date": "April 1st, 2026",
+        "day": "Wednesday",
+        "start": "5:45 PM",
+        "arrive": "5:15 PM",
+        "location": "Elon University",
+        "performers": {
+            "Band": [
+                "Jason",
+                "Kiki"
+            ],
+            "Lion 1": [
+                "John P", 
+                "Dominic"
+            ]
+        }
+    },
+    {
         "name": "Raleigh Memorial Park",
         "type": "Public Event",
         "date": "April 4th, 2026",
@@ -105,7 +124,7 @@
         }
     },
     {
-        "name": "Surprise Wedding",
+        "name": "Skylar's Wedding",
         "type": "Wedding Event",
         "date": "April 25th, 2026",
         "day": "Saturday",
@@ -128,7 +147,7 @@
         }
     },
     {
-        "name": "Jecin Wedding Performance",
+        "name": "Jecin's Wedding",
         "type": "Wedding Event",
         "date": "April 26th, 2026",
         "day": "Sunday",
@@ -147,6 +166,29 @@
             "Lion 2": [
                 "Kiki",
                 "Kevin"
+            ]
+        }
+    },
+    {
+        "name": "Multicultural Festival",
+        "type": "Public Event",
+        "date": "May 2nd, 2026",
+        "day": "Saturday",
+        "start": "11:00 AM",
+        "arrive": "10:15 AM",
+        "location": "400 Greensboro St Ext, Lexington, NC",
+        "performers": {
+            "Band": [
+                "Eric",
+                "Jason"
+            ],
+            "Lion 1": [
+                "Steven",
+                "John P"
+            ],
+            "Lion 2": [
+                "Kiki",
+                "Dominic"
             ]
         }
     }

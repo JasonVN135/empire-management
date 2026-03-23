@@ -1,20 +1,11 @@
 [
     {
-        "name": "APSA at Elon University",
-        "type": "School Event",
-        "date": "April 1st, 2026",
-        "day": "Wednesday",
-        "start": "5:45 PM",
-        "arrive": "5:15 PM",
-        "location": "Elon University, NC (TBD)"
-    },
-    {
-        "name": "City of Lexington",
-        "type": "Public Event",
-        "date": "May 2nd, 2026",
-        "day": "Saturday",
-        "start": "11:00 AM",
-        "arrive": "10:15 AM",
-        "location": "Lexington, NC (TBD)"
+        "name": "Jack Truong's Wedding",
+        "type": "Wedding Event",
+        "date": "May 22nd, 2026",
+        "day": "Friday",
+        "start": "TBD",
+        "arrive": "TBD",
+        "location": "Mint Museum, Charlotte, NC"
     }
 ]
