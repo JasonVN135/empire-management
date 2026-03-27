@@ -28,7 +28,7 @@
         "location": "Elon University",
         "performers": {
             "Band": [
-                "Jason",
+                "Ben",
                 "Kiki"
             ],
             "Lion 1": [
@@ -49,15 +49,15 @@
         "performers": {
             "Band": [
                 "Jason",
-                "Kiki"
+                "Vy"
             ],
             "Lion 1": [
                 "Khang",
-                "Ben"
+                "John P"
             ],
             "Lion 2": [
-                "Connery",
-                "John P"
+                "Kiki",
+                "Ben"
             ]
         }
     },
@@ -112,16 +112,7 @@
         "start": "1:00 PM",
         "arrive": "12:30 PM",
         "location": "St Michael Catholic School, Cary, NC",
-        "performers": {
-            "Band": [
-                "Eric",
-                "Kiki"
-            ],
-            "Lion 1": [
-                "John P",
-                "Dominic"
-            ]
-        }
+        "extra": "CANCELED"
     },
     {
         "name": "Skylar's Wedding",
