@@ -13,8 +13,8 @@
                 "Kiki"
             ],
             "Lion 1": [
-                "John P", 
-                "Dominic"
+                "Jayden", 
+                "John P"
             ]
         }
     },
@@ -86,19 +86,6 @@
         }
     },
     {
-        "name": "Cary Elementary School",
-        "type": "School Event",
-        "date": "April 21st, 2026",
-        "day": "Tuesday",
-        "start": "1:00 PM",
-        "arrive": "12:30 PM",
-        "location": "St Michael Catholic School, Cary, NC",
-        "extra": "CANCELED",
-        "performers": {
-            
-        }
-    },
-    {
         "name": "Skylar's Wedding",
         "type": "Wedding Event",
         "date": "April 25th, 2026",
@@ -155,15 +142,15 @@
         "performers": {
             "Band": [
                 "Eric",
-                "Jason"
+                "Kiki"
             ],
             "Lion 1": [
                 "Steven",
-                "John P"
+                "Dominic"
             ],
             "Lion 2": [
-                "Kiki",
-                "Dominic"
+                "John P",
+                "Ben"
             ]
         }
     },
