@@ -1,24 +1,5 @@
 [
     {
-        "name": "ECAASU Duke",
-        "type": "School/Company Event",
-        "date": "March 28th, 2026",
-        "day": "Saturday",
-        "start": "9:05 PM",
-        "arrive": "8:30 PM",
-        "location": "801 Lancaster St, Durham, NC",
-        "performers": {
-            "Band": [
-                "Jason",
-                "Vy"
-            ],
-            "Lion 1": [
-                "John P", 
-                "Steven"
-            ]
-        }
-    },
-    {
         "name": "APSA at Elon APHIM",
         "type": "School Event",
         "date": "April 1st, 2026",
@@ -49,14 +30,14 @@
         "performers": {
             "Band": [
                 "Jason",
-                "Vy"
+                "Kiki"
             ],
             "Lion 1": [
                 "Khang",
-                "John P"
+                "Dominic"
             ],
             "Lion 2": [
-                "Kiki",
+                "John P",
                 "Ben"
             ]
         }
