@@ -114,7 +114,7 @@
         "location": "St Michael Catholic School, Cary, NC",
         "extra": "CANCELED",
         "performers": {
-
+            
         }
     },
     {
@@ -178,6 +178,29 @@
             ],
             "Lion 1": [
                 "Steven",
+                "John P"
+            ],
+            "Lion 2": [
+                "Kiki",
+                "Dominic"
+            ]
+        }
+    },
+    {
+        "name": "Jack Truong's Wedding",
+        "type": "Wedding Event",
+        "date": "May 22nd, 2026",
+        "day": "Friday",
+        "start": "TBD",
+        "arrive": "TBD",
+        "location": "Mint Museum, Charlotte, NC",
+        "performers": {
+            "Band": [
+                "Eric",
+                "Jason"
+            ],
+            "Lion 1": [
+                "Khang",
                 "John P"
             ],
             "Lion 2": [

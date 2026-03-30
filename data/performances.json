@@ -1,11 +1,30 @@
 [
     {
-        "name": "Jack Truong's Wedding",
-        "type": "Wedding Event",
-        "date": "May 22nd, 2026",
-        "day": "Friday",
+        "name": "Andrew Hipos - AAPI Heritage Event",
+        "type": "School Event",
+        "date": "May 11th, 2026",
+        "day": "Monday",
+        "start": "8:30 AM",
+        "arrive": "8:00 AM",
+        "location": "Downtown Durham, NC (TBD)"
+    },
+    {
+        "name": "Shantel Crichlow Volvo",
+        "type": "School Event",
+        "date": "May 14th, 2026",
+        "day": "Thursday",
+        "start": "11:00 AM",
+        "arrive": "10:30 AM",
+        "location": "7900 National Service Road, Greensboro, NC"
+    },
+    {
+        "name": "Lisa R - AAPI and NCPAF",
+        "type": "Cultural Event",
+        "date": "June 27th, 2026",
+        "day": "Saturday",
         "start": "TBD",
         "arrive": "TBD",
-        "location": "Mint Museum, Charlotte, NC"
+        "location": "Jacksonville, NC (TBD)",
+        "extra": "Outside and Hot"
     }
 ]

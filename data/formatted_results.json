@@ -1,16 +1,17 @@
 {
-    "Asian American Student Conference": {
+    "Jack Truong's Wedding": {
         "Free": [
-            "John Pham",
             "Khang",
-            "Jason",
-            "Connery"
+            "Dom",
+            "Eric Pham",
+            "Kiki"
         ],
         "Maybe": [
-            "kiki",
-            "John Le",
-            "Jayden Ly"
+            "steven"
         ],
-        "Busy": []
+        "Busy": [
+            "Keanu Tran",
+            "Kevin"
+        ]
     }
 }
