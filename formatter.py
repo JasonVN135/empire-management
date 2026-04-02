@@ -1,6 +1,9 @@
 import json
 import os
 
+INPUT_PATH : str = "data/user_submissions.json"
+OUTPUT_PATH : str = "data/formatted_results.json"
+
 def read_json_file(file_path):
     """
     Reads a JSON file and returns its contents as a Python object.
@@ -24,7 +27,7 @@ def read_json_file(file_path):
     
     return None
 
-data : dict = read_json_file("data/user_submissions.json")
+data : dict = read_json_file(INPUT_PATH)
 
 performance_results : dict = {}
 
@@ -40,5 +43,5 @@ for submission in data:
         
         performance_results[entry["id"]][entry["availability"]].append(name)
 
-with open("data/formatted_results.json", "w") as f:
+with open(OUTPUT_PATH, "w") as f:
     json.dump(performance_results, f, indent=4, ensure_ascii=False)

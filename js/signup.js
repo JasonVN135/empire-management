@@ -1,10 +1,14 @@
-const performanceForm = document.getElementById("performance-form");
 const performanceFilePath = "../data/performances.json";
+const membersFilePath = "../data/members.json";
+
+const performanceForm = document.getElementById("performance-form");
 const cardsContainer = document.querySelector(".cards");
+const nameSelectElement = document.querySelector(".name-select");
 const submitButton = document.getElementById("submit-btn");
 
 document.addEventListener('DOMContentLoaded', function () {
     populateCards();
+    populateNames();
 });
 
 // Add form submit event listener
@@ -24,21 +28,33 @@ if (performanceForm) {
         console.log('JSON:', JSON.stringify(results, null, 2));
         
         // Submit to Netlify
-        submitToNetlify(results);
+        //submitToNetlify(results);
     });
 }
 
 async function populateCards() {
-    const data = await retrievePerformanceData();
+    const data = await retrieveJSONData(performanceFilePath);
     
     data.forEach(performance => {
         createPerformance(performance);
     })
 }
 
-async function retrievePerformanceData() {
+async function populateNames() {
+    const data = await retrieveJSONData(membersFilePath);
+    for (const [key, value] of Object.entries(data)) {
+        const optionElement = document.createElement("option");
+        optionElement.value = key;
+        optionElement.innerHTML = key;
+        nameSelectElement.appendChild(optionElement);
+    }
+
+}
+
+
+async function retrieveJSONData(filePath) {
     try {
-        const response = await fetch(performanceFilePath);
+        const response = await fetch(filePath);
         const result = await response.json();
         return result;
     } catch (error) {

@@ -1,17 +1,56 @@
 {
-    "Jack Truong's Wedding": {
+    "Andrew Hipos - AAPI Heritage Event": {
         "Free": [
-            "Khang",
-            "Dom",
-            "Eric Pham",
-            "Kiki"
+            "Khang Cao",
+            "John Pham"
         ],
         "Maybe": [
-            "steven"
+            "Steven Pham",
+            "kiki",
+            "Vy",
+            "Dom"
         ],
         "Busy": [
-            "Keanu Tran",
-            "Kevin"
+            "Eric Pham",
+            "Jayden Ly",
+            "Kevin",
+            "Jason"
         ]
+    },
+    "Shantel Crichlow Volvo": {
+        "Free": [
+            "Steven Pham",
+            "Kiki Quinn",
+            "Khang Cao",
+            "John Pham"
+        ],
+        "Maybe": [
+            "Vy",
+            "Dom"
+        ],
+        "Busy": [
+            "Eric Pham",
+            "Jayden Ly",
+            "Kevin",
+            "Jason"
+        ]
+    },
+    "Lisa R - AAPI and NCPAF": {
+        "Free": [
+            "Eric Pham",
+            "Kiki Quinn",
+            "Khang Cao",
+            "John Pham",
+            "Jason Nguyen",
+            "Steven Pham"
+        ],
+        "Maybe": [
+            "steven",
+            "Vy",
+            "Dom",
+            "Jayden Ly",
+            "Kevin"
+        ],
+        "Busy": []
     }
 }

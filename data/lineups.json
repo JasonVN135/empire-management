@@ -9,12 +9,12 @@
         "location": "Medallion Plaza, Elon University",
         "performers": {
             "Band": [
-                "Ben",
-                "Kiki"
+                "Ben Nguyen",
+                "Kiki Quinn"
             ],
             "Lion 1": [
-                "Jayden", 
-                "John P"
+                "Jayden Ly", 
+                "John Pham"
             ]
         }
     },
@@ -29,16 +29,16 @@
         "extra": "Northwest Raleigh",
         "performers": {
             "Band": [
-                "Jason",
-                "Kiki"
+                "Jason Nguyen",
+                "Kiki Quinn"
             ],
             "Lion 1": [
-                "Khang",
-                "Dominic"
+                "Khang Cao",
+                "Dominic Nguyen"
             ],
             "Lion 2": [
-                "John P",
-                "Ben"
+                "John Pham",
+                "Ben Nguyen"
             ]
         }
     },
@@ -53,16 +53,16 @@
         "extra": "~4hr 30min drive",
         "performers": {
             "Band": [
-                "Jason",
-                "Kiki"
+                "Jason Nguyen",
+                "Kiki Quinn"
             ],
             "Lion 1": [
-                "John P", 
-                "Kevin"
+                "John Pham", 
+                "Kevin Sokphat"
             ],
             "Lion 2": [
-                "Jayden",
-                "Dominic"
+                "Jayden Ly",
+                "Dominic Nguyen"
             ]
         }
     },
@@ -76,12 +76,12 @@
         "location": "1101 W Chapel Hill St, Durham, NC",
         "performers": {
             "Band": [
-                "Jason",
-                "Khang"
+                "Jason Nguyen",
+                "Khang Cao"
             ],
             "Lion 1": [
-                "Kiki",
-                "John P"
+                "Kiki Quinn",
+                "John Pham"
             ]
         }
     },
@@ -95,16 +95,16 @@
         "location": "220 N. Tryon Street, Charlotte, NC",
         "performers": {
             "Band": [
-                "Ben",
-                "Kiki"
+                "Ben Nguyen",
+                "Kiki Quinn"
             ],
             "Lion 1": [
-                "Connery",
-                "John P"
+                "Connery Tran",
+                "John Pham"
             ],
             "Lion 2": [
-                "Steven",
-                "Jason"
+                "Steven Pham",
+                "Jason Nguyen"
             ]
         }
     },
@@ -118,16 +118,16 @@
         "location": "6304 Old Henks Rd, Apex NC",
         "performers": {
             "Band": [
-                "Jason",
-                "Vy"
+                "Jason Nguyen",
+                "Vy Hoang"
             ],
             "Lion 1": [
-                "Steven",
-                "John P"
+                "Steven Pham",
+                "John Pham"
             ],
             "Lion 2": [
-                "Kiki",
-                "Kevin"
+                "Kiki Quinn",
+                "Kevin Sokphat"
             ]
         }
     },
@@ -141,16 +141,16 @@
         "location": "400 Greensboro St Ext, Lexington, NC",
         "performers": {
             "Band": [
-                "Eric",
-                "Kiki"
+                "Eric Pham",
+                "Kiki Quinn"
             ],
             "Lion 1": [
-                "Steven",
-                "Dominic"
+                "Steven Pham",
+                "Dominic Nguyen"
             ],
             "Lion 2": [
-                "John P",
-                "Ben"
+                "John Pham",
+                "Ben Nguyen"
             ]
         }
     },
@@ -164,16 +164,16 @@
         "location": "Mint Museum, Charlotte, NC",
         "performers": {
             "Band": [
-                "Eric",
-                "Jason"
+                "Eric Pham",
+                "Jason Nguyen"
             ],
             "Lion 1": [
-                "Khang",
-                "John P"
+                "Khang Cao",
+                "John Pham"
             ],
             "Lion 2": [
-                "Kiki",
-                "Dominic"
+                "Kiki Quinn",
+                "Dominic Nguyen"
             ]
         }
     }

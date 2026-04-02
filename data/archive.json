@@ -9,12 +9,12 @@
         "location": "201 Rock Haven Rd, Carrboro, NC",
         "performers": {
             "Band": [
-                "Jason",
-                "Kiki"
+                "Jason Nguyen",
+                "Kiki Quinn"
             ],
             "Lion 1": [
-                "Jayden",
-                "John P"
+                "Jayden Ly",
+                "John Pham"
             ]
         }
     },
@@ -28,8 +28,8 @@
         "location": "7301 Kit Creek Rd, Durham, NC",
         "performers": {
             "Lion 1": [
-                "Jason",
-                "John P"
+                "Jason Nguyen",
+                "John Pham"
             ]
         }
     },
@@ -53,12 +53,12 @@
         "location": "301 E Haggard Ave, Elon, NC",
         "performers": {
             "Band": [
-                "Jason",
-                "Kiki"
+                "Jason Nguyen",
+                "Kiki Quinn"
             ],
             "Lion 1": [
-                "Khang",
-                "John P"
+                "Khang Cao",
+                "John Pham"
             ]
         }
     },
@@ -72,12 +72,12 @@
         "location": "1101 E Whitaker Mill Rd, Raleigh, NC",
         "performers": {
             "Band": [
-                "Jason",
-                "Kiki"
+                "Jason Nguyen",
+                "Kiki Quinn"
             ],
             "Lion 1": [
-                "Connery",
-                "John P"
+                "Connery Tran",
+                "John Pham"
             ]
         }
     },
@@ -91,12 +91,12 @@
         "location": "10 Moore Drive, Durham, NC",
         "performers": {
             "Band": [
-                "Jason",
-                "Kiki"
+                "Jason Nguyen",
+                "Kiki Quinn"
             ],
             "Lion 1": [
-                "Connery",
-                "John P"
+                "Connery Tran",
+                "John Pham"
             ]
         }
     },
@@ -111,16 +111,16 @@
         "extra": "Time changed from 8:00 PM to 6:15 PM AGAIN",
         "performers": {
             "Band": [
-                "Jason",
-                "Kiki"
+                "Jason Nguyen",
+                "Kiki Quinn"
             ],
             "Lion 1": [
-                "Jayden",
-                "Kevin"
+                "Jayden Ly",
+                "Kevin Sokphat"
             ],
             "Lion 2": [
-                "John P",
-                "Quynh"
+                "John Pham",
+                "Quynh Pham"
             ]
         }
     },
@@ -134,16 +134,16 @@
         "location": "1100 W Main St, Danville, VA",
         "performers": {
             "Band": [
-                "Ben",
-                "Kiki"
+                "Ben Nguyen",
+                "Kiki Quinn"
             ],
             "Lion 1": [
-                "Khang",
-                "Quynh"
+                "Khang Cao",
+                "Quynh Pham"
             ],
             "Lion 2": [
-                "Jayden",
-                "John P"
+                "Jayden Ly",
+                "John Pham"
             ]
         }
     },
@@ -157,16 +157,16 @@
         "location": "3943 New Bern Ave, Raleigh, NC",
         "performers": {
             "Band": [
-                "Kiki",
-                "Khang"
+                "Kiki Quinn",
+                "Khang Cao"
             ],
             "Lion 1": [
-                "Steven",
-                "Jayden"
+                "Steven Pham",
+                "Jayden Ly"
             ],
             "Lion 2": [
-                "Vy",
-                "John P"
+                "Vy Hoang",
+                "John Pham"
             ]
         }
     },
@@ -180,16 +180,16 @@
         "location": "3015 Carrington Mill Blvd, Morrisville, NC",
         "performers": {
             "Band": [
-                "Kiki",
-                "Khang"
+                "Kiki Quinn",
+                "Khang Cao"
             ],
             "Lion 1": [
-                "Steven",
-                "John P"
+                "Steven Pham",
+                "John Pham"
             ],
             "Lion 2": [
-                "Vy",
-                "Kevin"
+                "Vy Hoang",
+                "Kevin Sokphat"
             ]
         }
     },
@@ -203,16 +203,16 @@
         "location": "100 Fuqua Drive, Durham, NC (TBD)",
         "performers": {
             "Band": [
-                "Jason",
-                "Kiki"
+                "Jason Nguyen",
+                "Kiki Quinn"
             ],
             "Lion 1": [
-                "Jayden",
-                "John P"
+                "Jayden Ly",
+                "John Pham"
             ],
             "Lion 2": [
-                "Vy",
-                "Ben"
+                "Vy Hoang",
+                "Ben Nguyen"
             ]
         }
     },
@@ -226,12 +226,12 @@
         "location": "UNC",
         "performers": {
             "Band": [
-                "Jason",
-                "Kiki"
+                "Jason Nguyen",
+                "Kiki Quinn"
             ],
             "Lion 1": [
-                "Jayden",
-                "John P"
+                "Jayden Ly",
+                "John Pham"
             ]
         }
     },
@@ -245,12 +245,12 @@
         "location": "1060, William Moore, Raleigh, NC",
         "performers": {
             "Band": [
-                "Ben",
-                "Kiki"
+                "Ben Nguyen",
+                "Kiki Quinn"
             ],
             "Lion 1": [
-                "Connery",
-                "John P"
+                "Connery Tran",
+                "John Pham"
             ]
         }
     },
@@ -264,12 +264,12 @@
         "location": "3351 NC 42, Wilson, NC",
         "performers": {
             "Band": [
-                "Kiki",
-                "Khang"
+                "Kiki Quinn",
+                "Khang Cao"
             ],
             "Lion 1": [
-                "John P",
-                "Kevin"
+                "John Pham",
+                "Kevin Sokphat"
             ]
         }
     },
@@ -283,12 +283,12 @@
         "location": "4401 Atlantic Ave, Raleigh, NC",
         "performers": {
             "Band": [
-                "Kiki",
-                "Khang"
+                "Kiki Quinn",
+                "Khang Cao"
             ],
             "Lion 1": [
-                "Jayden",
-                "John P"
+                "Jayden Ly",
+                "John Pham"
             ]
         }
     },
@@ -302,16 +302,16 @@
         "location": "Fuqua Kirby Winter Garden, Durham, NC",
         "performers": {
             "Band": [
-                "Jason",
-                "Kiki"
+                "Jason Nguyen",
+                "Kiki Quinn"
             ],
             "Lion 1": [
-                "Jayden",
-                "John P"
+                "Jayden Ly",
+                "John Pham"
             ],
             "Lion 2": [
-                "Connery",
-                "Quynh"
+                "Connery Tran",
+                "Quynh Pham"
             ]
         }
     },
@@ -325,12 +325,12 @@
         "location": "130 Towne Village Drive, Cary, NC",
         "performers": {
             "Band": [
-                "Jason",
-                "Kiki"
+                "Jason Nguyen",
+                "Kiki Quinn"
             ],
             "Lion 1": [
-                "Connery",
-                "John P"
+                "Connery Tran",
+                "John Pham"
             ]
         }
     },
@@ -344,15 +344,15 @@
         "location": "1051 Sam Rittenburg Blvd, Charleston, SC",
         "performers": {
             "Band": [
-                "Jason",
-                "Kiki"
+                "Jason Nguyen",
+                "Kiki Quinn"
             ],
             "Lion 1": [
-                "Khang",
-                "John P"
+                "Khang Cao",
+                "John Pham"
             ],
             "Ong Dia": [
-                "Quynh"
+                "Quynh Pham"
             ]
         }
     },
@@ -366,12 +366,12 @@
         "location": "4242 Six Forks Rd, Raleigh, NC",
         "performers": {
             "Band": [
-                "Jason",
-                "Kiki"
+                "Jason Nguyen",
+                "Kiki Quinn"
             ],
             "Lion 1": [
-                "Khang",
-                "Quynh"
+                "Khang Cao",
+                "Quynh Pham"
             ]
         }
     },
@@ -385,11 +385,11 @@
         "location": "Durham (Near Duke)",
         "performers": {
             "Band": [
-                "Jason",
-                "Kiki"
+                "Jason Nguyen",
+                "Kiki Quinn"
             ],
             "Lion 1": [
-                "John P",
+                "John Pham",
                 "John Le"
             ]
         }
@@ -404,16 +404,16 @@
         "location": "102 Amna Lake, Cary, NC",
         "performers": {
             "Band": [
-                "Jason",
-                "Kiki"
+                "Jason Nguyen",
+                "Kiki Quinn"
             ],
             "Lion 1": [
-                "Jayden", 
-                "John P"
+                "Jayden Ly", 
+                "John Pham"
             ],
             "Lion 2": [
-                "Connery",
-                "Kevin"
+                "Connery Tran",
+                "Kevin Sokphat"
             ]
         }
     },
@@ -427,12 +427,12 @@
         "location": "801 Lancaster St, Durham, NC",
         "performers": {
             "Band": [
-                "Jason",
-                "Vy"
+                "Jason Nguyen",
+                "Vy Hoang"
             ],
             "Lion 1": [
-                "John P", 
-                "Steven"
+                "John Pham", 
+                "Dominic Nguyen"
             ]
         }
     }

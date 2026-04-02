@@ -6,16 +6,16 @@ document.addEventListener('DOMContentLoaded', function () {
 });
 
 async function populateCards() {
-    const data = await retrievePerformanceData();
-
+    const data = await retrieveJSONData(lineupsFilePath);
+    console.log("HERRO")
     data.forEach(lineup => {
         createLineups(lineup);
     })
 }
 
-async function retrievePerformanceData() {
+async function retrieveJSONData(filePath) {
     try {
-        const response = await fetch(lineupsFilePath);
+        const response = await fetch(filePath);
         const result = await response.json();
         return result;
     } catch (error) {

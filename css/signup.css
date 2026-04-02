@@ -17,7 +17,8 @@
     margin-bottom: var(--spacing-xs);
 }
 
-.name-container input {
+.name-container input,
+.name-container select {
     height: 36px;
     background-color: var(--color-input);
     border: solid 2px var(--color-border);

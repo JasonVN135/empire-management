@@ -31,7 +31,11 @@
         <div class="name-container">
             <h3>Performer Name</h3>
             <!-- Your name input -->
-            <input type="text" id="name" name="name" placeholder="Your Name" required />
+             <select id="name" class="name-select">
+                <option value="" disabled selected hidden>-- Select Your Name --</option>
+             </select>
+             <!-- <input type="text" id="name" name="name" placeholder="Your Name" required /> -->
+            
         </div>
 
         <!-- Hidden field to store the JSON data -->
