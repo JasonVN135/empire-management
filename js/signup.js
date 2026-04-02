@@ -28,7 +28,7 @@ if (performanceForm) {
         console.log('JSON:', JSON.stringify(results, null, 2));
         
         // Submit to Netlify
-        //submitToNetlify(results);
+        submitToNetlify(results);
     });
 }
 

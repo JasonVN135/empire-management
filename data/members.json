@@ -1,16 +1,19 @@
 {
-    "Jason Nguyen": ["drum", "cymbal", "tail"],
-    "John Pham": ["head", "tail"],
-    "Kiki Quinn": ["cymbal", "head"],
-    "Jayden Ly": ["head"],
-    "Khang Cao": ["cymbal", "head"],
-    "Connery Tran": ["head"],
     "Ben Nguyen": ["drum", "tail"],
-    "Kevin Sokphat": ["tail"],
-    "Steven Pham": ["head"],
-    "Quynh Pham": ["tail"],
-    "Vy Hoang": ["cymbal", "head"],
+    "Connery Tran": ["head"],
     "Dominic Nguyen": ["tail"],
     "Eric Pham": ["drum"],
-    "John Le": ["head", "tail"]
+    "Jason Nguyen": ["drum", "cymbal", "tail"],
+    "Jayden Ly": ["head"],
+    "John Le": ["head", "tail"],
+    "John Pham": ["head", "tail"],
+    "Khang Cao": ["cymbal", "head"],
+    "Kevin Sokphat": ["tail"],
+    "Kiki Quinn": ["cymbal", "head"],
+    "Quynh Pham": ["tail"],
+    "Steven Pham": ["head"],
+    "Vy Hoang": ["cymbal", "head"]
+    
+    
+    
 }
