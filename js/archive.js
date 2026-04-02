@@ -1,4 +1,4 @@
-const lineupsDiv = document.getElementById("lineups"); // Card Container
+const lineupsDiv = document.querySelector(".cards"); // Card Container
 const lineupsFilePath = "../data/archive.json";
 
 document.addEventListener('DOMContentLoaded', function () {
