@@ -1,24 +1,5 @@
 [
     {
-        "name": "APSA at Elon APHIM",
-        "type": "School Event",
-        "date": "April 1st, 2026",
-        "day": "Wednesday",
-        "start": "5:45 PM",
-        "arrive": "5:15 PM",
-        "location": "Medallion Plaza, Elon University",
-        "performers": {
-            "Band": [
-                "Ben Nguyen",
-                "Kiki Quinn"
-            ],
-            "Lion 1": [
-                "Jayden Ly", 
-                "John Pham"
-            ]
-        }
-    },
-    {
         "name": "Raleigh Memorial Park",
         "type": "Public Event",
         "date": "April 4th, 2026",
