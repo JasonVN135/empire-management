@@ -188,7 +188,7 @@ function validateForm() {
     if (!nameInput || !nameInput.value.trim()) {
         return {
             isValid: false,
-            message: "Please enter your name before submitting."
+            message: "Please select your name before submitting."
         };
     }
 
