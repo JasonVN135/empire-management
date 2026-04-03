@@ -113,7 +113,7 @@
         }
     },
     {
-        "name": "Multicultural Festival",
+        "name": "Andrew Lance - Multicultural Festival",
         "type": "Public Event",
         "date": "May 2nd, 2026",
         "day": "Saturday",
@@ -132,6 +132,44 @@
             "Lion 2": [
                 "John Pham",
                 "Ben Nguyen"
+            ]
+        }
+    },
+    {
+        "name": "Andrea Hipos - AAPI Heritage Event",
+        "type": "School Event",
+        "date": "May 11th, 2026",
+        "day": "Monday",
+        "start": "8:30 AM",
+        "arrive": "8:00 AM",
+        "location": "Downtown Durham, NC (TBD)",
+        "performers": {
+            "Need Performers": [
+                "N/A",
+                "N/A"
+            ],
+            "Performers": [
+                "Khang Cao",
+                "John Pham"
+            ]
+        }
+    },
+    {
+        "name": "Shantel Crichlow Volvo",
+        "type": "Company Event",
+        "date": "May 14th, 2026",
+        "day": "Thursday",
+        "start": "11:00 AM",
+        "arrive": "10:30 AM",
+        "location": "7900 National Service Road, Greensboro, NC",
+        "performers": {
+            "Band": [
+                "Kiki Quinn",
+                "Khang Cao"
+            ],
+            "Lion 1": [
+                "Steven Pham",
+                "John Pham"
             ]
         }
     },
@@ -155,6 +193,26 @@
             "Lion 2": [
                 "Kiki Quinn",
                 "Dominic Nguyen"
+            ]
+        }
+    },
+    {
+        "name": "Lisa R - AAPI and NCPAF",
+        "type": "Cultural Event",
+        "date": "June 27th, 2026",
+        "day": "Saturday",
+        "start": "TBD",
+        "arrive": "TBD",
+        "location": "Jacksonville, NC (TBD)",
+        "extra": "Outside and Hot",
+        "performers": {
+            "Band": [
+                "Eric Pham",
+                "Jason Nguyen"
+            ],
+            "Lion 1": [
+                "Kiki Quinn",
+                "John Pham"
             ]
         }
     }

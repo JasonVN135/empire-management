@@ -1,30 +1,13 @@
 [
     {
-        "name": "Andrew Hipos - AAPI Heritage Event",
-        "type": "School Event",
-        "date": "May 11th, 2026",
-        "day": "Monday",
-        "start": "8:30 AM",
-        "arrive": "8:00 AM",
-        "location": "Downtown Durham, NC (TBD)"
-    },
-    {
-        "name": "Shantel Crichlow Volvo",
-        "type": "Company Event",
-        "date": "May 14th, 2026",
-        "day": "Thursday",
-        "start": "11:00 AM",
-        "arrive": "10:30 AM",
-        "location": "7900 National Service Road, Greensboro, NC"
-    },
-    {
-        "name": "Lisa R - AAPI and NCPAF",
-        "type": "Cultural Event",
-        "date": "June 27th, 2026",
+        "name": "Brandy Abbott - GraduationF",
+        "type": "Private Event",
+        "date": "May 9th, 2026",
         "day": "Saturday",
-        "start": "TBD",
-        "arrive": "TBD",
-        "location": "Jacksonville, NC (TBD)",
-        "extra": "Outside and Hot"
+        "start": "5:00 PM",
+        "arrive": "4:30 PM",
+        "location": "917 East Center Ave, Mooresville, NC",
+        "extra": "2 Hrs 30 Min Drive"
     }
+
 ]

@@ -1,48 +1,11 @@
 {
-    "Andrew Hipos - AAPI Heritage Event": {
-        "Free": [
-            "Khang Cao",
-            "John Pham"
-        ],
-        "Maybe": [
-            "Steven Pham",
-            "kiki",
-            "Vy",
-            "Dom"
-        ],
-        "Busy": [
-            "Eric Pham",
-            "Jayden Ly",
-            "Kevin",
-            "Jason"
-        ]
-    },
-    "Shantel Crichlow Volvo": {
-        "Free": [
-            "Steven Pham",
-            "Kiki Quinn",
-            "Khang Cao",
-            "John Pham"
-        ],
-        "Maybe": [
-            "Vy",
-            "Dom"
-        ],
-        "Busy": [
-            "Eric Pham",
-            "Jayden Ly",
-            "Kevin",
-            "Jason"
-        ]
-    },
     "Lisa R - AAPI and NCPAF": {
         "Free": [
             "Eric Pham",
             "Kiki Quinn",
             "Khang Cao",
             "John Pham",
-            "Jason Nguyen",
-            "Steven Pham"
+            "Jason Nguyen"
         ],
         "Maybe": [
             "steven",
@@ -51,6 +14,8 @@
             "Jayden Ly",
             "Kevin"
         ],
-        "Busy": []
+        "Busy": [
+            "Ben Nguyen"
+        ]
     }
 }
