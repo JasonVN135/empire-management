@@ -178,8 +178,8 @@
         "type": "Wedding Event",
         "date": "May 22nd, 2026",
         "day": "Friday",
-        "start": "TBD",
-        "arrive": "TBD",
+        "start": "7:30 PM",
+        "arrive": "6:45 PM",
         "location": "Mint Museum, Charlotte, NC",
         "performers": {
             "Band": [
@@ -203,7 +203,7 @@
         "day": "Saturday",
         "start": "TBD",
         "arrive": "TBD",
-        "location": "Jacksonville, NC (TBD)",
+        "location": "100 Recreation Lane, Jacksonville, NC",
         "extra": "Outside and Hot",
         "performers": {
             "Band": [
