@@ -1,53 +1,5 @@
 [
     {
-        "name": "Raleigh Memorial Park",
-        "type": "Public Event",
-        "date": "April 4th, 2026",
-        "day": "Saturday",
-        "start": "11:30 AM",
-        "arrive": "11:00 AM",
-        "location": "7501 Glennwood Ave, Raleigh, NC",
-        "extra": "Northwest Raleigh",
-        "performers": {
-            "Band": [
-                "Jason Nguyen",
-                "Kiki Quinn"
-            ],
-            "Lion 1": [
-                "Khang Cao",
-                "Dominic Nguyen"
-            ],
-            "Lion 2": [
-                "John Pham",
-                "Ben Nguyen"
-            ]
-        }
-    },
-    {
-        "name": "Andraia Li Wedding",
-        "type": "Wedding Event",
-        "date": "April 4th, 2026",
-        "day": "Saturday",
-        "start": "8:30 PM",
-        "arrive": "7:45 PM",
-        "location": "Wild Common, Charleston, SC",
-        "extra": "~4hr 30min drive",
-        "performers": {
-            "Band": [
-                "Jason Nguyen",
-                "Kiki Quinn"
-            ],
-            "Lion 1": [
-                "John Pham", 
-                "Kevin Sokphat"
-            ],
-            "Lion 2": [
-                "Jayden Ly",
-                "Dominic Nguyen"
-            ]
-        }
-    },
-    {
         "name": "Lisa's Birthday",
         "type": "Private Event",
         "date": "April 12th, 2026",
