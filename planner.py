@@ -118,7 +118,7 @@ def score_lineups(lineups : list[dict]) -> list:
         
         for members in lineup.values():
             for member in members:
-                entry["score"] += performance_count[member]
+                entry["score"] += performance_count.get(member, 0)
         results.append(entry)
     
     sorted_data = sorted(results, key=lambda x: x['score'])

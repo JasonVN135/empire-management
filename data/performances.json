@@ -1,13 +1,52 @@
 [
     {
-        "name": "Brandy Abbott - Graduation",
-        "type": "Private Event",
-        "date": "May 9th, 2026",
+        "name": "Odaly Rivas - Wake Forest University",
+        "type": "School Event",
+        "date": "April 23rd, 2026",
+        "day": "Thursday",
+        "start": "6:00 PM (TBD)",
+        "arrive": "5:15 PM (TBD)",
+        "location": "Wake Forest University, Winston Salem, NC",
+        "extra": "Event is 6-8:30 PM, 2hr 4min drive from NCSU"
+    },
+    {
+        "name": "Dream Asian Food Fest Day 1",
+        "type": "Public Food Event",
+        "date": "April 24th, 2026",
+        "day": "Friday",
+        "start": "5:45 PM",
+        "arrive": "5:15 PM",
+        "location": "Winston Salem Fairgrounds, Winston Salem, NC",
+        "extra": "2hr 5min drive from NCSU"
+    },
+    {
+        "name": "Dream Asian Food Fest Day 2",
+        "type": "Public Food Event",
+        "date": "April 25th, 2026",
         "day": "Saturday",
-        "start": "5:00 PM",
-        "arrive": "4:30 PM",
-        "location": "917 East Center Ave, Mooresville, NC",
-        "extra": "2 Hrs 30 Min Drive"
+        "start": "4:00 PM (TBD)",
+        "arrive": "3:30 PM (TBD)",
+        "location": "Winston Salem Fairgrounds, Winston Salem, NC",
+        "extra": "2hr 5min drive from NCSU"
+    },
+    {
+        "name": "Dream Asian Food Fest Day 3",
+        "type": "Public Food Event",
+        "date": "April 26th, 2026",
+        "day": "Sunday",
+        "start": "5:30 PM",
+        "arrive": "5:00 PM",
+        "location": "Winston Salem Fairgrounds, Winston Salem, NC",
+        "extra": "2hr 5min drive from NCSU"
+    },
+    {
+        "name": "Andrea Hipos - AAPI Heritage Event",
+        "type": "School Event",
+        "date": "May 11th, 2026",
+        "day": "Monday",
+        "start": "8:30 AM",
+        "arrive": "8:00 AM",
+        "location": "Downtown Durham, NC (TBD)"
     }
 
 ]
