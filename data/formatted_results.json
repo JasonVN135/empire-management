@@ -1,18 +1,92 @@
 {
-    "Brandy Abbott - Graduation": {
+    "Odaly Rivas - Wake Forest University": {
         "Free": [
-            "Kiki Quinn",
-            "Eric Pham",
             "Khang Cao",
-            "Dominic Nguyen",
-            "Jason Nguyen",
-            "Keanu Tran"
-        ],
-        "Maybe": [],
-        "Busy": [
-            "Kevin Sokphat",
-            "Jayden Ly",
             "John Pham"
+        ],
+        "Maybe": [
+            "Jason Nguyen",
+            "Kiki Quinn",
+            "Kevin Sokphat",
+            "Steven Pham",
+            "Vy Hoang"
+        ],
+        "Busy": [
+            "Dominic Nguyen",
+            "Eric Pham",
+            "Jayden Ly"
+        ]
+    },
+    "Dream Asian Food Fest Day 1": {
+        "Free": [
+            "Dominic Nguyen",
+            "Kiki Quinn",
+            "Khang Cao",
+            "John Pham",
+            "Eric Pham",
+            "Steven Pham"
+        ],
+        "Maybe": [
+            "Jason Nguyen",
+            "Kevin Sokphat"
+        ],
+        "Busy": [
+            "Vy Hoang",
+            "Jayden Ly"
+        ]
+    },
+    "Dream Asian Food Fest Day 2": {
+        "Free": [
+            "Jason Nguyen",
+            "Dominic Nguyen",
+            "Kiki Quinn",
+            "Khang Cao",
+            "John Pham",
+            "Steven Pham",
+            "Jayden Ly"
+        ],
+        "Maybe": [
+            "Kevin Sokphat",
+            "Eric Pham"
+        ],
+        "Busy": [
+            "Vy Hoang"
+        ]
+    },
+    "Dream Asian Food Fest Day 3": {
+        "Free": [
+            "Dominic Nguyen",
+            "Khang Cao",
+            "John Pham",
+            "Steven Pham",
+            "Jayden Ly"
+        ],
+        "Maybe": [
+            "Jason Nguyen",
+            "Vy Hoang"
+        ],
+        "Busy": [
+            "Kiki Quinn",
+            "Kevin Sokphat",
+            "Eric Pham"
+        ]
+    },
+    "Andrea Hipos - AAPI Heritage Event": {
+        "Free": [
+            "Khang Cao",
+            "John Pham",
+            "Vy Hoang"
+        ],
+        "Maybe": [
+            "Dominic Nguyen",
+            "Steven Pham"
+        ],
+        "Busy": [
+            "Jason Nguyen",
+            "Kiki Quinn",
+            "Kevin Sokphat",
+            "Eric Pham",
+            "Jayden Ly"
         ]
     }
 }
