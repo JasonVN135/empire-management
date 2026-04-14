@@ -1,20 +1,22 @@
 {
     "Odaly Rivas - Wake Forest University": {
         "Free": [
+            "Kiki Quinn",
             "Khang Cao",
             "John Pham"
         ],
         "Maybe": [
             "Jason Nguyen",
-            "Kiki Quinn",
             "Kevin Sokphat",
             "Steven Pham",
-            "Vy Hoang"
+            "Vy Hoang",
+            "Ben Nguyen"
         ],
         "Busy": [
             "Dominic Nguyen",
             "Eric Pham",
-            "Jayden Ly"
+            "Jayden Ly",
+            "John Le"
         ]
     },
     "Dream Asian Food Fest Day 1": {
@@ -32,7 +34,9 @@
         ],
         "Busy": [
             "Vy Hoang",
-            "Jayden Ly"
+            "Jayden Ly",
+            "Ben Nguyen",
+            "John Le"
         ]
     },
     "Dream Asian Food Fest Day 2": {
@@ -50,7 +54,9 @@
             "Eric Pham"
         ],
         "Busy": [
-            "Vy Hoang"
+            "Vy Hoang",
+            "Ben Nguyen",
+            "John Le"
         ]
     },
     "Dream Asian Food Fest Day 3": {
@@ -59,23 +65,26 @@
             "Khang Cao",
             "John Pham",
             "Steven Pham",
-            "Jayden Ly"
+            "Jayden Ly",
+            "Jason Nguyen"
         ],
         "Maybe": [
-            "Jason Nguyen",
             "Vy Hoang"
         ],
         "Busy": [
             "Kiki Quinn",
             "Kevin Sokphat",
-            "Eric Pham"
+            "Eric Pham",
+            "Ben Nguyen",
+            "John Le"
         ]
     },
     "Andrea Hipos - AAPI Heritage Event": {
         "Free": [
             "Khang Cao",
             "John Pham",
-            "Vy Hoang"
+            "Vy Hoang",
+            "Ben Nguyen"
         ],
         "Maybe": [
             "Dominic Nguyen",
@@ -86,7 +95,8 @@
             "Kiki Quinn",
             "Kevin Sokphat",
             "Eric Pham",
-            "Jayden Ly"
+            "Jayden Ly",
+            "John Le"
         ]
     }
 }
