@@ -502,5 +502,24 @@
                 "Dominic Nguyen"
             ]
         }
+    },
+    {
+        "name": "Lisa's Birthday",
+        "type": "Private Event",
+        "date": "April 12th, 2026",
+        "day": "Sunday",
+        "start": "2:00 PM",
+        "arrive": "1:30 PM",
+        "location": "1101 W Chapel Hill St, Durham, NC",
+        "performers": {
+            "Band": [
+                "Jason Nguyen",
+                "Khang Cao"
+            ],
+            "Lion 1": [
+                "Kiki Quinn",
+                "John Pham"
+            ]
+        }
     }
 ]
