@@ -77,8 +77,8 @@
                 "Khang Cao"
             ],
             "Lion 1": [
-                "John Pham",
-                "Dominic Nguyen"
+                "Jayden Ly",
+                "John Pham"
             ]
         }
     },
@@ -100,7 +100,7 @@
                 "John Pham"
             ],
             "Lion 2": [
-                "Kiki Quinn",
+                "Jayden Ly",
                 "Kevin Sokphat"
             ]
         }
@@ -156,6 +156,7 @@
         "start": "8:30 AM",
         "arrive": "8:00 AM",
         "location": "Downtown Durham, NC (TBD)",
+        "extra": "CANCELLED",
         "performers": {
             "Need Performers": [
                 "Ben Nguyen",
