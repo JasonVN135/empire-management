@@ -1,13 +1,30 @@
 [
     {
-        "name": "Odaly Rivas - Wake Forest University",
-        "type": "School Event",
-        "date": "April 23rd, 2026",
+        "name": "Durham Bulls",
+        "type": "Culture Event",
+        "date": "May 1st, 2026",
+        "day": "Friday",
+        "start": "5:30 PM",
+        "arrive": "5:00 PM",
+        "location": "Durham, NC (TBD)"
+    },
+    {
+        "name": "J.D Clement Early College High School",
+        "type": "Culture Event",
+        "date": "May 14th, 2026",
         "day": "Thursday",
-        "start": "6:00 PM (TBD)",
-        "arrive": "5:15 PM (TBD)",
-        "location": "Wake Forest University, Winston Salem, NC",
-        "extra": "Event is 6-8:30 PM, 2hr 4min drive from NCSU"
+        "start": "TBD",
+        "arrive": "TBD",
+        "location": "Durham, NC (TBD)"
+    },
+    {
+        "name": "Tina Nguyen's Wedding",
+        "type": "Wedding Event",
+        "date": "August 22nd, 2026",
+        "day": "Saturday",
+        "start": "TBD",
+        "arrive": "TBD",
+        "location": "4383 Siler City Snow Camp Rd, Siler City, NC",
+        "extra": "1hr drive from NCSU towards Greensboro"
     }
-
 ]

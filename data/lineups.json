@@ -4,8 +4,8 @@
         "type": "Public Food Event",
         "date": "April 24th, 2026",
         "day": "Friday",
-        "start": "5:45 PM",
-        "arrive": "5:15 PM",
+        "start": "5:00 PM",
+        "arrive": "4:30 PM",
         "location": "Winston Salem Fairgrounds, Winston Salem, NC",
         "extra": "2hr 5min drive from NCSU",
         "performers": {
@@ -24,8 +24,8 @@
         "type": "Public Food Event",
         "date": "April 25th, 2026",
         "day": "Saturday",
-        "start": "4:00 PM (TBD)",
-        "arrive": "3:30 PM (TBD)",
+        "start": "3:30 PM",
+        "arrive": "3:00 PM",
         "location": "Winston Salem Fairgrounds, Winston Salem, NC",
         "extra": "2hr 5min drive from NCSU",
         "performers": {
@@ -53,7 +53,7 @@
                 "Kiki Quinn"
             ],
             "Lion 1": [
-                "Connery Tran",
+                "Jayden Ly",
                 "John Pham"
             ],
             "Lion 2": [
@@ -67,8 +67,8 @@
         "type": "Public Food Event",
         "date": "April 26th, 2026",
         "day": "Sunday",
-        "start": "5:30 PM",
-        "arrive": "5:00 PM",
+        "start": "5:45 PM",
+        "arrive": "5:15 PM",
         "location": "Winston Salem Fairgrounds, Winston Salem, NC",
         "extra": "2hr 5min drive from NCSU",
         "performers": {
@@ -100,7 +100,7 @@
                 "John Pham"
             ],
             "Lion 2": [
-                "Jayden Ly",
+                "Kiki Quinn",
                 "Kevin Sokphat"
             ]
         }
@@ -110,8 +110,8 @@
         "type": "Public Event",
         "date": "May 2nd, 2026",
         "day": "Saturday",
-        "start": "11:00 AM",
-        "arrive": "10:15 AM",
+        "start": "10:30 AM",
+        "arrive": "10:00 AM",
         "location": "400 Greensboro St Ext, Lexington, NC",
         "performers": {
             "Band": [
@@ -192,8 +192,8 @@
         "type": "Wedding Event",
         "date": "May 22nd, 2026",
         "day": "Friday",
-        "start": "7:30 PM",
-        "arrive": "6:45 PM",
+        "start": "8:00 PM",
+        "arrive": "7:15 PM",
         "location": "2730 Randolph Rd, Charlotte, NC",
         "performers": {
             "Band": [
