@@ -1,102 +1,52 @@
 {
-    "Odaly Rivas - Wake Forest University": {
+    "Durham Bulls": {
         "Free": [
-            "Kiki Quinn",
+            "Vy Hoang",
+            "Alex Nguyen",
+            "John Pham",
             "Khang Cao",
-            "John Pham"
-        ],
-        "Maybe": [
-            "Jason Nguyen",
             "Kevin Sokphat",
-            "Steven Pham",
-            "Vy Hoang",
-            "Ben Nguyen"
-        ],
-        "Busy": [
-            "Dominic Nguyen",
-            "Eric Pham",
-            "Jayden Ly",
-            "John Le"
-        ]
-    },
-    "Dream Asian Food Fest Day 1": {
-        "Free": [
-            "Dominic Nguyen",
             "Kiki Quinn",
-            "Khang Cao",
-            "John Pham",
-            "Eric Pham",
-            "Steven Pham"
-        ],
-        "Maybe": [
-            "Jason Nguyen",
-            "Kevin Sokphat"
-        ],
-        "Busy": [
-            "Vy Hoang",
-            "Jayden Ly",
-            "Ben Nguyen",
-            "John Le"
-        ]
-    },
-    "Dream Asian Food Fest Day 2": {
-        "Free": [
-            "Jason Nguyen",
-            "Dominic Nguyen",
-            "Kiki Quinn",
-            "Khang Cao",
-            "John Pham",
-            "Steven Pham",
-            "Jayden Ly"
-        ],
-        "Maybe": [
-            "Kevin Sokphat",
-            "Eric Pham"
-        ],
-        "Busy": [
-            "Vy Hoang",
-            "Ben Nguyen",
-            "John Le"
-        ]
-    },
-    "Dream Asian Food Fest Day 3": {
-        "Free": [
-            "Dominic Nguyen",
-            "Khang Cao",
-            "John Pham",
-            "Steven Pham",
-            "Jayden Ly",
             "Jason Nguyen"
         ],
         "Maybe": [
-            "Vy Hoang"
+            "Dominic Nguyen"
         ],
         "Busy": [
-            "Kiki Quinn",
-            "Kevin Sokphat",
-            "Eric Pham",
-            "Ben Nguyen",
-            "John Le"
+            "Eric Pham"
         ]
     },
-    "Andrea Hipos - AAPI Heritage Event": {
+    "J.D Clement Early College High School": {
         "Free": [
-            "Khang Cao",
             "John Pham",
-            "Vy Hoang",
-            "Ben Nguyen"
+            "Khang Cao",
+            "Dominic Nguyen"
         ],
         "Maybe": [
-            "Dominic Nguyen",
-            "Steven Pham"
+            "Jason Nguyen"
         ],
         "Busy": [
-            "Jason Nguyen",
-            "Kiki Quinn",
-            "Kevin Sokphat",
+            "Vy Hoang",
+            "Alex Nguyen",
             "Eric Pham",
-            "Jayden Ly",
-            "John Le"
+            "Kevin Sokphat",
+            "Kiki Quinn"
         ]
+    },
+    "Tina Nguyen's Wedding": {
+        "Free": [
+            "John Pham",
+            "Khang Cao",
+            "Dominic Nguyen",
+            "Eric Pham",
+            "Kiki Quinn"
+        ],
+        "Maybe": [
+            "Vy Hoang",
+            "Alex Nguyen",
+            "Kevin Sokphat",
+            "Jason Nguyen"
+        ],
+        "Busy": []
     }
 }
