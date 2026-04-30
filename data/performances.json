@@ -1,14 +1,5 @@
 [
     {
-        "name": "Durham Bulls",
-        "type": "Culture Event",
-        "date": "May 1st, 2026",
-        "day": "Friday",
-        "start": "5:30 PM",
-        "arrive": "5:00 PM",
-        "location": "Durham, NC (TBD)"
-    },
-    {
         "name": "J.D Clement Early College High School",
         "type": "Culture Event",
         "date": "May 14th, 2026",
@@ -18,13 +9,12 @@
         "location": "Durham, NC (TBD)"
     },
     {
-        "name": "Tina Nguyen's Wedding",
-        "type": "Wedding Event",
-        "date": "August 22nd, 2026",
-        "day": "Saturday",
-        "start": "TBD",
-        "arrive": "TBD",
-        "location": "4383 Siler City Snow Camp Rd, Siler City, NC",
-        "extra": "1hr drive from NCSU towards Greensboro"
+        "name": "Immaculata Catholic School",
+        "type": "School Event",
+        "date": "May 11th, 2026",
+        "day": "Monday",
+        "start": "Early Morning (TBD)",
+        "arrive": "(TBD)",
+        "location": "721 Burch Ave, Durham, NC"
     }
 ]

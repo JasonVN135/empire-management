@@ -7,30 +7,38 @@
             "Khang Cao",
             "Kevin Sokphat",
             "Kiki Quinn",
-            "Jason Nguyen"
+            "Jason Nguyen",
+            "Jayden Ly",
+            "Steven Pham",
+            "Ben Nguyen"
         ],
         "Maybe": [
             "Dominic Nguyen"
         ],
         "Busy": [
-            "Eric Pham"
+            "Eric Pham",
+            "Connery Tran"
         ]
     },
     "J.D Clement Early College High School": {
         "Free": [
             "John Pham",
             "Khang Cao",
-            "Dominic Nguyen"
+            "Dominic Nguyen",
+            "Connery Tran"
         ],
         "Maybe": [
-            "Jason Nguyen"
+            "Jason Nguyen",
+            "Jayden Ly",
+            "Steven Pham"
         ],
         "Busy": [
             "Vy Hoang",
             "Alex Nguyen",
             "Eric Pham",
             "Kevin Sokphat",
-            "Kiki Quinn"
+            "Kiki Quinn",
+            "Ben Nguyen"
         ]
     },
     "Tina Nguyen's Wedding": {
@@ -39,13 +47,17 @@
             "Khang Cao",
             "Dominic Nguyen",
             "Eric Pham",
-            "Kiki Quinn"
+            "Kiki Quinn",
+            "Ben Nguyen",
+            "Connery Tran"
         ],
         "Maybe": [
             "Vy Hoang",
             "Alex Nguyen",
             "Kevin Sokphat",
-            "Jason Nguyen"
+            "Jason Nguyen",
+            "Jayden Ly",
+            "Steven Pham"
         ],
         "Busy": []
     }

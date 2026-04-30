@@ -150,8 +150,9 @@ if __name__ == "__main__":
     
     lineups : dict = {}
     for performance_name, submission in submission_data.items():
-
-        results : list = add_member(performer_ids, submission["Free"], position_count)
+        results : list = []
+        if (len(submission["Free"]) >= (lion_count * 2) + 2):
+            results = add_member(performer_ids, submission["Free"], position_count)
         lineups[performance_name] = simplify_results(results)
     
     for performance_name, lineup_options in lineups.items():

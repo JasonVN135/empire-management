@@ -1,98 +1,16 @@
 [
     {
-        "name": "Dream Asian Food Fest Day 1",
-        "type": "Public Food Event",
-        "date": "April 24th, 2026",
+        "name": "Durham Bulls",
+        "type": "Cultural Event",
+        "date": "May 1st, 2026",
         "day": "Friday",
-        "start": "5:00 PM",
-        "arrive": "4:30 PM",
-        "location": "Winston Salem Fairgrounds, Winston Salem, NC",
-        "extra": "2hr 5min drive from NCSU",
-        "performers": {
-            "Band": [
-                "Eric Pham",
-                "Kiki Quinn"
-            ],
-            "Lion 1": [
-                "Steven Pham",
-                "John Pham"
-            ]
-        }
-    },
-    {
-        "name": "Dream Asian Food Fest Day 2",
-        "type": "Public Food Event",
-        "date": "April 25th, 2026",
-        "day": "Saturday",
-        "start": "3:30 PM",
-        "arrive": "3:00 PM",
-        "location": "Winston Salem Fairgrounds, Winston Salem, NC",
-        "extra": "2hr 5min drive from NCSU",
-        "performers": {
-            "Band": [
-                "Jason Nguyen",
-                "Kiki Quinn"
-            ],
-            "Lion 1": [
-                "Steven Pham",
-                "John Pham"
-            ]
-        }
-    },
-    {
-        "name": "Skylar's Wedding",
-        "type": "Wedding Event",
-        "date": "April 25th, 2026",
-        "day": "Saturday",
-        "start": "7:00 PM",
-        "arrive": "6:15 PM",
-        "location": "220 N. Tryon Street, Charlotte, NC",
+        "start": "5:30 PM",
+        "arrive": "5:00 PM",
+        "location": "409 Blackwell St, Durham, NC",
         "performers": {
             "Band": [
                 "Ben Nguyen",
-                "Kiki Quinn"
-            ],
-            "Lion 1": [
-                "Jayden Ly",
-                "John Pham"
-            ],
-            "Lion 2": [
-                "Steven Pham",
-                "Jason Nguyen"
-            ]
-        }
-    },
-    {
-        "name": "Dream Asian Food Fest Day 3",
-        "type": "Public Food Event",
-        "date": "April 26th, 2026",
-        "day": "Sunday",
-        "start": "5:45 PM",
-        "arrive": "5:15 PM",
-        "location": "Winston Salem Fairgrounds, Winston Salem, NC",
-        "extra": "2hr 5min drive from NCSU",
-        "performers": {
-            "Band": [
-                "Jason Nguyen",
-                "Khang Cao"
-            ],
-            "Lion 1": [
-                "Jayden Ly",
-                "John Pham"
-            ]
-        }
-    },
-    {
-        "name": "Jecin's Wedding",
-        "type": "Wedding Event",
-        "date": "April 26th, 2026",
-        "day": "Sunday",
-        "start": "9:45 PM",
-        "arrive": "9:15 PM",
-        "location": "6304 Old Henks Rd, Apex NC",
-        "performers": {
-            "Band": [
-                "Jason Nguyen",
+                "Kiki Quinn",
                 "Vy Hoang"
             ],
             "Lion 1": [
@@ -149,26 +67,6 @@
         }
     },
     {
-        "name": "Andrea Hipos - AAPI Heritage Event",
-        "type": "School Event",
-        "date": "May 11th, 2026",
-        "day": "Monday",
-        "start": "8:30 AM",
-        "arrive": "8:00 AM",
-        "location": "Downtown Durham, NC (TBD)",
-        "extra": "CANCELLED",
-        "performers": {
-            "Need Performers": [
-                "Ben Nguyen",
-                "Vy Hoang"
-            ],
-            "Performers": [
-                "Khang Cao",
-                "John Pham"
-            ]
-        }
-    },
-    {
         "name": "Shantel Crichlow Volvo",
         "type": "Company Event",
         "date": "May 14th, 2026",
@@ -184,6 +82,25 @@
             "Lion 1": [
                 "Steven Pham",
                 "John Pham"
+            ]
+        }
+    },
+    {
+        "name": "J.D Clement Early College High School",
+        "type": "Culture Event",
+        "date": "May 14th, 2026",
+        "day": "Thursday",
+        "start": "TBD",
+        "arrive": "TBD",
+        "location": "1801 Fayetteville St, Durham, NC",
+        "performers": {
+            "Lion 1": [
+                "Connery Tran",
+                "John Pham"
+            ],
+            "Lion 2": [
+                "Khang Cao",
+                "Dominic Nguyen"
             ]
         }
     },
@@ -211,6 +128,82 @@
         }
     },
     {
+        "name": "Dream Asia Fest GA 1",
+        "type": "Cultural Event",
+        "date": "May 23rd, 2026",
+        "day": "Saturday",
+        "start": "5:00 PM",
+        "arrive": "4:30 PM",
+        "location": "2405 Sugarloaf Pkwy, Lawrenceville, GA",
+        "performers": {
+            "Band": [
+                "Jason Nguyen",
+                "Andrew Phan"
+            ],
+            "Lion 1": [
+                "Connery Tran",
+                "John Pham"
+            ]
+        }
+    },
+    {
+        "name": "Dream Asia Fest GA 2",
+        "type": "Cultural Event",
+        "date": "May 24rd, 2026",
+        "day": "Sunday",
+        "start": "3:45 PM",
+        "arrive": "3:15 PM",
+        "location": "2405 Sugarloaf Pkwy, Lawrenceville, GA",
+        "performers": {
+            "Band": [
+                "Jason Nguyen",
+                "Andrew Phan"
+            ],
+            "Lion 1": [
+                "Connery Tran",
+                "John Pham"
+            ]
+        }
+    },
+    {
+        "name": "Dream Asia Fest GA 3",
+        "type": "Cultural Event",
+        "date": "May 25rd, 2026",
+        "day": "Monday",
+        "start": "2:30 PM",
+        "arrive": "1:30 PM",
+        "location": "2405 Sugarloaf Pkwy, Lawrenceville, GA",
+        "performers": {
+            "Band": [
+                "Jason Nguyen",
+                "Andrew Phan"
+            ],
+            "Lion 1": [
+                "Connery Tran",
+                "John Pham"
+            ]
+        }
+    },
+    {
+        "name": "Dream Asia Fest GA 4",
+        "type": "Cultural Event",
+        "date": "May 25rd, 2026",
+        "day": "Monday",
+        "start": "6:00 PM",
+        "arrive": "5:30 PM",
+        "location": "2405 Sugarloaf Pkwy, Lawrenceville, GA",
+        "performers": {
+            "Band": [
+                "Jason Nguyen",
+                "Andrew Phan"
+            ],
+            "Lion 1": [
+                "Connery Tran",
+                "John Pham"
+            ]
+        }
+    },
+    {
         "name": "Lisa R - AAPI and NCPAF",
         "type": "Cultural Event",
         "date": "June 27th, 2026",
@@ -227,6 +220,30 @@
             "Lion 1": [
                 "Khang Cao",
                 "John Pham"
+            ]
+        }
+    },
+    {
+        "name": "Tina Nguyen's Wedding",
+        "type": "Wedding Event",
+        "date": "August 22nd, 2026",
+        "day": "Saturday",
+        "start": "TBD",
+        "arrive": "TBD",
+        "location": "4383 Siler City Snow Camp Rd, Siler City, NC",
+        "extra": "1hr drive from NCSU towards Greensboro",
+        "performers": {
+            "Band": [
+                "Jason Nguyen",
+                "Kiki Quinn"
+            ],
+            "Lion 1": [
+                "Khang Cao",
+                "Ben Nguyen"
+            ],
+            "Lion 2": [
+                "Connery Tran",
+                "Dominic Nguyen"
             ]
         }
     }
