@@ -1,14 +1,5 @@
 [
     {
-        "name": "J.D Clement Early College High School",
-        "type": "Culture Event",
-        "date": "May 14th, 2026",
-        "day": "Thursday",
-        "start": "TBD",
-        "arrive": "TBD",
-        "location": "Durham, NC (TBD)"
-    },
-    {
         "name": "Immaculata Catholic School",
         "type": "School Event",
         "date": "May 11th, 2026",
@@ -16,5 +7,26 @@
         "start": "Early Morning (TBD)",
         "arrive": "(TBD)",
         "location": "721 Burch Ave, Durham, NC"
+    },
+    {
+        "name": "Dream Asia Fest VA",
+        "type": "Cultural Event",
+        "date": "June 12-14th, 2026",
+        "day": "Friday-Sunday",
+        "start": "TBD",
+        "arrive": "TBD",
+        "location": "13191 Dawn Blvd, Doswell, VA",
+        "extra": "Ideally be available all days"
+    },
+    {
+        "name": "Dream Asia Fest SC",
+        "type": "Cultural Event",
+        "date": "August 7-9th, 2026",
+        "day": "Friday-Sunday",
+        "start": "TBD",
+        "arrive": "TBD",
+        "location": "1200 Rosewood Dr, Columbia, SC",
+        "extra": "Ideally be available all days"
     }
+    
 ]
