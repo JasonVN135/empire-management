@@ -627,5 +627,52 @@
                 "Kevin Sokphat"
             ]
         }
+    },
+        {
+        "name": "Durham Bulls",
+        "type": "Cultural Event",
+        "date": "May 1st, 2026",
+        "day": "Friday",
+        "start": "5:30 PM",
+        "arrive": "5:00 PM",
+        "location": "409 Blackwell St, Durham, NC",
+        "performers": {
+            "Band": [
+                "Ben Nguyen",
+                "Kiki Quinn",
+                "Vy Hoang"
+            ],
+            "Lion 1": [
+                "Steven Pham",
+                "John Pham"
+            ],
+            "Lion 2": [
+                "Jayden Ly",
+                "Kevin Sokphat"
+            ]
+        }
+    },
+    {
+        "name": "Andrew Lance - Multicultural Festival",
+        "type": "Public Event",
+        "date": "May 2nd, 2026",
+        "day": "Saturday",
+        "start": "10:30 AM",
+        "arrive": "10:00 AM",
+        "location": "400 Greensboro St Ext, Lexington, NC",
+        "performers": {
+            "Band": [
+                "Eric Pham",
+                "Kiki Quinn"
+            ],
+            "Lion 1": [
+                "Steven Pham",
+                "Dominic Nguyen"
+            ],
+            "Lion 2": [
+                "John Pham",
+                "Ben Nguyen"
+            ]
+        }
     }
 ]

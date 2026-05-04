@@ -1,64 +1,55 @@
 {
-    "Durham Bulls": {
+    "Immaculata Catholic School": {
         "Free": [
-            "Vy Hoang",
-            "Alex Nguyen",
             "John Pham",
-            "Khang Cao",
-            "Kevin Sokphat",
+            "Dominic Nguyen",
+            "Khang Cao"
+        ],
+        "Maybe": [],
+        "Busy": [
+            "Eric Pham",
+            "Alex Nguyen",
+            "Keanu Tran",
             "Kiki Quinn",
-            "Jason Nguyen",
-            "Jayden Ly",
-            "Steven Pham",
-            "Ben Nguyen"
+            "Keanu Tran",
+            "Vy Hoang",
+            "Jason Nguyen"
+        ]
+    },
+    "Dream Asia Fest VA": {
+        "Free": [
+            "John Pham",
+            "Alex Nguyen",
+            "Kiki Quinn",
+            "Khang Cao"
         ],
         "Maybe": [
+            "Keanu Tran",
+            "Vy Hoang",
+            "Jason Nguyen"
+        ],
+        "Busy": [
+            "Eric Pham",
+            "Dominic Nguyen",
+            "Keanu Tran"
+        ]
+    },
+    "Dream Asia Fest SC": {
+        "Free": [
+            "John Pham",
+            "Alex Nguyen",
+            "Keanu Tran",
+            "Kiki Quinn",
+            "Khang Cao",
+            "Keanu Tran"
+        ],
+        "Maybe": [
+            "Vy Hoang",
+            "Jason Nguyen"
+        ],
+        "Busy": [
+            "Eric Pham",
             "Dominic Nguyen"
-        ],
-        "Busy": [
-            "Eric Pham",
-            "Connery Tran"
         ]
-    },
-    "J.D Clement Early College High School": {
-        "Free": [
-            "John Pham",
-            "Khang Cao",
-            "Dominic Nguyen",
-            "Connery Tran"
-        ],
-        "Maybe": [
-            "Jason Nguyen",
-            "Jayden Ly",
-            "Steven Pham"
-        ],
-        "Busy": [
-            "Vy Hoang",
-            "Alex Nguyen",
-            "Eric Pham",
-            "Kevin Sokphat",
-            "Kiki Quinn",
-            "Ben Nguyen"
-        ]
-    },
-    "Tina Nguyen's Wedding": {
-        "Free": [
-            "John Pham",
-            "Khang Cao",
-            "Dominic Nguyen",
-            "Eric Pham",
-            "Kiki Quinn",
-            "Ben Nguyen",
-            "Connery Tran"
-        ],
-        "Maybe": [
-            "Vy Hoang",
-            "Alex Nguyen",
-            "Kevin Sokphat",
-            "Jason Nguyen",
-            "Jayden Ly",
-            "Steven Pham"
-        ],
-        "Busy": []
     }
 }
