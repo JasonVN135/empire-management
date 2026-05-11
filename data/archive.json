@@ -674,5 +674,25 @@
                 "Ben Nguyen"
             ]
         }
+    },
+        {
+        "name": "Brandy Abbott - Graduation",
+        "type": "Private Event",
+        "date": "May 9th, 2026",
+        "day": "Saturday",
+        "start": "5:00 PM",
+        "arrive": "4:30 PM",
+        "location": "917 East Center Ave, Mooresville, NC",
+        "extra": "2 Hrs 30 Min Drive",
+        "performers": {
+            "Need Performers": [
+                "Eric Pham",
+                "Jason Nguyen"
+            ],
+            "Performers": [
+                "Kiki Quinn",
+                "Dominic Nguyen"
+            ]
+        }
     }
 ]
