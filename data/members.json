@@ -12,7 +12,8 @@
     "Keanu Tran": ["head"],
     "Kevin Sokphat": ["tail"],
     "Kiki Quinn": ["cymbal", "head"],
+    "Peter Nguyen": ["head"],
     "Quynh Pham": ["tail"],
-    "Steven Pham": ["head"],
+    "Steven Pham": ["head", "tail"],
     "Vy Hoang": ["cymbal", "head"]
 }

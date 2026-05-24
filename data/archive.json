@@ -694,5 +694,24 @@
                 "Dominic Nguyen"
             ]
         }
+    },
+        {
+        "name": "Shantel Crichlow Volvo",
+        "type": "Company Event",
+        "date": "May 14th, 2026",
+        "day": "Thursday",
+        "start": "11:00 AM",
+        "arrive": "10:30 AM",
+        "location": "7900 National Service Road, Greensboro, NC",
+        "performers": {
+            "Band": [
+                "Kiki Quinn",
+                "Khang Cao"
+            ],
+            "Lion 1": [
+                "Steven Pham",
+                "John Pham"
+            ]
+        }
     }
 ]
