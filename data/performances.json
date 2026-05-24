@@ -38,5 +38,15 @@
         "arrive": "Varies",
         "location": "101 W Cromwell St, Baltimore, MD",
         "extra": "Be available all days"
+    },
+    {
+        "name": "Dream Asia Fest MA",
+        "type": "Cultural Event",
+        "date": "October 16th-18th, 2026",
+        "day": "Friday-Sunday",
+        "start": "Varies",
+        "arrive": "Varies",
+        "location": "54 Fair St, Northampton, MA",
+        "extra": "Be available all days"
     }
 ]
