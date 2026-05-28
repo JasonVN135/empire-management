@@ -81,7 +81,7 @@
             ]
         }
     },
-        {
+    {
         "name": "LabCorp",
         "type": "Company Event",
         "date": "February 11th, 2026",
@@ -235,7 +235,7 @@
             ]
         }
     },
-        {
+    {
         "name": "NCSU Vet School",
         "type": "School Event",
         "date": "February 18th, 2026",
@@ -408,7 +408,7 @@
                 "Kiki Quinn"
             ],
             "Lion 1": [
-                "Jayden Ly", 
+                "Jayden Ly",
                 "John Pham"
             ],
             "Lion 2": [
@@ -431,7 +431,7 @@
                 "Vy Hoang"
             ],
             "Lion 1": [
-                "John Pham", 
+                "John Pham",
                 "Dominic Nguyen"
             ]
         }
@@ -450,12 +450,12 @@
                 "Kiki Quinn"
             ],
             "Lion 1": [
-                "Jayden Ly", 
+                "Jayden Ly",
                 "John Pham"
             ]
         }
     },
-        {
+    {
         "name": "Raleigh Memorial Park",
         "type": "Public Event",
         "date": "April 4th, 2026",
@@ -494,7 +494,7 @@
                 "Kiki Quinn"
             ],
             "Lion 1": [
-                "John Pham", 
+                "John Pham",
                 "Kevin Sokphat"
             ],
             "Lion 2": [
@@ -522,7 +522,7 @@
             ]
         }
     },
-        {
+    {
         "name": "Dream Asian Food Fest Day 1",
         "type": "Public Food Event",
         "date": "April 24th, 2026",
@@ -628,7 +628,7 @@
             ]
         }
     },
-        {
+    {
         "name": "Durham Bulls",
         "type": "Cultural Event",
         "date": "May 1st, 2026",
@@ -675,7 +675,7 @@
             ]
         }
     },
-        {
+    {
         "name": "Brandy Abbott - Graduation",
         "type": "Private Event",
         "date": "May 9th, 2026",
@@ -695,7 +695,7 @@
             ]
         }
     },
-        {
+    {
         "name": "Shantel Crichlow Volvo",
         "type": "Company Event",
         "date": "May 14th, 2026",
@@ -710,6 +710,63 @@
             ],
             "Lion 1": [
                 "Steven Pham",
+                "John Pham"
+            ]
+        }
+    },
+    {
+        "name": "Dream Asia Fest GA 2",
+        "type": "Cultural Event",
+        "date": "May 24rd, 2026",
+        "day": "Sunday",
+        "start": "6:00 PM",
+        "arrive": "5:30 PM",
+        "location": "2405 Sugarloaf Pkwy, Lawrenceville, GA",
+        "performers": {
+            "Band": [
+                "Jason Nguyen",
+                "Andrew Phan"
+            ],
+            "Lion 1": [
+                "Connery Tran",
+                "John Pham"
+            ]
+        }
+    },
+    {
+        "name": "Dream Asia Fest GA 3",
+        "type": "Cultural Event",
+        "date": "May 25rd, 2026",
+        "day": "Monday",
+        "start": "12:00 PM",
+        "arrive": "11:30 AM",
+        "location": "2405 Sugarloaf Pkwy, Lawrenceville, GA",
+        "performers": {
+            "Band": [
+                "Jason Nguyen",
+                "Andrew Phan"
+            ],
+            "Lion 1": [
+                "Connery Tran",
+                "John Pham"
+            ]
+        }
+    },
+    {
+        "name": "Dream Asia Fest GA 4",
+        "type": "Cultural Event",
+        "date": "May 25rd, 2026",
+        "day": "Monday",
+        "start": "6:00 PM",
+        "arrive": "5:30 PM",
+        "location": "2405 Sugarloaf Pkwy, Lawrenceville, GA",
+        "performers": {
+            "Band": [
+                "Jason Nguyen",
+                "Andrew Phan"
+            ],
+            "Lion 1": [
+                "Connery Tran",
                 "John Pham"
             ]
         }
