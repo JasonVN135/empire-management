@@ -1,5 +1,62 @@
 [
     {
+        "name": "Dream Asia Fest VA 1",
+        "type": "Cultural Event",
+        "date": "June 12th, 2026",
+        "day": "Friday",
+        "start": "6:45 PM",
+        "arrive": "6:15 PM",
+        "location": "13191 Dawn blvd Dowswell, VA",
+        "performers": {
+            "Band": [
+                "Kiki Quinn",
+                "Jayden Ly"
+            ],
+            "Lion 1": [
+                "Steven Pham",
+                "John Pham"
+            ]
+        }
+    },
+    {
+        "name": "Dream Asia Fest VA 2",
+        "type": "Cultural Event",
+        "date": "June 12th-14th, 2026",
+        "day": "Saturday",
+        "start": "6:30 PM",
+        "arrive": "6:00 PM",
+        "location": "13191 Dawn blvd Dowswell, VA",
+        "performers": {
+            "Band": [
+                "Kiki Quinn",
+                "Jayden Ly"
+            ],
+            "Lion 1": [
+                "Steven Pham",
+                "John Pham"
+            ]
+        }
+    },
+    {
+        "name": "Dream Asia Fest VA 3",
+        "type": "Cultural Event",
+        "date": "June 14th, 2026",
+        "day": "Sunday",
+        "start": "6:45 PM",
+        "arrive": "6:15 PM",
+        "location": "13191 Dawn blvd Dowswell, VA",
+        "performers": {
+            "Band": [
+                "Kiki Quinn",
+                "Jayden Ly"
+            ],
+            "Lion 1": [
+                "Steven Pham",
+                "John Pham"
+            ]
+        }
+    },
+    {
         "name": "Lisa R - AAPI and NCPAF",
         "type": "Cultural Event",
         "date": "June 27th, 2026",
@@ -20,6 +77,63 @@
         }
     },
     {
+        "name": "Dream Asia Fest SC 1",
+        "type": "Cultural Event",
+        "date": "August 7th, 2026",
+        "day": "Friday",
+        "start": "TBD",
+        "arrive": "TBD",
+        "location": "1200 Rosewood Dr, Columbia, SC",
+        "performers": {
+            "Band": [
+                "Kiki Quinn",
+                "Vy Hoang"
+            ],
+            "Lion 1": [
+                "Peter Nguyen",
+                "John Pham"
+            ]
+        }
+    },
+    {
+        "name": "Dream Asia Fest SC 2",
+        "type": "Cultural Event",
+        "date": "August 8th, 2026",
+        "day": "Saturday",
+        "start": "TBD",
+        "arrive": "TBD",
+        "location": "1200 Rosewood Dr, Columbia, SC",
+        "performers": {
+            "Band": [
+                "Kiki Quinn",
+                "Vy Hoang"
+            ],
+            "Lion 1": [
+                "Peter Nguyen",
+                "John Pham"
+            ]
+        }
+    },
+    {
+        "name": "Dream Asia Fest SC 3",
+        "type": "Cultural Event",
+        "date": "August 9th, 2026",
+        "day": "Sunday",
+        "start": "TBD",
+        "arrive": "TBD",
+        "location": "1200 Rosewood Dr, Columbia, SC",
+        "performers": {
+            "Band": [
+                "Kiki Quinn",
+                "Vy Hoang"
+            ],
+            "Lion 1": [
+                "Peter Nguyen",
+                "John Pham"
+            ]
+        }
+    },
+        {
         "name": "Tina Nguyen's Wedding",
         "type": "Wedding Event",
         "date": "August 22nd, 2026",
@@ -40,6 +154,177 @@
             "Lion 2": [
                 "Connery Tran",
                 "Dominic Nguyen"
+            ]
+        }
+    },
+    {
+        "name": "Dream Asia Fest PA 1",
+        "type": "Cultural Event",
+        "date": "September 5th, 2026",
+        "day": "Saturday",
+        "start": "TBD",
+        "arrive": "TBD",
+        "location": "100 Station Ave, Oaks, PA",
+        "performers": {
+            "Band": [
+                "Jason Nguyen",
+                "Kiki Quinn"
+            ],
+            "Lion 1": [
+                "John Pham",
+                "Dominic Nguyen"
+            ]
+        }
+    },
+    {
+        "name": "Dream Asia Fest PA 2",
+        "type": "Cultural Event",
+        "date": "September 6th, 2026",
+        "day": "Sunday",
+        "start": "TBD",
+        "arrive": "TBD",
+        "location": "100 Station Ave, Oaks, PA",
+        "performers": {
+            "Band": [
+                "Jason Nguyen",
+                "Kiki Quinn"
+            ],
+            "Lion 1": [
+                "John Pham",
+                "Dominic Nguyen"
+            ]
+        }
+    },
+    {
+        "name": "Dream Asia Fest PA 3",
+        "type": "Cultural Event",
+        "date": "September 7th, 2026",
+        "day": "Monday",
+        "start": "TBD",
+        "arrive": "TBD",
+        "location": "100 Station Ave, Oaks, PA",
+        "performers": {
+            "Band": [
+                "Jason Nguyen",
+                "Kiki Quinn"
+            ],
+            "Lion 1": [
+                "John Pham",
+                "Dominic Nguyen"
+            ]
+        }
+    },
+    {
+        "name": "Dream Asia Fest MD 1",
+        "type": "Cultural Event",
+        "date": "September 25th, 2026",
+        "day": "Friday",
+        "start": "TBD",
+        "arrive": "TBD",
+        "location": "101 W Cromwell St, Baltimore, MD",
+        "performers": {
+            "Band": [
+                "Steven Pham",
+                "Dominic Nguyen"
+            ],
+            "Lion 1": [
+                "John Pham",
+                "Kevin Sokphat"
+            ]
+        }
+    },
+    {
+        "name": "Dream Asia Fest MD 2",
+        "type": "Cultural Event",
+        "date": "September 26th, 2026",
+        "day": "Saturday",
+        "start": "TBD",
+        "arrive": "TBD",
+        "location": "101 W Cromwell St, Baltimore, MD",
+        "performers": {
+            "Band": [
+                "Steven Pham",
+                "Dominic Nguyen"
+            ],
+            "Lion 1": [
+                "John Pham",
+                "Kevin Sokphat"
+            ]
+        }
+    },
+    {
+        "name": "Dream Asia Fest MD 3",
+        "type": "Cultural Event",
+        "date": "September 27th, 2026",
+        "day": "Sunday",
+        "start": "TBD",
+        "arrive": "TBD",
+        "location": "101 W Cromwell St, Baltimore, MD",
+        "performers": {
+            "Band": [
+                "Steven Pham",
+                "Dominic Nguyen"
+            ],
+            "Lion 1": [
+                "John Pham",
+                "Kevin Sokphat"
+            ]
+        }
+    },
+    {
+        "name": "Dream Asia Fest MA 1",
+        "type": "Cultural Event",
+        "date": "October 16th, 2026",
+        "day": "Friday",
+        "start": "TBD",
+        "arrive": "TBD",
+        "location": "54 Fair St, Northampton, MA",
+        "performers": {
+            "Band": [
+                "Kiki Quinn",
+                "Khang Cao"
+            ],
+            "Lion 1": [
+                "John Pham",
+                "Andrew Phan"
+            ]
+        }
+    },
+    {
+        "name": "Dream Asia Fest MA 2",
+        "type": "Cultural Event",
+        "date": "October 17th, 2026",
+        "day": "Saturday",
+        "start": "TBD",
+        "arrive": "TBD",
+        "location": "54 Fair St, Northampton, MA",
+        "performers": {
+            "Band": [
+                "Kiki Quinn",
+                "Khang Cao"
+            ],
+            "Lion 1": [
+                "John Pham",
+                "Andrew Phan"
+            ]
+        }
+    },
+    {
+        "name": "Dream Asia Fest MA 3",
+        "type": "Cultural Event",
+        "date": "October 18th, 2026",
+        "day": "Sunday",
+        "start": "TBD",
+        "arrive": "TBD",
+        "location": "54 Fair St, Northampton, MA",
+        "performers": {
+            "Band": [
+                "Kiki Quinn",
+                "Khang Cao"
+            ],
+            "Lion 1": [
+                "John Pham",
+                "Andrew Phan"
             ]
         }
     }

@@ -1,55 +1,107 @@
 {
-    "Immaculata Catholic School": {
-        "Free": [
-            "John Pham",
-            "Dominic Nguyen",
-            "Khang Cao"
-        ],
-        "Maybe": [],
-        "Busy": [
-            "Eric Pham",
-            "Alex Nguyen",
-            "Keanu Tran",
-            "Kiki Quinn",
-            "Keanu Tran",
-            "Vy Hoang",
-            "Jason Nguyen"
-        ]
-    },
     "Dream Asia Fest VA": {
         "Free": [
-            "John Pham",
-            "Alex Nguyen",
             "Kiki Quinn",
-            "Khang Cao"
+            "Khang Cao",
+            "John Pham",
+            "Peter Nguyen",
+            "Steven Pham"
         ],
         "Maybe": [
-            "Keanu Tran",
             "Vy Hoang",
-            "Jason Nguyen"
+            "Jayden Ly"
         ],
         "Busy": [
-            "Eric Pham",
             "Dominic Nguyen",
-            "Keanu Tran"
+            "Eric Pham",
+            "Ben Nguyen",
+            "Jason Nguyen",
+            "Keanu Tran",
+            "Kevin Sokphat"
         ]
     },
     "Dream Asia Fest SC": {
         "Free": [
-            "John Pham",
-            "Alex Nguyen",
-            "Keanu Tran",
+            "Vy Hoang",
             "Kiki Quinn",
             "Khang Cao",
-            "Keanu Tran"
+            "John Pham",
+            "Jason Nguyen",
+            "Peter Nguyen",
+            "Keanu Tran",
+            "Steven Pham"
+        ],
+        "Maybe": [
+            "Jayden Ly"
+        ],
+        "Busy": [
+            "Dominic Nguyen",
+            "Eric Pham",
+            "Ben Nguyen",
+            "Kevin Sokphat"
+        ]
+    },
+    "Dream Asia Fest PA": {
+        "Free": [
+            "Dominic Nguyen",
+            "Kiki Quinn",
+            "Khang Cao",
+            "John Pham",
+            "Jason Nguyen"
         ],
         "Maybe": [
             "Vy Hoang",
-            "Jason Nguyen"
+            "Peter Nguyen",
+            "Keanu Tran",
+            "Jayden Ly"
         ],
         "Busy": [
             "Eric Pham",
-            "Dominic Nguyen"
+            "Ben Nguyen",
+            "Kevin Sokphat",
+            "Steven Pham"
+        ]
+    },
+    "Dream Asia Fest MD": {
+        "Free": [
+            "Dominic Nguyen",
+            "Khang Cao",
+            "John Pham",
+            "Kevin Sokphat"
+        ],
+        "Maybe": [
+            "Vy Hoang",
+            "Jason Nguyen",
+            "Keanu Tran",
+            "Jayden Ly",
+            "Steven Pham"
+        ],
+        "Busy": [
+            "Kiki Quinn",
+            "Eric Pham",
+            "Ben Nguyen",
+            "Peter Nguyen"
+        ]
+    },
+    "Dream Asia Fest MA": {
+        "Free": [
+            "Dominic Nguyen",
+            "Kiki Quinn",
+            "Khang Cao",
+            "John Pham",
+            "Kevin Sokphat"
+        ],
+        "Maybe": [
+            "Vy Hoang",
+            "Jason Nguyen",
+            "Keanu Tran",
+            "Jayden Ly",
+            "Steven Pham"
+        ],
+        "Busy": [
+            "Eric Pham",
+            "Ben Nguyen",
+            "Peter Nguyen"
         ]
     }
 }
