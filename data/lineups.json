@@ -90,7 +90,7 @@
         "start": "TBD",
         "arrive": "TBD",
         "location": "101 W Cromwell St, Baltimore, MD",
-        "extra": "CANCELED",
+        "extra": "MOST LIKELY CANCELED",
         "performers": {
             "Band": [
                 "Steven Pham",
@@ -110,7 +110,7 @@
         "start": "TBD",
         "arrive": "TBD",
         "location": "101 W Cromwell St, Baltimore, MD",
-        "extra": "CANCELED",
+        "extra": "MOST LIKELY CANCELED",
         "performers": {
             "Band": [
                 "Steven Pham",
@@ -130,6 +130,7 @@
         "start": "TBD",
         "arrive": "TBD",
         "location": "101 W Cromwell St, Baltimore, MD",
+        "extra": "MOST LIKELY CANCELED",
         "performers": {
             "Band": [
                 "Steven Pham",
@@ -169,7 +170,7 @@
         "start": "TBD",
         "arrive": "TBD",
         "location": "54 Fair St, Northampton, MA",
-        "extra": "CANCELED",
+        "extra": "MOST LIKELY CANCELED",
         "performers": {
             "Band": [
                 "Kiki Quinn",
@@ -189,7 +190,7 @@
         "start": "TBD",
         "arrive": "TBD",
         "location": "54 Fair St, Northampton, MA",
-        "extra": "CANCELED",
+        "extra": "MOST LIKELY CANCELED",
         "performers": {
             "Band": [
                 "Kiki Quinn",
