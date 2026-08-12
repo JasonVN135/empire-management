@@ -1,139 +1,5 @@
 [
     {
-        "name": "Dream Asia Fest VA 1",
-        "type": "Cultural Event",
-        "date": "June 12th, 2026",
-        "day": "Friday",
-        "start": "6:45 PM",
-        "arrive": "6:15 PM",
-        "location": "13191 Dawn blvd Dowswell, VA",
-        "performers": {
-            "Band": [
-                "Kiki Quinn",
-                "Jayden Ly"
-            ],
-            "Lion 1": [
-                "Steven Pham",
-                "John Pham"
-            ]
-        }
-    },
-    {
-        "name": "Dream Asia Fest VA 2",
-        "type": "Cultural Event",
-        "date": "June 12th-14th, 2026",
-        "day": "Saturday",
-        "start": "6:30 PM",
-        "arrive": "6:00 PM",
-        "location": "13191 Dawn blvd Dowswell, VA",
-        "performers": {
-            "Band": [
-                "Kiki Quinn",
-                "Jayden Ly"
-            ],
-            "Lion 1": [
-                "Steven Pham",
-                "John Pham"
-            ]
-        }
-    },
-    {
-        "name": "Dream Asia Fest VA 3",
-        "type": "Cultural Event",
-        "date": "June 14th, 2026",
-        "day": "Sunday",
-        "start": "6:45 PM",
-        "arrive": "6:15 PM",
-        "location": "13191 Dawn blvd Dowswell, VA",
-        "performers": {
-            "Band": [
-                "Kiki Quinn",
-                "Jayden Ly"
-            ],
-            "Lion 1": [
-                "Steven Pham",
-                "John Pham"
-            ]
-        }
-    },
-    {
-        "name": "Lisa R - AAPI and NCPAF",
-        "type": "Cultural Event",
-        "date": "June 27th, 2026",
-        "day": "Saturday",
-        "start": "TBD",
-        "arrive": "TBD",
-        "location": "100 Recreation Lane, Jacksonville, NC",
-        "extra": "Outside and Hot",
-        "performers": {
-            "Band": [
-                "Eric Pham",
-                "Jason Nguyen"
-            ],
-            "Lion 1": [
-                "Khang Cao",
-                "John Pham"
-            ]
-        }
-    },
-    {
-        "name": "Dream Asia Fest SC 1",
-        "type": "Cultural Event",
-        "date": "August 7th, 2026",
-        "day": "Friday",
-        "start": "TBD",
-        "arrive": "TBD",
-        "location": "1200 Rosewood Dr, Columbia, SC",
-        "performers": {
-            "Band": [
-                "Kiki Quinn",
-                "Vy Hoang"
-            ],
-            "Lion 1": [
-                "Peter Nguyen",
-                "John Pham"
-            ]
-        }
-    },
-    {
-        "name": "Dream Asia Fest SC 2",
-        "type": "Cultural Event",
-        "date": "August 8th, 2026",
-        "day": "Saturday",
-        "start": "TBD",
-        "arrive": "TBD",
-        "location": "1200 Rosewood Dr, Columbia, SC",
-        "performers": {
-            "Band": [
-                "Kiki Quinn",
-                "Vy Hoang"
-            ],
-            "Lion 1": [
-                "Peter Nguyen",
-                "John Pham"
-            ]
-        }
-    },
-    {
-        "name": "Dream Asia Fest SC 3",
-        "type": "Cultural Event",
-        "date": "August 9th, 2026",
-        "day": "Sunday",
-        "start": "TBD",
-        "arrive": "TBD",
-        "location": "1200 Rosewood Dr, Columbia, SC",
-        "performers": {
-            "Band": [
-                "Kiki Quinn",
-                "Vy Hoang"
-            ],
-            "Lion 1": [
-                "Peter Nguyen",
-                "John Pham"
-            ]
-        }
-    },
-        {
         "name": "Tina Nguyen's Wedding",
         "type": "Wedding Event",
         "date": "August 22nd, 2026",
@@ -141,7 +7,6 @@
         "start": "TBD",
         "arrive": "TBD",
         "location": "4383 Siler City Snow Camp Rd, Siler City, NC",
-        "extra": "1hr drive from NCSU towards Greensboro",
         "performers": {
             "Band": [
                 "Jason Nguyen",
@@ -152,7 +17,7 @@
                 "Ben Nguyen"
             ],
             "Lion 2": [
-                "Connery Tran",
+                "John Pham",
                 "Dominic Nguyen"
             ]
         }
@@ -165,6 +30,7 @@
         "start": "TBD",
         "arrive": "TBD",
         "location": "100 Station Ave, Oaks, PA",
+        "extra": "CANCELED",
         "performers": {
             "Band": [
                 "Jason Nguyen",
@@ -184,6 +50,7 @@
         "start": "TBD",
         "arrive": "TBD",
         "location": "100 Station Ave, Oaks, PA",
+        "extra": "CANCELED",
         "performers": {
             "Band": [
                 "Jason Nguyen",
@@ -203,6 +70,7 @@
         "start": "TBD",
         "arrive": "TBD",
         "location": "100 Station Ave, Oaks, PA",
+        "extra": "CANCELED",
         "performers": {
             "Band": [
                 "Jason Nguyen",
@@ -222,6 +90,7 @@
         "start": "TBD",
         "arrive": "TBD",
         "location": "101 W Cromwell St, Baltimore, MD",
+        "extra": "CANCELED",
         "performers": {
             "Band": [
                 "Steven Pham",
@@ -241,6 +110,7 @@
         "start": "TBD",
         "arrive": "TBD",
         "location": "101 W Cromwell St, Baltimore, MD",
+        "extra": "CANCELED",
         "performers": {
             "Band": [
                 "Steven Pham",
@@ -279,6 +149,7 @@
         "start": "TBD",
         "arrive": "TBD",
         "location": "54 Fair St, Northampton, MA",
+        "extra": "CANCELED",
         "performers": {
             "Band": [
                 "Kiki Quinn",
@@ -298,6 +169,7 @@
         "start": "TBD",
         "arrive": "TBD",
         "location": "54 Fair St, Northampton, MA",
+        "extra": "CANCELED",
         "performers": {
             "Band": [
                 "Kiki Quinn",
@@ -317,6 +189,7 @@
         "start": "TBD",
         "arrive": "TBD",
         "location": "54 Fair St, Northampton, MA",
+        "extra": "CANCELED",
         "performers": {
             "Band": [
                 "Kiki Quinn",

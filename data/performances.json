@@ -1,3 +1,72 @@
 [
-
+    {
+        "name": "World Cultural Festival",
+        "type": "Cultural Event",
+        "date": "September 24th, 2026",
+        "day": "Thursday",
+        "start": "5:45 PM",
+        "arrive": "5:15 PM",
+        "location": "Wake Forest University, NC",
+        "extra": ""
+    },
+    {
+        "name": "Maggie Xing",
+        "type": "Cultural Event",
+        "date": "October 2nd, 2026",
+        "day": "Friday",
+        "start": "8:00 PM",
+        "arrive": "7:15 PM",
+        "location": "582 W Main St, Sylva, NC",
+        "extra": "4 Hrs 20 Min Drive+"
+    },
+    {
+        "name": "Nhi Bui Wedding",
+        "type": "Wedding",
+        "date": "October 3rd, 2026",
+        "day": "Saturday",
+        "start": "6:00 PM",
+        "arrive": "5:15 PM",
+        "location": "321 Dean Rd, Lillington, NC",
+        "extra": "50 Min Drive+"
+    },
+    {
+        "name": "Kim Tran Tea Ceremony",
+        "type": "Tea Ceremony",
+        "date": "October 10th, 2026",
+        "day": "Saturday",
+        "start": "10:00 AM",
+        "arrive": "9:30 AM",
+        "location": "1616 Paddock Circle, Charlotte, NC",
+        "extra": "2 Hr 30 Min Drive+"
+    },
+    {
+        "name": "Kim Tran Wedding Reception",
+        "type": "Wedding",
+        "date": "October 10th, 2026",
+        "day": "Saturday",
+        "start": "6:30 PM",
+        "arrive": "6:00 AM",
+        "location": "701 Keswick Avenue #110, Charlotte, NC",
+        "extra": "2 Hr 30 Min Drive+"
+    },
+    {
+        "name": "Joy Richardson",
+        "type": "Event",
+        "date": "October 13th, 2026",
+        "day": "Tuesday",
+        "start": "6:15 PM",
+        "arrive": "5:45 PM",
+        "location": "283 N 3rd St, Albemarle, NC",
+        "extra": "1 Hr 55 Min Drive+"
+    },
+    {
+        "name": "Logan and Henry",
+        "type": "Wedding",
+        "date": "October 24th, 2026",
+        "day": "Saturday",
+        "start": "5:00 PM",
+        "arrive": "4:15 PM",
+        "location": "5575 Bradford Meadows Lane, Winston-Salem, NC",
+        "extra": "1 Hr 40 Min Drive+"
+    },
 ]
