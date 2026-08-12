@@ -6,8 +6,7 @@
         "day": "Thursday",
         "start": "5:45 PM",
         "arrive": "5:15 PM",
-        "location": "Wake Forest University, NC",
-        "extra": ""
+        "location": "Wake Forest University, NC"
     },
     {
         "name": "Maggie Xing",
@@ -68,5 +67,5 @@
         "arrive": "4:15 PM",
         "location": "5575 Bradford Meadows Lane, Winston-Salem, NC",
         "extra": "1 Hr 40 Min Drive+"
-    },
+    }
 ]
