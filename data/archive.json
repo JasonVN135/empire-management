@@ -715,12 +715,77 @@
         }
     },
     {
+        "name": "Durham Bulls 2nd Performance",
+        "type": "Cultural Event",
+        "date": "May 22nd, 2026",
+        "day": "Friday",
+        "start": "6:45 PM",
+        "arrive": "6:15 PM",
+        "location": "409 Blackwell St, Durham, NC",
+        "performers": {
+            "Band": [
+                "Ben Nguyen",
+                "Vy Hoang"
+            ],
+            "Lion 1": [
+                "Peter Nguyen",
+                "John Pham"
+            ],
+            "Lion 2": [
+                "Connery Tran",
+                "Jason Nguyen"
+            ]
+        }
+    },
+    {
+        "name": "Jack Truong's Wedding",
+        "type": "Wedding Event",
+        "date": "May 22nd, 2026",
+        "day": "Friday",
+        "start": "8:00 PM",
+        "arrive": "7:15 PM",
+        "location": "2730 Randolph Rd, Charlotte, NC",
+        "performers": {
+            "Band": [
+                "Eric Pham",
+                "Kiki Quinn"
+            ],
+            "Lion 1": [
+                "Khang Cao",
+                "Dominic Nguyen"
+            ],
+            "Lion 2": [
+                "Jayden Ly",
+                "Steven Pham"
+            ]
+        }
+    },
+    {
+        "name": "Dream Asia Fest GA 1",
+        "type": "Cultural Event",
+        "date": "May 23rd, 2026",
+        "day": "Saturday",
+        "start": "4:45 PM",
+        "arrive": "4:15 PM",
+        "location": "2405 Sugarloaf Pkwy, Lawrenceville, GA",
+        "performers": {
+            "Band": [
+                "Jason Nguyen",
+                "Andrew Phan"
+            ],
+            "Lion 1": [
+                "Connery Tran",
+                "John Pham"
+            ]
+        }
+    },
+    {
         "name": "Dream Asia Fest GA 2",
         "type": "Cultural Event",
-        "date": "May 24rd, 2026",
-        "day": "Sunday",
-        "start": "6:00 PM",
-        "arrive": "5:30 PM",
+        "date": "May 23rd, 2026",
+        "day": "Saturday",
+        "start": "4:45 PM",
+        "arrive": "4:15 PM",
         "location": "2405 Sugarloaf Pkwy, Lawrenceville, GA",
         "performers": {
             "Band": [
@@ -736,10 +801,10 @@
     {
         "name": "Dream Asia Fest GA 3",
         "type": "Cultural Event",
-        "date": "May 25rd, 2026",
-        "day": "Monday",
-        "start": "12:00 PM",
-        "arrive": "11:30 AM",
+        "date": "May 23rd, 2026",
+        "day": "Saturday",
+        "start": "4:45 PM",
+        "arrive": "4:15 PM",
         "location": "2405 Sugarloaf Pkwy, Lawrenceville, GA",
         "performers": {
             "Band": [
@@ -755,10 +820,10 @@
     {
         "name": "Dream Asia Fest GA 4",
         "type": "Cultural Event",
-        "date": "May 25rd, 2026",
-        "day": "Monday",
-        "start": "6:00 PM",
-        "arrive": "5:30 PM",
+        "date": "May 23rd, 2026",
+        "day": "Saturday",
+        "start": "4:45 PM",
+        "arrive": "4:15 PM",
         "location": "2405 Sugarloaf Pkwy, Lawrenceville, GA",
         "performers": {
             "Band": [
@@ -767,6 +832,83 @@
             ],
             "Lion 1": [
                 "Connery Tran",
+                "John Pham"
+            ]
+        }
+    },
+    {
+        "name": "Dream Asia Fest VA 1",
+        "type": "Cultural Event",
+        "date": "June 12th, 2026",
+        "day": "Friday",
+        "start": "6:45 PM",
+        "arrive": "6:15 PM",
+        "location": "13191 Dawn blvd Dowswell, VA",
+        "performers": {
+            "Band": [
+                "Kiki Quinn",
+                "Jayden Ly"
+            ],
+            "Lion 1": [
+                "Steven Pham",
+                "John Pham"
+            ]
+        }
+    },
+    {
+        "name": "Dream Asia Fest VA 2",
+        "type": "Cultural Event",
+        "date": "June 12th-14th, 2026",
+        "day": "Saturday",
+        "start": "6:30 PM",
+        "arrive": "6:00 PM",
+        "location": "13191 Dawn blvd Dowswell, VA",
+        "performers": {
+            "Band": [
+                "Kiki Quinn",
+                "Jayden Ly"
+            ],
+            "Lion 1": [
+                "Steven Pham",
+                "John Pham"
+            ]
+        }
+    },
+    {
+        "name": "Dream Asia Fest VA 3",
+        "type": "Cultural Event",
+        "date": "June 14th, 2026",
+        "day": "Sunday",
+        "start": "6:45 PM",
+        "arrive": "6:15 PM",
+        "location": "13191 Dawn blvd Dowswell, VA",
+        "performers": {
+            "Band": [
+                "Kiki Quinn",
+                "Jayden Ly"
+            ],
+            "Lion 1": [
+                "Steven Pham",
+                "John Pham"
+            ]
+        }
+    },
+    {
+        "name": "Lisa R - AAPI and NCPAF",
+        "type": "Cultural Event",
+        "date": "June 27th, 2026",
+        "day": "Saturday",
+        "start": "TBD",
+        "arrive": "TBD",
+        "location": "100 Recreation Lane, Jacksonville, NC",
+        "extra": "Outside and Hot",
+        "performers": {
+            "Band": [
+                "Eric Pham",
+                "Jason Nguyen"
+            ],
+            "Lion 1": [
+                "Khang Cao",
                 "John Pham"
             ]
         }

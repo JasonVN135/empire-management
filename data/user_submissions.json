@@ -1,716 +1,89 @@
 [
     {
-        "name": "Vy Hoang",
-        "performances": [
-            {
-                "id": "Dream Asia Fest VA",
-                "name": "Dream Asia Fest VA",
-                "type": "Cultural Event",
-                "date": "June 12th-14th, 2026",
-                "day": "Friday-Sunday",
-                "start": "Varies",
-                "arrive": "Varies",
-                "location": "13191 Dawn blvd Dowswell, VA",
-                "availability": "Maybe",
-                "extra": "Be available all days"
-            },
-            {
-                "id": "Dream Asia Fest SC",
-                "name": "Dream Asia Fest SC",
-                "type": "Cultural Event",
-                "date": "August 7th-9th, 2026",
-                "day": "Friday-Sunday",
-                "start": "Varies",
-                "arrive": "Varies",
-                "location": "1200 Rosewood Dr, Columbia, SC",
-                "availability": "Free",
-                "extra": "Be available all days"
-            },
-            {
-                "id": "Dream Asia Fest PA",
-                "name": "Dream Asia Fest PA",
-                "type": "Cultural Event",
-                "date": "September 5th-7th, 2026",
-                "day": "Saturday-Monday",
-                "start": "Varies",
-                "arrive": "Varies",
-                "location": "100 Station Ave, Oaks, PA",
-                "availability": "Maybe",
-                "extra": "Monday is Labor Day, Be available all days"
-            },
-            {
-                "id": "Dream Asia Fest MD",
-                "name": "Dream Asia Fest MD",
-                "type": "Cultural Event",
-                "date": "September 25th-27th, 2026",
-                "day": "Friday-Sunday",
-                "start": "Varies",
-                "arrive": "Varies",
-                "location": "101 W Cromwell St, Baltimore, MD",
-                "availability": "Maybe",
-                "extra": "Be available all days"
-            },
-            {
-                "id": "Dream Asia Fest MA",
-                "name": "Dream Asia Fest MA",
-                "type": "Cultural Event",
-                "date": "October 16th-18th, 2026",
-                "day": "Friday-Sunday",
-                "start": "Varies",
-                "arrive": "Varies",
-                "location": "54 Fair St, Northampton, MA",
-                "availability": "Maybe",
-                "extra": "Be available all days"
-            }
-        ]
-    },
-    {
-        "name": "Dominic Nguyen",
-        "performances": [
-            {
-                "id": "Dream Asia Fest VA",
-                "name": "Dream Asia Fest VA",
-                "type": "Cultural Event",
-                "date": "June 12th-14th, 2026",
-                "day": "Friday-Sunday",
-                "start": "Varies",
-                "arrive": "Varies",
-                "location": "13191 Dawn blvd Dowswell, VA",
-                "availability": "Busy",
-                "extra": "Be available all days"
-            },
-            {
-                "id": "Dream Asia Fest SC",
-                "name": "Dream Asia Fest SC",
-                "type": "Cultural Event",
-                "date": "August 7th-9th, 2026",
-                "day": "Friday-Sunday",
-                "start": "Varies",
-                "arrive": "Varies",
-                "location": "1200 Rosewood Dr, Columbia, SC",
-                "availability": "Busy",
-                "extra": "Be available all days"
-            },
-            {
-                "id": "Dream Asia Fest PA",
-                "name": "Dream Asia Fest PA",
-                "type": "Cultural Event",
-                "date": "September 5th-7th, 2026",
-                "day": "Saturday-Monday",
-                "start": "Varies",
-                "arrive": "Varies",
-                "location": "100 Station Ave, Oaks, PA",
-                "availability": "Free",
-                "extra": "Monday is Labor Day, Be available all days"
-            },
-            {
-                "id": "Dream Asia Fest MD",
-                "name": "Dream Asia Fest MD",
-                "type": "Cultural Event",
-                "date": "September 25th-27th, 2026",
-                "day": "Friday-Sunday",
-                "start": "Varies",
-                "arrive": "Varies",
-                "location": "101 W Cromwell St, Baltimore, MD",
-                "availability": "Free",
-                "extra": "Be available all days"
-            },
-            {
-                "id": "Dream Asia Fest MA",
-                "name": "Dream Asia Fest MA",
-                "type": "Cultural Event",
-                "date": "October 16th-18th, 2026",
-                "day": "Friday-Sunday",
-                "start": "Varies",
-                "arrive": "Varies",
-                "location": "54 Fair St, Northampton, MA",
-                "availability": "Free",
-                "extra": "Be available all days"
-            }
-        ]
-    },
-    {
         "name": "Kiki Quinn",
         "performances": [
             {
-                "id": "Dream Asia Fest VA",
-                "name": "Dream Asia Fest VA",
+                "id": "World Cultural Festival",
+                "name": "World Cultural Festival",
                 "type": "Cultural Event",
-                "date": "June 12th-14th, 2026",
-                "day": "Friday-Sunday",
-                "start": "Varies",
-                "arrive": "Varies",
-                "location": "13191 Dawn blvd Dowswell, VA",
-                "availability": "Free",
-                "extra": "Be available all days"
+                "date": "September 24th, 2026",
+                "day": "Thursday",
+                "start": "5:45 PM",
+                "arrive": "5:15 PM",
+                "location": "Wake Forest University, NC",
+                "availability": "Free"
             },
             {
-                "id": "Dream Asia Fest SC",
-                "name": "Dream Asia Fest SC",
+                "id": "Maggie Xing",
+                "name": "Maggie Xing",
                 "type": "Cultural Event",
-                "date": "August 7th-9th, 2026",
-                "day": "Friday-Sunday",
-                "start": "Varies",
-                "arrive": "Varies",
-                "location": "1200 Rosewood Dr, Columbia, SC",
-                "availability": "Free",
-                "extra": "Be available all days"
-            },
-            {
-                "id": "Dream Asia Fest PA",
-                "name": "Dream Asia Fest PA",
-                "type": "Cultural Event",
-                "date": "September 5th-7th, 2026",
-                "day": "Saturday-Monday",
-                "start": "Varies",
-                "arrive": "Varies",
-                "location": "100 Station Ave, Oaks, PA",
-                "availability": "Free",
-                "extra": "Monday is Labor Day, Be available all days"
-            },
-            {
-                "id": "Dream Asia Fest MD",
-                "name": "Dream Asia Fest MD",
-                "type": "Cultural Event",
-                "date": "September 25th-27th, 2026",
-                "day": "Friday-Sunday",
-                "start": "Varies",
-                "arrive": "Varies",
-                "location": "101 W Cromwell St, Baltimore, MD",
+                "date": "October 2nd, 2026",
+                "day": "Friday",
+                "start": "8:00 PM",
+                "arrive": "7:15 PM",
+                "location": "582 W Main St, Sylva, NC",
                 "availability": "Busy",
-                "extra": "Be available all days"
+                "extra": "4 Hrs 20 Min Drive+"
             },
             {
-                "id": "Dream Asia Fest MA",
-                "name": "Dream Asia Fest MA",
-                "type": "Cultural Event",
-                "date": "October 16th-18th, 2026",
-                "day": "Friday-Sunday",
-                "start": "Varies",
-                "arrive": "Varies",
-                "location": "54 Fair St, Northampton, MA",
+                "id": "Nhi Bui Wedding",
+                "name": "Nhi Bui Wedding",
+                "type": "Wedding",
+                "date": "October 3rd, 2026",
+                "day": "Saturday",
+                "start": "6:00 PM",
+                "arrive": "5:15 PM",
+                "location": "321 Dean Rd, Lillington, NC",
                 "availability": "Free",
-                "extra": "Be available all days"
-            }
-        ]
-    },
-    {
-        "name": "Khang Cao",
-        "performances": [
+                "extra": "50 Min Drive+"
+            },
             {
-                "id": "Dream Asia Fest VA",
-                "name": "Dream Asia Fest VA",
-                "type": "Cultural Event",
-                "date": "June 12th-14th, 2026",
-                "day": "Friday-Sunday",
-                "start": "Varies",
-                "arrive": "Varies",
-                "location": "13191 Dawn blvd Dowswell, VA",
+                "id": "Kim Tran Tea Ceremony",
+                "name": "Kim Tran Tea Ceremony",
+                "type": "Tea Ceremony",
+                "date": "October 10th, 2026",
+                "day": "Saturday",
+                "start": "10:00 AM",
+                "arrive": "9:30 AM",
+                "location": "1616 Paddock Circle, Charlotte, NC",
                 "availability": "Free",
-                "extra": "Be available all days"
+                "extra": "2 Hr 30 Min Drive+"
             },
             {
-                "id": "Dream Asia Fest SC",
-                "name": "Dream Asia Fest SC",
-                "type": "Cultural Event",
-                "date": "August 7th-9th, 2026",
-                "day": "Friday-Sunday",
-                "start": "Varies",
-                "arrive": "Varies",
-                "location": "1200 Rosewood Dr, Columbia, SC",
+                "id": "Kim Tran Wedding Reception",
+                "name": "Kim Tran Wedding Reception",
+                "type": "Wedding",
+                "date": "October 10th, 2026",
+                "day": "Saturday",
+                "start": "6:30 PM",
+                "arrive": "6:00 AM",
+                "location": "701 Keswick Avenue #110, Charlotte, NC",
                 "availability": "Free",
-                "extra": "Be available all days"
+                "extra": "2 Hr 30 Min Drive+"
             },
             {
-                "id": "Dream Asia Fest PA",
-                "name": "Dream Asia Fest PA",
-                "type": "Cultural Event",
-                "date": "September 5th-7th, 2026",
-                "day": "Saturday-Monday",
-                "start": "Varies",
-                "arrive": "Varies",
-                "location": "100 Station Ave, Oaks, PA",
-                "availability": "Free",
-                "extra": "Monday is Labor Day, Be available all days"
-            },
-            {
-                "id": "Dream Asia Fest MD",
-                "name": "Dream Asia Fest MD",
-                "type": "Cultural Event",
-                "date": "September 25th-27th, 2026",
-                "day": "Friday-Sunday",
-                "start": "Varies",
-                "arrive": "Varies",
-                "location": "101 W Cromwell St, Baltimore, MD",
-                "availability": "Free",
-                "extra": "Be available all days"
-            },
-            {
-                "id": "Dream Asia Fest MA",
-                "name": "Dream Asia Fest MA",
-                "type": "Cultural Event",
-                "date": "October 16th-18th, 2026",
-                "day": "Friday-Sunday",
-                "start": "Varies",
-                "arrive": "Varies",
-                "location": "54 Fair St, Northampton, MA",
-                "availability": "Free",
-                "extra": "Be available all days"
-            }
-        ]
-    },
-    {
-        "name": "Eric Pham",
-        "performances": [
-            {
-                "id": "Dream Asia Fest VA",
-                "name": "Dream Asia Fest VA",
-                "type": "Cultural Event",
-                "date": "June 12th-14th, 2026",
-                "day": "Friday-Sunday",
-                "start": "Varies",
-                "arrive": "Varies",
-                "location": "13191 Dawn blvd Dowswell, VA",
-                "availability": "Busy",
-                "extra": "Be available all days"
-            },
-            {
-                "id": "Dream Asia Fest SC",
-                "name": "Dream Asia Fest SC",
-                "type": "Cultural Event",
-                "date": "August 7th-9th, 2026",
-                "day": "Friday-Sunday",
-                "start": "Varies",
-                "arrive": "Varies",
-                "location": "1200 Rosewood Dr, Columbia, SC",
-                "availability": "Busy",
-                "extra": "Be available all days"
-            },
-            {
-                "id": "Dream Asia Fest PA",
-                "name": "Dream Asia Fest PA",
-                "type": "Cultural Event",
-                "date": "September 5th-7th, 2026",
-                "day": "Saturday-Monday",
-                "start": "Varies",
-                "arrive": "Varies",
-                "location": "100 Station Ave, Oaks, PA",
-                "availability": "Busy",
-                "extra": "Monday is Labor Day, Be available all days"
-            },
-            {
-                "id": "Dream Asia Fest MD",
-                "name": "Dream Asia Fest MD",
-                "type": "Cultural Event",
-                "date": "September 25th-27th, 2026",
-                "day": "Friday-Sunday",
-                "start": "Varies",
-                "arrive": "Varies",
-                "location": "101 W Cromwell St, Baltimore, MD",
-                "availability": "Busy",
-                "extra": "Be available all days"
-            },
-            {
-                "id": "Dream Asia Fest MA",
-                "name": "Dream Asia Fest MA",
-                "type": "Cultural Event",
-                "date": "October 16th-18th, 2026",
-                "day": "Friday-Sunday",
-                "start": "Varies",
-                "arrive": "Varies",
-                "location": "54 Fair St, Northampton, MA",
-                "availability": "Busy",
-                "extra": "Be available all days"
-            }
-        ]
-    },
-    {
-        "name": "Ben Nguyen",
-        "performances": [
-            {
-                "id": "Dream Asia Fest VA",
-                "name": "Dream Asia Fest VA",
-                "type": "Cultural Event",
-                "date": "June 12th-14th, 2026",
-                "day": "Friday-Sunday",
-                "start": "Varies",
-                "arrive": "Varies",
-                "location": "13191 Dawn blvd Dowswell, VA",
-                "availability": "Busy",
-                "extra": "Be available all days"
-            },
-            {
-                "id": "Dream Asia Fest SC",
-                "name": "Dream Asia Fest SC",
-                "type": "Cultural Event",
-                "date": "August 7th-9th, 2026",
-                "day": "Friday-Sunday",
-                "start": "Varies",
-                "arrive": "Varies",
-                "location": "1200 Rosewood Dr, Columbia, SC",
-                "availability": "Busy",
-                "extra": "Be available all days"
-            },
-            {
-                "id": "Dream Asia Fest PA",
-                "name": "Dream Asia Fest PA",
-                "type": "Cultural Event",
-                "date": "September 5th-7th, 2026",
-                "day": "Saturday-Monday",
-                "start": "Varies",
-                "arrive": "Varies",
-                "location": "100 Station Ave, Oaks, PA",
-                "availability": "Busy",
-                "extra": "Monday is Labor Day, Be available all days"
-            },
-            {
-                "id": "Dream Asia Fest MD",
-                "name": "Dream Asia Fest MD",
-                "type": "Cultural Event",
-                "date": "September 25th-27th, 2026",
-                "day": "Friday-Sunday",
-                "start": "Varies",
-                "arrive": "Varies",
-                "location": "101 W Cromwell St, Baltimore, MD",
-                "availability": "Busy",
-                "extra": "Be available all days"
-            },
-            {
-                "id": "Dream Asia Fest MA",
-                "name": "Dream Asia Fest MA",
-                "type": "Cultural Event",
-                "date": "October 16th-18th, 2026",
-                "day": "Friday-Sunday",
-                "start": "Varies",
-                "arrive": "Varies",
-                "location": "54 Fair St, Northampton, MA",
-                "availability": "Busy",
-                "extra": "Be available all days"
-            }
-        ]
-    },
-    {
-        "name": "John Pham",
-        "performances": [
-            {
-                "id": "Dream Asia Fest VA",
-                "name": "Dream Asia Fest VA",
-                "type": "Cultural Event",
-                "date": "June 12th-14th, 2026",
-                "day": "Friday-Sunday",
-                "start": "Varies",
-                "arrive": "Varies",
-                "location": "13191 Dawn blvd Dowswell, VA",
-                "availability": "Free",
-                "extra": "Be available all days"
-            },
-            {
-                "id": "Dream Asia Fest SC",
-                "name": "Dream Asia Fest SC",
-                "type": "Cultural Event",
-                "date": "August 7th-9th, 2026",
-                "day": "Friday-Sunday",
-                "start": "Varies",
-                "arrive": "Varies",
-                "location": "1200 Rosewood Dr, Columbia, SC",
-                "availability": "Free",
-                "extra": "Be available all days"
-            },
-            {
-                "id": "Dream Asia Fest PA",
-                "name": "Dream Asia Fest PA",
-                "type": "Cultural Event",
-                "date": "September 5th-7th, 2026",
-                "day": "Saturday-Monday",
-                "start": "Varies",
-                "arrive": "Varies",
-                "location": "100 Station Ave, Oaks, PA",
-                "availability": "Free",
-                "extra": "Monday is Labor Day, Be available all days"
-            },
-            {
-                "id": "Dream Asia Fest MD",
-                "name": "Dream Asia Fest MD",
-                "type": "Cultural Event",
-                "date": "September 25th-27th, 2026",
-                "day": "Friday-Sunday",
-                "start": "Varies",
-                "arrive": "Varies",
-                "location": "101 W Cromwell St, Baltimore, MD",
-                "availability": "Free",
-                "extra": "Be available all days"
-            },
-            {
-                "id": "Dream Asia Fest MA",
-                "name": "Dream Asia Fest MA",
-                "type": "Cultural Event",
-                "date": "October 16th-18th, 2026",
-                "day": "Friday-Sunday",
-                "start": "Varies",
-                "arrive": "Varies",
-                "location": "54 Fair St, Northampton, MA",
-                "availability": "Free",
-                "extra": "Be available all days"
-            }
-        ]
-    },
-    {
-        "name": "Jason Nguyen",
-        "performances": [
-            {
-                "id": "Dream Asia Fest VA",
-                "name": "Dream Asia Fest VA",
-                "type": "Cultural Event",
-                "date": "June 12th-14th, 2026",
-                "day": "Friday-Sunday",
-                "start": "Varies",
-                "arrive": "Varies",
-                "location": "13191 Dawn blvd Dowswell, VA",
-                "availability": "Busy",
-                "extra": "Be available all days"
-            },
-            {
-                "id": "Dream Asia Fest SC",
-                "name": "Dream Asia Fest SC",
-                "type": "Cultural Event",
-                "date": "August 7th-9th, 2026",
-                "day": "Friday-Sunday",
-                "start": "Varies",
-                "arrive": "Varies",
-                "location": "1200 Rosewood Dr, Columbia, SC",
-                "availability": "Free",
-                "extra": "Be available all days"
-            },
-            {
-                "id": "Dream Asia Fest PA",
-                "name": "Dream Asia Fest PA",
-                "type": "Cultural Event",
-                "date": "September 5th-7th, 2026",
-                "day": "Saturday-Monday",
-                "start": "Varies",
-                "arrive": "Varies",
-                "location": "100 Station Ave, Oaks, PA",
-                "availability": "Free",
-                "extra": "Monday is Labor Day, Be available all days"
-            },
-            {
-                "id": "Dream Asia Fest MD",
-                "name": "Dream Asia Fest MD",
-                "type": "Cultural Event",
-                "date": "September 25th-27th, 2026",
-                "day": "Friday-Sunday",
-                "start": "Varies",
-                "arrive": "Varies",
-                "location": "101 W Cromwell St, Baltimore, MD",
+                "id": "Joy Richardson",
+                "name": "Joy Richardson",
+                "type": "Event",
+                "date": "October 13th, 2026",
+                "day": "Tuesday",
+                "start": "6:15 PM",
+                "arrive": "5:45 PM",
+                "location": "283 N 3rd St, Albemarle, NC",
                 "availability": "Maybe",
-                "extra": "Be available all days"
+                "extra": "1 Hr 55 Min Drive+"
             },
             {
-                "id": "Dream Asia Fest MA",
-                "name": "Dream Asia Fest MA",
-                "type": "Cultural Event",
-                "date": "October 16th-18th, 2026",
-                "day": "Friday-Sunday",
-                "start": "Varies",
-                "arrive": "Varies",
-                "location": "54 Fair St, Northampton, MA",
-                "availability": "Maybe",
-                "extra": "Be available all days"
-            }
-        ]
-    },
-    {
-        "name": "Peter Nguyen",
-        "performances": [
-            {
-                "id": "Dream Asia Fest VA",
-                "name": "Dream Asia Fest VA",
-                "type": "Cultural Event",
-                "date": "June 12th-14th, 2026",
-                "day": "Friday-Sunday",
-                "start": "Varies",
-                "arrive": "Varies",
-                "location": "13191 Dawn blvd Dowswell, VA",
+                "id": "Logan and Henry",
+                "name": "Logan and Henry",
+                "type": "Wedding",
+                "date": "October 24th, 2026",
+                "day": "Saturday",
+                "start": "5:00 PM",
+                "arrive": "4:15 PM",
+                "location": "5575 Bradford Meadows Lane, Winston-Salem, NC",
                 "availability": "Free",
-                "extra": "Be available all days"
-            },
-            {
-                "id": "Dream Asia Fest SC",
-                "name": "Dream Asia Fest SC",
-                "type": "Cultural Event",
-                "date": "August 7th-9th, 2026",
-                "day": "Friday-Sunday",
-                "start": "Varies",
-                "arrive": "Varies",
-                "location": "1200 Rosewood Dr, Columbia, SC",
-                "availability": "Free",
-                "extra": "Be available all days"
-            },
-            {
-                "id": "Dream Asia Fest PA",
-                "name": "Dream Asia Fest PA",
-                "type": "Cultural Event",
-                "date": "September 5th-7th, 2026",
-                "day": "Saturday-Monday",
-                "start": "Varies",
-                "arrive": "Varies",
-                "location": "100 Station Ave, Oaks, PA",
-                "availability": "Maybe",
-                "extra": "Monday is Labor Day, Be available all days"
-            },
-            {
-                "id": "Dream Asia Fest MD",
-                "name": "Dream Asia Fest MD",
-                "type": "Cultural Event",
-                "date": "September 25th-27th, 2026",
-                "day": "Friday-Sunday",
-                "start": "Varies",
-                "arrive": "Varies",
-                "location": "101 W Cromwell St, Baltimore, MD",
-                "availability": "Busy",
-                "extra": "Be available all days"
-            },
-            {
-                "id": "Dream Asia Fest MA",
-                "name": "Dream Asia Fest MA",
-                "type": "Cultural Event",
-                "date": "October 16th-18th, 2026",
-                "day": "Friday-Sunday",
-                "start": "Varies",
-                "arrive": "Varies",
-                "location": "54 Fair St, Northampton, MA",
-                "availability": "Busy",
-                "extra": "Be available all days"
-            }
-        ]
-    },
-    {
-        "name": "Keanu Tran",
-        "performances": [
-            {
-                "id": "Dream Asia Fest VA",
-                "name": "Dream Asia Fest VA",
-                "type": "Cultural Event",
-                "date": "June 12th-14th, 2026",
-                "day": "Friday-Sunday",
-                "start": "Varies",
-                "arrive": "Varies",
-                "location": "13191 Dawn blvd Dowswell, VA",
-                "availability": "Busy",
-                "extra": "Be available all days"
-            },
-            {
-                "id": "Dream Asia Fest SC",
-                "name": "Dream Asia Fest SC",
-                "type": "Cultural Event",
-                "date": "August 7th-9th, 2026",
-                "day": "Friday-Sunday",
-                "start": "Varies",
-                "arrive": "Varies",
-                "location": "1200 Rosewood Dr, Columbia, SC",
-                "availability": "Free",
-                "extra": "Be available all days"
-            },
-            {
-                "id": "Dream Asia Fest PA",
-                "name": "Dream Asia Fest PA",
-                "type": "Cultural Event",
-                "date": "September 5th-7th, 2026",
-                "day": "Saturday-Monday",
-                "start": "Varies",
-                "arrive": "Varies",
-                "location": "100 Station Ave, Oaks, PA",
-                "availability": "Maybe",
-                "extra": "Monday is Labor Day, Be available all days"
-            },
-            {
-                "id": "Dream Asia Fest MD",
-                "name": "Dream Asia Fest MD",
-                "type": "Cultural Event",
-                "date": "September 25th-27th, 2026",
-                "day": "Friday-Sunday",
-                "start": "Varies",
-                "arrive": "Varies",
-                "location": "101 W Cromwell St, Baltimore, MD",
-                "availability": "Maybe",
-                "extra": "Be available all days"
-            },
-            {
-                "id": "Dream Asia Fest MA",
-                "name": "Dream Asia Fest MA",
-                "type": "Cultural Event",
-                "date": "October 16th-18th, 2026",
-                "day": "Friday-Sunday",
-                "start": "Varies",
-                "arrive": "Varies",
-                "location": "54 Fair St, Northampton, MA",
-                "availability": "Maybe",
-                "extra": "Be available all days"
-            }
-        ]
-    },
-    {
-        "name": "Kevin Sokphat",
-        "performances": [
-            {
-                "id": "Dream Asia Fest VA",
-                "name": "Dream Asia Fest VA",
-                "type": "Cultural Event",
-                "date": "June 12th-14th, 2026",
-                "day": "Friday-Sunday",
-                "start": "Varies",
-                "arrive": "Varies",
-                "location": "13191 Dawn blvd Dowswell, VA",
-                "availability": "Busy",
-                "extra": "Be available all days"
-            },
-            {
-                "id": "Dream Asia Fest SC",
-                "name": "Dream Asia Fest SC",
-                "type": "Cultural Event",
-                "date": "August 7th-9th, 2026",
-                "day": "Friday-Sunday",
-                "start": "Varies",
-                "arrive": "Varies",
-                "location": "1200 Rosewood Dr, Columbia, SC",
-                "availability": "Busy",
-                "extra": "Be available all days"
-            },
-            {
-                "id": "Dream Asia Fest PA",
-                "name": "Dream Asia Fest PA",
-                "type": "Cultural Event",
-                "date": "September 5th-7th, 2026",
-                "day": "Saturday-Monday",
-                "start": "Varies",
-                "arrive": "Varies",
-                "location": "100 Station Ave, Oaks, PA",
-                "availability": "Busy",
-                "extra": "Monday is Labor Day, Be available all days"
-            },
-            {
-                "id": "Dream Asia Fest MD",
-                "name": "Dream Asia Fest MD",
-                "type": "Cultural Event",
-                "date": "September 25th-27th, 2026",
-                "day": "Friday-Sunday",
-                "start": "Varies",
-                "arrive": "Varies",
-                "location": "101 W Cromwell St, Baltimore, MD",
-                "availability": "Free",
-                "extra": "Be available all days"
-            },
-            {
-                "id": "Dream Asia Fest MA",
-                "name": "Dream Asia Fest MA",
-                "type": "Cultural Event",
-                "date": "October 16th-18th, 2026",
-                "day": "Friday-Sunday",
-                "start": "Varies",
-                "arrive": "Varies",
-                "location": "54 Fair St, Northampton, MA",
-                "availability": "Free",
-                "extra": "Be available all days"
+                "extra": "1 Hr 40 Min Drive+"
             }
         ]
     },
@@ -718,64 +91,439 @@
         "name": "Jayden Ly",
         "performances": [
             {
-                "id": "Dream Asia Fest VA",
-                "name": "Dream Asia Fest VA",
+                "id": "World Cultural Festival",
+                "name": "World Cultural Festival",
                 "type": "Cultural Event",
-                "date": "June 12th-14th, 2026",
-                "day": "Friday-Sunday",
-                "start": "Varies",
-                "arrive": "Varies",
-                "location": "13191 Dawn blvd Dowswell, VA",
-                "availability": "Maybe",
-                "extra": "Be available all days"
+                "date": "September 24th, 2026",
+                "day": "Thursday",
+                "start": "5:45 PM",
+                "arrive": "5:15 PM",
+                "location": "Wake Forest University, NC",
+                "availability": "Free"
             },
             {
-                "id": "Dream Asia Fest SC",
-                "name": "Dream Asia Fest SC",
+                "id": "Maggie Xing",
+                "name": "Maggie Xing",
                 "type": "Cultural Event",
-                "date": "August 7th-9th, 2026",
-                "day": "Friday-Sunday",
-                "start": "Varies",
-                "arrive": "Varies",
-                "location": "1200 Rosewood Dr, Columbia, SC",
-                "availability": "Maybe",
-                "extra": "Be available all days"
+                "date": "October 2nd, 2026",
+                "day": "Friday",
+                "start": "8:00 PM",
+                "arrive": "7:15 PM",
+                "location": "582 W Main St, Sylva, NC",
+                "availability": "Free",
+                "extra": "4 Hrs 20 Min Drive+"
             },
             {
-                "id": "Dream Asia Fest PA",
-                "name": "Dream Asia Fest PA",
-                "type": "Cultural Event",
-                "date": "September 5th-7th, 2026",
-                "day": "Saturday-Monday",
-                "start": "Varies",
-                "arrive": "Varies",
-                "location": "100 Station Ave, Oaks, PA",
-                "availability": "Maybe",
-                "extra": "Monday is Labor Day, Be available all days"
+                "id": "Nhi Bui Wedding",
+                "name": "Nhi Bui Wedding",
+                "type": "Wedding",
+                "date": "October 3rd, 2026",
+                "day": "Saturday",
+                "start": "6:00 PM",
+                "arrive": "5:15 PM",
+                "location": "321 Dean Rd, Lillington, NC",
+                "availability": "Free",
+                "extra": "50 Min Drive+"
             },
             {
-                "id": "Dream Asia Fest MD",
-                "name": "Dream Asia Fest MD",
-                "type": "Cultural Event",
-                "date": "September 25th-27th, 2026",
-                "day": "Friday-Sunday",
-                "start": "Varies",
-                "arrive": "Varies",
-                "location": "101 W Cromwell St, Baltimore, MD",
-                "availability": "Maybe",
-                "extra": "Be available all days"
+                "id": "Kim Tran Tea Ceremony",
+                "name": "Kim Tran Tea Ceremony",
+                "type": "Tea Ceremony",
+                "date": "October 10th, 2026",
+                "day": "Saturday",
+                "start": "10:00 AM",
+                "arrive": "9:30 AM",
+                "location": "1616 Paddock Circle, Charlotte, NC",
+                "availability": "Free",
+                "extra": "2 Hr 30 Min Drive+"
             },
             {
-                "id": "Dream Asia Fest MA",
-                "name": "Dream Asia Fest MA",
+                "id": "Kim Tran Wedding Reception",
+                "name": "Kim Tran Wedding Reception",
+                "type": "Wedding",
+                "date": "October 10th, 2026",
+                "day": "Saturday",
+                "start": "6:30 PM",
+                "arrive": "6:00 AM",
+                "location": "701 Keswick Avenue #110, Charlotte, NC",
+                "availability": "Free",
+                "extra": "2 Hr 30 Min Drive+"
+            },
+            {
+                "id": "Joy Richardson",
+                "name": "Joy Richardson",
+                "type": "Event",
+                "date": "October 13th, 2026",
+                "day": "Tuesday",
+                "start": "6:15 PM",
+                "arrive": "5:45 PM",
+                "location": "283 N 3rd St, Albemarle, NC",
+                "availability": "Free",
+                "extra": "1 Hr 55 Min Drive+"
+            },
+            {
+                "id": "Logan and Henry",
+                "name": "Logan and Henry",
+                "type": "Wedding",
+                "date": "October 24th, 2026",
+                "day": "Saturday",
+                "start": "5:00 PM",
+                "arrive": "4:15 PM",
+                "location": "5575 Bradford Meadows Lane, Winston-Salem, NC",
+                "availability": "Free",
+                "extra": "1 Hr 40 Min Drive+"
+            }
+        ]
+    },
+    {
+        "name": "Vy Hoang",
+        "performances": [
+            {
+                "id": "World Cultural Festival",
+                "name": "World Cultural Festival",
                 "type": "Cultural Event",
-                "date": "October 16th-18th, 2026",
-                "day": "Friday-Sunday",
-                "start": "Varies",
-                "arrive": "Varies",
-                "location": "54 Fair St, Northampton, MA",
-                "availability": "Maybe",
-                "extra": "Be available all days"
+                "date": "September 24th, 2026",
+                "day": "Thursday",
+                "start": "5:45 PM",
+                "arrive": "5:15 PM",
+                "location": "Wake Forest University, NC",
+                "availability": "Free"
+            },
+            {
+                "id": "Maggie Xing",
+                "name": "Maggie Xing",
+                "type": "Cultural Event",
+                "date": "October 2nd, 2026",
+                "day": "Friday",
+                "start": "8:00 PM",
+                "arrive": "7:15 PM",
+                "location": "582 W Main St, Sylva, NC",
+                "availability": "Busy",
+                "extra": "4 Hrs 20 Min Drive+"
+            },
+            {
+                "id": "Nhi Bui Wedding",
+                "name": "Nhi Bui Wedding",
+                "type": "Wedding",
+                "date": "October 3rd, 2026",
+                "day": "Saturday",
+                "start": "6:00 PM",
+                "arrive": "5:15 PM",
+                "location": "321 Dean Rd, Lillington, NC",
+                "availability": "Busy",
+                "extra": "50 Min Drive+"
+            },
+            {
+                "id": "Kim Tran Tea Ceremony",
+                "name": "Kim Tran Tea Ceremony",
+                "type": "Tea Ceremony",
+                "date": "October 10th, 2026",
+                "day": "Saturday",
+                "start": "10:00 AM",
+                "arrive": "9:30 AM",
+                "location": "1616 Paddock Circle, Charlotte, NC",
+                "availability": "Free",
+                "extra": "2 Hr 30 Min Drive+"
+            },
+            {
+                "id": "Kim Tran Wedding Reception",
+                "name": "Kim Tran Wedding Reception",
+                "type": "Wedding",
+                "date": "October 10th, 2026",
+                "day": "Saturday",
+                "start": "6:30 PM",
+                "arrive": "6:00 AM",
+                "location": "701 Keswick Avenue #110, Charlotte, NC",
+                "availability": "Free",
+                "extra": "2 Hr 30 Min Drive+"
+            },
+            {
+                "id": "Joy Richardson",
+                "name": "Joy Richardson",
+                "type": "Event",
+                "date": "October 13th, 2026",
+                "day": "Tuesday",
+                "start": "6:15 PM",
+                "arrive": "5:45 PM",
+                "location": "283 N 3rd St, Albemarle, NC",
+                "availability": "Free",
+                "extra": "1 Hr 55 Min Drive+"
+            },
+            {
+                "id": "Logan and Henry",
+                "name": "Logan and Henry",
+                "type": "Wedding",
+                "date": "October 24th, 2026",
+                "day": "Saturday",
+                "start": "5:00 PM",
+                "arrive": "4:15 PM",
+                "location": "5575 Bradford Meadows Lane, Winston-Salem, NC",
+                "availability": "Free",
+                "extra": "1 Hr 40 Min Drive+"
+            }
+        ]
+    },
+    {
+        "name": "Eric Pham",
+        "performances": [
+            {
+                "id": "World Cultural Festival",
+                "name": "World Cultural Festival",
+                "type": "Cultural Event",
+                "date": "September 24th, 2026",
+                "day": "Thursday",
+                "start": "5:45 PM",
+                "arrive": "5:15 PM",
+                "location": "Wake Forest University, NC",
+                "availability": "Busy"
+            },
+            {
+                "id": "Maggie Xing",
+                "name": "Maggie Xing",
+                "type": "Cultural Event",
+                "date": "October 2nd, 2026",
+                "day": "Friday",
+                "start": "8:00 PM",
+                "arrive": "7:15 PM",
+                "location": "582 W Main St, Sylva, NC",
+                "availability": "Busy",
+                "extra": "4 Hrs 20 Min Drive+"
+            },
+            {
+                "id": "Nhi Bui Wedding",
+                "name": "Nhi Bui Wedding",
+                "type": "Wedding",
+                "date": "October 3rd, 2026",
+                "day": "Saturday",
+                "start": "6:00 PM",
+                "arrive": "5:15 PM",
+                "location": "321 Dean Rd, Lillington, NC",
+                "availability": "Busy",
+                "extra": "50 Min Drive+"
+            },
+            {
+                "id": "Kim Tran Tea Ceremony",
+                "name": "Kim Tran Tea Ceremony",
+                "type": "Tea Ceremony",
+                "date": "October 10th, 2026",
+                "day": "Saturday",
+                "start": "10:00 AM",
+                "arrive": "9:30 AM",
+                "location": "1616 Paddock Circle, Charlotte, NC",
+                "availability": "Busy",
+                "extra": "2 Hr 30 Min Drive+"
+            },
+            {
+                "id": "Kim Tran Wedding Reception",
+                "name": "Kim Tran Wedding Reception",
+                "type": "Wedding",
+                "date": "October 10th, 2026",
+                "day": "Saturday",
+                "start": "6:30 PM",
+                "arrive": "6:00 AM",
+                "location": "701 Keswick Avenue #110, Charlotte, NC",
+                "availability": "Busy",
+                "extra": "2 Hr 30 Min Drive+"
+            },
+            {
+                "id": "Joy Richardson",
+                "name": "Joy Richardson",
+                "type": "Event",
+                "date": "October 13th, 2026",
+                "day": "Tuesday",
+                "start": "6:15 PM",
+                "arrive": "5:45 PM",
+                "location": "283 N 3rd St, Albemarle, NC",
+                "availability": "Busy",
+                "extra": "1 Hr 55 Min Drive+"
+            },
+            {
+                "id": "Logan and Henry",
+                "name": "Logan and Henry",
+                "type": "Wedding",
+                "date": "October 24th, 2026",
+                "day": "Saturday",
+                "start": "5:00 PM",
+                "arrive": "4:15 PM",
+                "location": "5575 Bradford Meadows Lane, Winston-Salem, NC",
+                "availability": "Busy",
+                "extra": "1 Hr 40 Min Drive+"
+            }
+        ]
+    },
+    {
+        "name": "Dominic Nguyen",
+        "performances": [
+            {
+                "id": "World Cultural Festival",
+                "name": "World Cultural Festival",
+                "type": "Cultural Event",
+                "date": "September 24th, 2026",
+                "day": "Thursday",
+                "start": "5:45 PM",
+                "arrive": "5:15 PM",
+                "location": "Wake Forest University, NC",
+                "availability": "Free"
+            },
+            {
+                "id": "Maggie Xing",
+                "name": "Maggie Xing",
+                "type": "Cultural Event",
+                "date": "October 2nd, 2026",
+                "day": "Friday",
+                "start": "8:00 PM",
+                "arrive": "7:15 PM",
+                "location": "582 W Main St, Sylva, NC",
+                "availability": "Free",
+                "extra": "4 Hrs 20 Min Drive+"
+            },
+            {
+                "id": "Nhi Bui Wedding",
+                "name": "Nhi Bui Wedding",
+                "type": "Wedding",
+                "date": "October 3rd, 2026",
+                "day": "Saturday",
+                "start": "6:00 PM",
+                "arrive": "5:15 PM",
+                "location": "321 Dean Rd, Lillington, NC",
+                "availability": "Free",
+                "extra": "50 Min Drive+"
+            },
+            {
+                "id": "Kim Tran Tea Ceremony",
+                "name": "Kim Tran Tea Ceremony",
+                "type": "Tea Ceremony",
+                "date": "October 10th, 2026",
+                "day": "Saturday",
+                "start": "10:00 AM",
+                "arrive": "9:30 AM",
+                "location": "1616 Paddock Circle, Charlotte, NC",
+                "availability": "Free",
+                "extra": "2 Hr 30 Min Drive+"
+            },
+            {
+                "id": "Kim Tran Wedding Reception",
+                "name": "Kim Tran Wedding Reception",
+                "type": "Wedding",
+                "date": "October 10th, 2026",
+                "day": "Saturday",
+                "start": "6:30 PM",
+                "arrive": "6:00 AM",
+                "location": "701 Keswick Avenue #110, Charlotte, NC",
+                "availability": "Free",
+                "extra": "2 Hr 30 Min Drive+"
+            },
+            {
+                "id": "Joy Richardson",
+                "name": "Joy Richardson",
+                "type": "Event",
+                "date": "October 13th, 2026",
+                "day": "Tuesday",
+                "start": "6:15 PM",
+                "arrive": "5:45 PM",
+                "location": "283 N 3rd St, Albemarle, NC",
+                "availability": "Free",
+                "extra": "1 Hr 55 Min Drive+"
+            },
+            {
+                "id": "Logan and Henry",
+                "name": "Logan and Henry",
+                "type": "Wedding",
+                "date": "October 24th, 2026",
+                "day": "Saturday",
+                "start": "5:00 PM",
+                "arrive": "4:15 PM",
+                "location": "5575 Bradford Meadows Lane, Winston-Salem, NC",
+                "availability": "Free",
+                "extra": "1 Hr 40 Min Drive+"
+            }
+        ]
+    },
+    {
+        "name": "John Pham",
+        "performances": [
+            {
+                "id": "World Cultural Festival",
+                "name": "World Cultural Festival",
+                "type": "Cultural Event",
+                "date": "September 24th, 2026",
+                "day": "Thursday",
+                "start": "5:45 PM",
+                "arrive": "5:15 PM",
+                "location": "Wake Forest University, NC",
+                "availability": "Free"
+            },
+            {
+                "id": "Maggie Xing",
+                "name": "Maggie Xing",
+                "type": "Cultural Event",
+                "date": "October 2nd, 2026",
+                "day": "Friday",
+                "start": "8:00 PM",
+                "arrive": "7:15 PM",
+                "location": "582 W Main St, Sylva, NC",
+                "availability": "Free",
+                "extra": "4 Hrs 20 Min Drive+"
+            },
+            {
+                "id": "Nhi Bui Wedding",
+                "name": "Nhi Bui Wedding",
+                "type": "Wedding",
+                "date": "October 3rd, 2026",
+                "day": "Saturday",
+                "start": "6:00 PM",
+                "arrive": "5:15 PM",
+                "location": "321 Dean Rd, Lillington, NC",
+                "availability": "Free",
+                "extra": "50 Min Drive+"
+            },
+            {
+                "id": "Kim Tran Tea Ceremony",
+                "name": "Kim Tran Tea Ceremony",
+                "type": "Tea Ceremony",
+                "date": "October 10th, 2026",
+                "day": "Saturday",
+                "start": "10:00 AM",
+                "arrive": "9:30 AM",
+                "location": "1616 Paddock Circle, Charlotte, NC",
+                "availability": "Free",
+                "extra": "2 Hr 30 Min Drive+"
+            },
+            {
+                "id": "Kim Tran Wedding Reception",
+                "name": "Kim Tran Wedding Reception",
+                "type": "Wedding",
+                "date": "October 10th, 2026",
+                "day": "Saturday",
+                "start": "6:30 PM",
+                "arrive": "6:00 AM",
+                "location": "701 Keswick Avenue #110, Charlotte, NC",
+                "availability": "Free",
+                "extra": "2 Hr 30 Min Drive+"
+            },
+            {
+                "id": "Joy Richardson",
+                "name": "Joy Richardson",
+                "type": "Event",
+                "date": "October 13th, 2026",
+                "day": "Tuesday",
+                "start": "6:15 PM",
+                "arrive": "5:45 PM",
+                "location": "283 N 3rd St, Albemarle, NC",
+                "availability": "Free",
+                "extra": "1 Hr 55 Min Drive+"
+            },
+            {
+                "id": "Logan and Henry",
+                "name": "Logan and Henry",
+                "type": "Wedding",
+                "date": "October 24th, 2026",
+                "day": "Saturday",
+                "start": "5:00 PM",
+                "arrive": "4:15 PM",
+                "location": "5575 Bradford Meadows Lane, Winston-Salem, NC",
+                "availability": "Free",
+                "extra": "1 Hr 40 Min Drive+"
             }
         ]
     },
@@ -783,64 +531,263 @@
         "name": "Steven Pham",
         "performances": [
             {
-                "id": "Dream Asia Fest VA",
-                "name": "Dream Asia Fest VA",
+                "id": "World Cultural Festival",
+                "name": "World Cultural Festival",
                 "type": "Cultural Event",
-                "date": "June 12th-14th, 2026",
-                "day": "Friday-Sunday",
-                "start": "Varies",
-                "arrive": "Varies",
-                "location": "13191 Dawn blvd Dowswell, VA",
-                "availability": "Free",
-                "extra": "Be available all days"
+                "date": "September 24th, 2026",
+                "day": "Thursday",
+                "start": "5:45 PM",
+                "arrive": "5:15 PM",
+                "location": "Wake Forest University, NC",
+                "availability": "Busy"
             },
             {
-                "id": "Dream Asia Fest SC",
-                "name": "Dream Asia Fest SC",
+                "id": "Maggie Xing",
+                "name": "Maggie Xing",
                 "type": "Cultural Event",
-                "date": "August 7th-9th, 2026",
-                "day": "Friday-Sunday",
-                "start": "Varies",
-                "arrive": "Varies",
-                "location": "1200 Rosewood Dr, Columbia, SC",
-                "availability": "Free",
-                "extra": "Be available all days"
-            },
-            {
-                "id": "Dream Asia Fest PA",
-                "name": "Dream Asia Fest PA",
-                "type": "Cultural Event",
-                "date": "September 5th-7th, 2026",
-                "day": "Saturday-Monday",
-                "start": "Varies",
-                "arrive": "Varies",
-                "location": "100 Station Ave, Oaks, PA",
+                "date": "October 2nd, 2026",
+                "day": "Friday",
+                "start": "8:00 PM",
+                "arrive": "7:15 PM",
+                "location": "582 W Main St, Sylva, NC",
                 "availability": "Busy",
-                "extra": "Monday is Labor Day, Be available all days"
+                "extra": "4 Hrs 20 Min Drive+"
             },
             {
-                "id": "Dream Asia Fest MD",
-                "name": "Dream Asia Fest MD",
-                "type": "Cultural Event",
-                "date": "September 25th-27th, 2026",
-                "day": "Friday-Sunday",
-                "start": "Varies",
-                "arrive": "Varies",
-                "location": "101 W Cromwell St, Baltimore, MD",
-                "availability": "Maybe",
-                "extra": "Be available all days"
+                "id": "Nhi Bui Wedding",
+                "name": "Nhi Bui Wedding",
+                "type": "Wedding",
+                "date": "October 3rd, 2026",
+                "day": "Saturday",
+                "start": "6:00 PM",
+                "arrive": "5:15 PM",
+                "location": "321 Dean Rd, Lillington, NC",
+                "availability": "Free",
+                "extra": "50 Min Drive+"
             },
             {
-                "id": "Dream Asia Fest MA",
-                "name": "Dream Asia Fest MA",
-                "type": "Cultural Event",
-                "date": "October 16th-18th, 2026",
-                "day": "Friday-Sunday",
-                "start": "Varies",
-                "arrive": "Varies",
-                "location": "54 Fair St, Northampton, MA",
+                "id": "Kim Tran Tea Ceremony",
+                "name": "Kim Tran Tea Ceremony",
+                "type": "Tea Ceremony",
+                "date": "October 10th, 2026",
+                "day": "Saturday",
+                "start": "10:00 AM",
+                "arrive": "9:30 AM",
+                "location": "1616 Paddock Circle, Charlotte, NC",
+                "availability": "Free",
+                "extra": "2 Hr 30 Min Drive+"
+            },
+            {
+                "id": "Kim Tran Wedding Reception",
+                "name": "Kim Tran Wedding Reception",
+                "type": "Wedding",
+                "date": "October 10th, 2026",
+                "day": "Saturday",
+                "start": "6:30 PM",
+                "arrive": "6:00 AM",
+                "location": "701 Keswick Avenue #110, Charlotte, NC",
+                "availability": "Free",
+                "extra": "2 Hr 30 Min Drive+"
+            },
+            {
+                "id": "Joy Richardson",
+                "name": "Joy Richardson",
+                "type": "Event",
+                "date": "October 13th, 2026",
+                "day": "Tuesday",
+                "start": "6:15 PM",
+                "arrive": "5:45 PM",
+                "location": "283 N 3rd St, Albemarle, NC",
+                "availability": "Busy",
+                "extra": "1 Hr 55 Min Drive+"
+            },
+            {
+                "id": "Logan and Henry",
+                "name": "Logan and Henry",
+                "type": "Wedding",
+                "date": "October 24th, 2026",
+                "day": "Saturday",
+                "start": "5:00 PM",
+                "arrive": "4:15 PM",
+                "location": "5575 Bradford Meadows Lane, Winston-Salem, NC",
                 "availability": "Maybe",
-                "extra": "Be available all days"
+                "extra": "1 Hr 40 Min Drive+"
+            }
+        ]
+    },
+    {
+        "name": "Kevin Sokphat",
+        "performances": [
+            {
+                "id": "World Cultural Festival",
+                "name": "World Cultural Festival",
+                "type": "Cultural Event",
+                "date": "September 24th, 2026",
+                "day": "Thursday",
+                "start": "5:45 PM",
+                "arrive": "5:15 PM",
+                "location": "Wake Forest University, NC",
+                "availability": "Free"
+            },
+            {
+                "id": "Maggie Xing",
+                "name": "Maggie Xing",
+                "type": "Cultural Event",
+                "date": "October 2nd, 2026",
+                "day": "Friday",
+                "start": "8:00 PM",
+                "arrive": "7:15 PM",
+                "location": "582 W Main St, Sylva, NC",
+                "availability": "Free",
+                "extra": "4 Hrs 20 Min Drive+"
+            },
+            {
+                "id": "Nhi Bui Wedding",
+                "name": "Nhi Bui Wedding",
+                "type": "Wedding",
+                "date": "October 3rd, 2026",
+                "day": "Saturday",
+                "start": "6:00 PM",
+                "arrive": "5:15 PM",
+                "location": "321 Dean Rd, Lillington, NC",
+                "availability": "Busy",
+                "extra": "50 Min Drive+"
+            },
+            {
+                "id": "Kim Tran Tea Ceremony",
+                "name": "Kim Tran Tea Ceremony",
+                "type": "Tea Ceremony",
+                "date": "October 10th, 2026",
+                "day": "Saturday",
+                "start": "10:00 AM",
+                "arrive": "9:30 AM",
+                "location": "1616 Paddock Circle, Charlotte, NC",
+                "availability": "Busy",
+                "extra": "2 Hr 30 Min Drive+"
+            },
+            {
+                "id": "Kim Tran Wedding Reception",
+                "name": "Kim Tran Wedding Reception",
+                "type": "Wedding",
+                "date": "October 10th, 2026",
+                "day": "Saturday",
+                "start": "6:30 PM",
+                "arrive": "6:00 AM",
+                "location": "701 Keswick Avenue #110, Charlotte, NC",
+                "availability": "Busy",
+                "extra": "2 Hr 30 Min Drive+"
+            },
+            {
+                "id": "Joy Richardson",
+                "name": "Joy Richardson",
+                "type": "Event",
+                "date": "October 13th, 2026",
+                "day": "Tuesday",
+                "start": "6:15 PM",
+                "arrive": "5:45 PM",
+                "location": "283 N 3rd St, Albemarle, NC",
+                "availability": "Busy",
+                "extra": "1 Hr 55 Min Drive+"
+            },
+            {
+                "id": "Logan and Henry",
+                "name": "Logan and Henry",
+                "type": "Wedding",
+                "date": "October 24th, 2026",
+                "day": "Saturday",
+                "start": "5:00 PM",
+                "arrive": "4:15 PM",
+                "location": "5575 Bradford Meadows Lane, Winston-Salem, NC",
+                "availability": "Busy",
+                "extra": "1 Hr 40 Min Drive+"
+            }
+        ]
+    },
+    {
+        "name": "Jason Nguyen",
+        "performances": [
+            {
+                "id": "World Cultural Festival",
+                "name": "World Cultural Festival",
+                "type": "Cultural Event",
+                "date": "September 24th, 2026",
+                "day": "Thursday",
+                "start": "5:45 PM",
+                "arrive": "5:15 PM",
+                "location": "Wake Forest University, NC",
+                "availability": "Free"
+            },
+            {
+                "id": "Maggie Xing",
+                "name": "Maggie Xing",
+                "type": "Cultural Event",
+                "date": "October 2nd, 2026",
+                "day": "Friday",
+                "start": "8:00 PM",
+                "arrive": "7:15 PM",
+                "location": "582 W Main St, Sylva, NC",
+                "availability": "Free",
+                "extra": "4 Hrs 20 Min Drive+"
+            },
+            {
+                "id": "Nhi Bui Wedding",
+                "name": "Nhi Bui Wedding",
+                "type": "Wedding",
+                "date": "October 3rd, 2026",
+                "day": "Saturday",
+                "start": "6:00 PM",
+                "arrive": "5:15 PM",
+                "location": "321 Dean Rd, Lillington, NC",
+                "availability": "Free",
+                "extra": "50 Min Drive+"
+            },
+            {
+                "id": "Kim Tran Tea Ceremony",
+                "name": "Kim Tran Tea Ceremony",
+                "type": "Tea Ceremony",
+                "date": "October 10th, 2026",
+                "day": "Saturday",
+                "start": "10:00 AM",
+                "arrive": "9:30 AM",
+                "location": "1616 Paddock Circle, Charlotte, NC",
+                "availability": "Free",
+                "extra": "2 Hr 30 Min Drive+"
+            },
+            {
+                "id": "Kim Tran Wedding Reception",
+                "name": "Kim Tran Wedding Reception",
+                "type": "Wedding",
+                "date": "October 10th, 2026",
+                "day": "Saturday",
+                "start": "6:30 PM",
+                "arrive": "6:00 AM",
+                "location": "701 Keswick Avenue #110, Charlotte, NC",
+                "availability": "Free",
+                "extra": "2 Hr 30 Min Drive+"
+            },
+            {
+                "id": "Joy Richardson",
+                "name": "Joy Richardson",
+                "type": "Event",
+                "date": "October 13th, 2026",
+                "day": "Tuesday",
+                "start": "6:15 PM",
+                "arrive": "5:45 PM",
+                "location": "283 N 3rd St, Albemarle, NC",
+                "availability": "Free",
+                "extra": "1 Hr 55 Min Drive+"
+            },
+            {
+                "id": "Logan and Henry",
+                "name": "Logan and Henry",
+                "type": "Wedding",
+                "date": "October 24th, 2026",
+                "day": "Saturday",
+                "start": "5:00 PM",
+                "arrive": "4:15 PM",
+                "location": "5575 Bradford Meadows Lane, Winston-Salem, NC",
+                "availability": "Free",
+                "extra": "1 Hr 40 Min Drive+"
             }
         ]
     }
