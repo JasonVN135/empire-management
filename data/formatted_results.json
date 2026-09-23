@@ -1,116 +1,28 @@
 {
-    "World Cultural Festival": {
+    "Lakelin Palmer": {
         "Free": [
-            "Kiki Quinn",
-            "Jayden Ly",
-            "Vy Hoang",
-            "Dominic Nguyen",
+            "Khang Cao",
+            "Peter Nguyen",
             "John Pham",
-            "Kevin Sokphat",
-            "Jason Nguyen"
-        ],
-        "Maybe": [],
-        "Busy": [
-            "Eric Pham",
-            "Steven Pham"
-        ]
-    },
-    "Maggie Xing": {
-        "Free": [
-            "Jayden Ly",
             "Dominic Nguyen",
-            "John Pham",
-            "Kevin Sokphat",
-            "Jason Nguyen"
-        ],
-        "Maybe": [],
-        "Busy": [
-            "Kiki Quinn",
-            "Vy Hoang",
-            "Eric Pham",
-            "Steven Pham"
-        ]
-    },
-    "Nhi Bui Wedding": {
-        "Free": [
-            "Kiki Quinn",
-            "Jayden Ly",
-            "Dominic Nguyen",
-            "John Pham",
-            "Steven Pham",
-            "Jason Nguyen"
-        ],
-        "Maybe": [],
-        "Busy": [
-            "Vy Hoang",
-            "Eric Pham",
-            "Kevin Sokphat"
-        ]
-    },
-    "Kim Tran Tea Ceremony": {
-        "Free": [
-            "Kiki Quinn",
-            "Jayden Ly",
-            "Vy Hoang",
-            "Dominic Nguyen",
-            "John Pham",
-            "Steven Pham",
-            "Jason Nguyen"
-        ],
-        "Maybe": [],
-        "Busy": [
-            "Eric Pham",
-            "Kevin Sokphat"
-        ]
-    },
-    "Kim Tran Wedding Reception": {
-        "Free": [
-            "Kiki Quinn",
-            "Jayden Ly",
-            "Vy Hoang",
-            "Dominic Nguyen",
-            "John Pham",
-            "Steven Pham",
-            "Jason Nguyen"
-        ],
-        "Maybe": [],
-        "Busy": [
-            "Eric Pham",
-            "Kevin Sokphat"
-        ]
-    },
-    "Joy Richardson": {
-        "Free": [
-            "Jayden Ly",
-            "Vy Hoang",
-            "Dominic Nguyen",
-            "John Pham",
             "Jason Nguyen"
         ],
         "Maybe": [
             "Kiki Quinn"
         ],
-        "Busy": [
-            "Eric Pham",
-            "Steven Pham",
-            "Kevin Sokphat"
-        ]
+        "Busy": []
     },
-    "Logan and Henry": {
+    "David Zhu": {
         "Free": [
+            "Khang Cao",
             "Kiki Quinn",
-            "Jayden Ly",
-            "Vy Hoang",
-            "Dominic Nguyen",
             "John Pham",
+            "Dominic Nguyen",
             "Jason Nguyen"
         ],
         "Maybe": [
-            "Steven Pham"
+            "Peter Nguyen"
         ],
-        "Busy": [
-            "Eric Pham",
-            "Kevin Sokphat"
-        ]
+        "Busy": []
     }
 }

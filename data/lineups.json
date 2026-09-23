@@ -1,24 +1,5 @@
 [
     {
-        "name": "World Cultural Festival",
-        "type": "Cultural Event",
-        "date": "September 24th, 2026",
-        "day": "Thursday",
-        "start": "5:45 PM",
-        "arrive": "5:15 PM",
-        "location": "Wake Forest University, NC",
-        "performers": {
-            "Band": [
-                "Jason Nguyen",
-                "Vy Hoang"
-            ],
-            "Lion 1": [
-                "John Pham",
-                "Kevin Sokphat"
-            ]
-        }
-    },
-    {
         "name": "Maggie Xing",
         "type": "Cultural Event",
         "date": "October 2nd, 2026",
@@ -30,10 +11,10 @@
         "performers": {
             "Band": [
                 "Jason Nguyen",
-                "TBD"
+                "Jayden Ly"
             ],
             "Lion 1": [
-                "Jayden Ly",
+                "Peter Nguyen",
                 "Dominic Nguyen"
             ],
             "Lion 2": [
@@ -98,18 +79,27 @@
         "start": "6:30 PM",
         "arrive": "6:00 AM",
         "location": "701 Keswick Avenue #110, Charlotte, NC",
-        "extra": "2 Hr 30 Min Drive+, PERFORMANCE NOT CONFIRMED",
+        "extra": "PERFORMANCE CANCELED",
+        "performers": {
+            "": []
+        }
+    },
+    {
+        "name": "Lakelin Palmer",
+        "type": "Wedding Ceremony",
+        "date": "October 10th, 2026",
+        "day": "Saturday",
+        "start": "TBD",
+        "arrive": "TBD",
+        "location": "1187 New Era Rd, Sevierville, TN",
+        "extra": "Tennessee, PERFORMANCE NOT CONFIRMED",
         "performers": {
             "Band": [
                 "Jason Nguyen",
-                "Kiki Quinn"
-            ],
-            "Lion 1": [
-                "Jayden Ly",
                 "John Pham"
             ],
-            "Lion 2": [
-                "Steven Pham",
+            "Lion 1": [
+                "Peter Nguyen",
                 "Dominic Nguyen"
             ]
         }
@@ -135,6 +125,25 @@
         }
     },
     {
+        "name": "World Cultural Festival",
+        "type": "Cultural Event",
+        "date": "October 22nd, 2026",
+        "day": "Thursday",
+        "start": "5:45 PM",
+        "arrive": "5:15 PM",
+        "location": "Wake Forest University, NC",
+        "performers": {
+            "Band": [
+                "Jason Nguyen",
+                "Vy Hoang"
+            ],
+            "Lion 1": [
+                "John Pham",
+                "Kevin Sokphat"
+            ]
+        }
+    },
+    {
         "name": "Logan and Henry Wedding",
         "type": "Wedding",
         "date": "October 24th, 2026",
@@ -151,6 +160,25 @@
             "Lion 1": [
                 "John Pham",
                 "Dominic Nguyen"
+            ]
+        }
+    },
+    {
+        "name": "David Zhu",
+        "type": "Vow Renewal Ceremony",
+        "date": "November 8th, 2026",
+        "day": "Sunday",
+        "start": "TBD",
+        "arrive": "TBD",
+        "location": "6644 Cornwallis Rd, Garner, NC",
+        "performers": {
+            "Band": [
+                "Jason Nguyen",
+                "Kiki Quinn"
+            ],
+            "Lion 1": [
+                "Khang Cao",
+                "John Pham"
             ]
         }
     }

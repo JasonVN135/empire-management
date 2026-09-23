@@ -1,21 +1,12 @@
 [
     {
-        "name": "Lakelin Palmer",
+        "name": "Katrina's Wedding",
         "type": "Wedding Ceremony",
-        "date": "October 10th, 2026",
+        "date": "December 12th, 2026",
         "day": "Saturday",
-        "start": "TBD",
-        "arrive": "TBD",
-        "location": "1187 New Era Rd, Sevierville, TN",
-        "extra": "Tennessee, PERFORMANCE NOT CONFIRMED"
-    },
-        {
-        "name": "David Zhu",
-        "type": "Vow Renewal Ceremony",
-        "date": "November 8th, 2026",
-        "day": "Sunday",
-        "start": "TBD",
-        "arrive": "TBD",
-        "location": "6644 Cornwallis Rd, Garner, NC"
+        "start": "5:00 PM",
+        "arrive": "4:15 PM",
+        "location": "105 Orange St, Wilmington NC",
+        "extra": "2 HR Drive"
     }
 ]
