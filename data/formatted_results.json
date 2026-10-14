@@ -1,27 +1,17 @@
 {
-    "Lakelin Palmer": {
+    "Katrina's Wedding": {
         "Free": [
-            "Khang Cao",
-            "Peter Nguyen",
             "John Pham",
-            "Dominic Nguyen",
-            "Jason Nguyen"
-        ],
-        "Maybe": [
-            "Kiki Quinn"
-        ],
-        "Busy": []
-    },
-    "David Zhu": {
-        "Free": [
+            "Vy Hoang",
             "Khang Cao",
             "Kiki Quinn",
-            "John Pham",
+            "Peter Nguyen",
             "Dominic Nguyen",
+            "Steven Pham",
             "Jason Nguyen"
         ],
         "Maybe": [
-            "Peter Nguyen"
+            "Kevin Sokphat"
         ],
         "Busy": []
     }

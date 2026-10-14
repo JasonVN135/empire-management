@@ -1,12 +1,12 @@
 [
     {
-        "name": "Katrina's Wedding",
-        "type": "Wedding Ceremony",
-        "date": "December 12th, 2026",
-        "day": "Saturday",
-        "start": "5:00 PM",
-        "arrive": "4:15 PM",
-        "location": "105 Orange St, Wilmington NC",
-        "extra": "2 Hr Drive+"
+        "name": "Chapel Hill Cooperative Preschool",
+        "type": "School Event",
+        "date": "February 5th, 2027",
+        "day": "Friday",
+        "start": "10:00 AM",
+        "arrive": "9:30 AM",
+        "location": "108 Mt Carmel Church Rd, Chapel Hill, NC",
+        "extra": "45 Min Drive+"
     }
 ]
