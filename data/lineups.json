@@ -1,50 +1,11 @@
 [
     {
-        "name": "World Cultural Festival",
-        "type": "Cultural Event",
-        "date": "October 22nd, 2026",
-        "day": "Thursday",
-        "start": "5:45 PM",
-        "arrive": "5:15 PM",
-        "location": "Wake Forest University, NC",
-        "performers": {
-            "Band": [
-                "Jason Nguyen",
-                "Vy Hoang"
-            ],
-            "Lion 1": [
-                "John Pham",
-                "Kevin Sokphat"
-            ]
-        }
-    },
-    {
-        "name": "Logan and Henry Wedding",
-        "type": "Wedding",
-        "date": "October 24th, 2026",
-        "day": "Saturday",
-        "start": "5:00 PM",
-        "arrive": "4:15 PM",
-        "location": "5575 Bradford Meadows Lane, Winston-Salem, NC",
-        "extra": "1 Hr 40 Min Drive+",
-        "performers": {
-            "Band": [
-                "Jason Nguyen",
-                "Kiki Quinn"
-            ],
-            "Lion 1": [
-                "John Pham",
-                "Dominic Nguyen"
-            ]
-        }
-    },
-    {
         "name": "David Zhu",
         "type": "Vow Renewal Ceremony",
         "date": "November 8th, 2026",
         "day": "Sunday",
-        "start": "TBD",
-        "arrive": "TBD",
+        "start": "4:15 PM",
+        "arrive": "5:00 PM",
         "location": "6644 Cornwallis Rd, Garner, NC",
         "performers": {
             "Band": [
@@ -52,7 +13,7 @@
                 "Kiki Quinn"
             ],
             "Lion 1": [
-                "Khang Cao",
+                "Peter Nguyen",
                 "John Pham"
             ]
         }
