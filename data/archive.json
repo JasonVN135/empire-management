@@ -1005,8 +1005,8 @@
         "type": "Wedding",
         "date": "October 24th, 2026",
         "day": "Saturday",
-        "start": "4:15 PM",
-        "arrive": "5:00 PM",
+        "start": "5:00 PM",
+        "arrive": "4:15 PM",
         "location": "5575 Bradford Meadows Lane, Winston-Salem, NC",
         "extra": "1 Hr 40 Min Drive+",
         "performers": {
